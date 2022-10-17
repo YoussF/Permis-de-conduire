@@ -242,3 +242,11 @@ Sysnonymes:
   - lpg
   - Diesel ayant un faible taux de souffre.
 - Le carburnat le plus mauvais plus l'environement est le diesel rouge. 
+
+## Utilisation du Klaxon
+- Autoriser en cas de danger imminenet seulement
+- Autoriser hors agglomération pour dépasser de jours (la nuit utiliser les appels de phares)
+
+## Passae a niveau
+- Avec barrière: je peux dépasser tout le monde.
+- Sans barrière: je peux dépasser que le cycliste.
