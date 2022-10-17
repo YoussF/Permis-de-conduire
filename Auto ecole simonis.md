@@ -81,7 +81,7 @@ Sites:
 - Permis de conduire
 ### Sur autoroute
 - Max 120KM/h
-- Min 90KM/h
+- Min 70KM/h
 - La Vitesse d'insertion minimale est de 70KM/h, l'insertion doit se faire le plus tôt possible.
 - En cas de panne:
   - Activé les feux de détresse
