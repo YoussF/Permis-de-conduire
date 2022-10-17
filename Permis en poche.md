@@ -257,3 +257,7 @@ Sysnonymes:
     - Sans feu: 5mètres en dessas.
 - Passage pieton: 5mètres en dessas
 - Arrêt de bus: 15m avant et après l'arrêt.
+
+## Embouteillage:
+- Vous pouvez dépasser par la gauche ou par la droite
+- Allumer les feux de detresse.
