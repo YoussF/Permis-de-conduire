@@ -250,3 +250,10 @@ Sysnonymes:
 ## Passae a niveau
 - Avec barrière: je peux dépasser tout le monde.
 - Sans barrière: je peux dépasser que le cycliste.
+
+## Stationnement:
+- Au carrefour:
+    - Avec feu: 20mètres en dessas.
+    - Sans feu: 5mètres en dessas.
+- Passage pieton: 5mètres en dessas
+- Arrêt de bus: 15m avant et après l'arrêt.
