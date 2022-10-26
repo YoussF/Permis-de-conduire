@@ -62,6 +62,10 @@ Sites:
   ![](distances.jpg)
 - Synthèse générale des vitesse :
   ![](synth§es%20générales%20vitesse.jpg)
+
+  - Distace d'arrêt: Pour calculer la distance d’arrêt, vous devez multiplier le chiffre des dizaines par lui-même. Dans ce cas-ci, en multipliant 10x10, j'obtiens +- 100 mètres (supérieur à 70 m).
+  - Distance de sécuriter: Pour calculer la distance de sécurité, vous devez diviser votre vitesse par 2. Dans ce cas-ci, en divisant 120 par 2, j'obtiens 60 m
+  - Distane de reaction: Pour calculer la distance de réaction, vous devez multiplier le chiffre des dizaines de la vitesse par 3. Par conséquent: 50 km/h : 5 x 3 = 15 m. Vous parcourez donc 15 m sans réagir.
 ### Feux de détresse:
 - En cas de panne.
 - Accident.

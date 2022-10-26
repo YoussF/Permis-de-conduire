@@ -68,7 +68,7 @@ Sysnonymes:
     - Plus de 30km le permis peux doit retirer
  - en hors agglo: si la vetesse
     - Plus de 30km le permis peux être retirer
-    - Plus de 30km le permis peux doit retirer
+    - Plus de 40km le permis doit être retirer
 - Arret sur un passage a niveau
 
 ## Zone d'évitement
@@ -261,3 +261,65 @@ Sysnonymes:
 ## Embouteillage:
 - Vous pouvez dépasser par la gauche ou par la droite
 - Allumer les feux de detresse.
+
+## Positionnement des pneus radiaux/diagonaux (avant / arrière):
+- R / R 
+- D / D
+- D / R
+
+## Raineurs des pneus:
+- Les rainures permettens d'écavuter l'eau. Elle ont une profondeure minimale d'1.6mm.
+- La pression des pneus se vérifie a froid.
+
+## Pneu a chaine
+- Vitesse max 50km
+- interdit sur l'autoroute
+- a utliser suelement sur la neige ou si verglas.
+## Pneu a clou
+- Que du 1er novembre au 31 mars
+
+
+## ABS (Anti Bloquage Systeme)
+- Avec l'ABS la voiture reste contrôlable.
+- lorsque le temoin est allumé en jaune: dysfonctionnement mais autorisé a rouler.
+- lorsque le temoin est allumé en route: aller voir garagiste peux plus roule.
+
+## ESP
+- Sert a reduire les risque de déragpage dans les virages.
+
+## Distance d'arrêt
+- Distance d'arret = temps de reaction + distance de freinage.
+- Sur route séche la distance d'arrêt est plus court
+- Sur route mouillé la distance d'arrêt est plus longue.
+- Sur sol 2sec, faire moin 20 par rapport a la vitesse de circulation.
+
+## Distance de sécurité
+- Diviser par 2
+
+## Chaussé glissante
+- Relâchez la pédale.
+
+## Pietons
+- le pietons est prioritaire seulement sur le passage pour pieton ou si j'éffectue une manoeuvre (même si pas de passage pour pietons).
+
+## Rond point et clignotant
+- Lorsque je m'engage dans un rond point je peux mettre mon clignotant, mais je doit le mettre seulement si je sort a la première sortie.
+- Il est obligatoire de mettre le clignotant lorsque je quitte le rond point.
+
+## Le bus quitte son arrêt
+- en agglo: il a prio
+- hors agglo: il a pas prio
+
+## Le bus arrête a un arrêt:
+- Si pas de passage pour pieton devant: dépasser a allure modérer.
+- Si il y a un passage pour pieton: interdiction de dépasser.
+
+## Lignes jaunes sur le trotoires
+- Continues: ni s'arreter ni stationner
+- discontinue: pas stationner, peux s'arrêter.
+
+## Eclairage
+- Feux de croismeent = eclairage normal
+- Grand phares (feux de route) autoriser jusqu'a max 50m.
+- feux de brouillard: obligé à l'arrière.
+
