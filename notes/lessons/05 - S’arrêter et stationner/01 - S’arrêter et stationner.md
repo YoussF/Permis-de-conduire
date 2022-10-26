@@ -33,7 +33,7 @@
 
 - Ni avant ni après (c'est interdit).
 - Après le panneau.
-- **Avant le panneau.**
+- ***Avant le panneau.***
 
 > Les panneaux d’interdiction d’arrêt et de stationnement peuvent être accompagnés de panneaux additionnels. Dans ce cas, il est interdit de s'arrêter et de stationner au-delà de ce panneau. Avant le panneau, vous pouvez donc stationner.
 
@@ -45,7 +45,7 @@
 
 ### Vous êtes en agglomération. Pouvez-vous stationner sur l'accotement sur la droite ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > En agglomération, les véhicules en stationnement doivent être rangés sur l'accotement de plain-pied. En revanche, hors agglomération, le stationnement est autorisé sur tous accotements.
@@ -59,7 +59,7 @@
 ### Vous vous mettez sur le côté quelques instants pour régler votre GPS. Vous êtes …
 
 - Immobiliser.
-- **En stationnement.**
+- ***En stationnement.***
 - à l'arrêt.
 
 > L'arrêt est le temps nécessaire pour embarquer ou débarquer des passagers ou des marchandises. Par conséquent, il s'agit dans cet exemple d'un stationnement et non d'un simple arrêt.
@@ -73,7 +73,7 @@
 ### Une flèche additionnelle vers le bas indique …
 
 - Le début de la réglementation.
-- **La fin de la réglementation.**
+- ***La fin de la réglementation.***
 
 > Une flèche qui pointe vers le bas (en deçà) indique la fin de l'interdiction.
 
@@ -86,7 +86,7 @@
 ### Ce véhicule est …
 
 - En stationnement.
-- **à l'arrêt.**
+- ***à l'arrêt.***
 - Immobiliser.
 
 > L'arrêt est le temps nécessaire pour embarquer ou débarquer des passagers ou des marchandises. Par conséquent, il s'agit dans cet exemple d'un simple arrêt (même si cet arrêt doit prendre 6h).
@@ -99,7 +99,7 @@
 
 ### Dans une zone à stationnement interdit, vous pouvez vous arrêter le temps d'acheter du pain à la boulangerie.
 
-- **Non**
+- ***Non***
 - Oui
 
 > Dans une zone à stationnement interdit, vous ne pouvez pas vous arrêter pour aller dans un commerce, même pour une courte durée. Mais, vous pouvez vous arrêter le temps qu'un passager descende.
@@ -112,7 +112,7 @@
 
 ### Ces lignes blanches indiquent des emplacements de stationnement.
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Ces lignes blanches délimitent des bandes de stationnements.
@@ -126,7 +126,7 @@
 ### Vous descendez de votre véhicule pour aller à la boulangerie. Il s'agit …
 
 - Un arrêt.
-- **Un stationnement.**
+- ***Un stationnement.***
 
 > Stationner signifie s’arrêter pour un temps plus long que celui nécessaire pour embarquer/débarquer des passagers ou charger/décharger des marchandises.
 
@@ -138,7 +138,7 @@
 
 ### Pouvez-vous stationner sur cet accotement de plain-pied ?
 
-- **Oui, en agglomération et hors agglomération.**
+- ***Oui, en agglomération et hors agglomération.***
 - Oui, seulement hors agglomération.
 - Oui, seulement en agglomération.
 
@@ -154,7 +154,7 @@
 
 - Peut stationner à gauche.
 - Ne peut pas stationner à gauche.
-- **Peut s'arrêter et stationner à gauche.**
+- ***Peut s'arrêter et stationner à gauche.***
 
 > Sur une chaussée à sens unique, vous pouvez arrêter et stationner votre véhicule à gauche et à droite.
 
@@ -167,7 +167,7 @@
 ### Est-il interdit de stationner le long d’une chaussée divisée en bandes de circulation ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Sur une chaussée divisée en bandes de circulation, le stationnement est interdit. Seul l’arrêt est autorisé. Sauf, si des panneaux l’autorisent bien évidemment. 
 
@@ -180,7 +180,7 @@
 ### Pouvez-vous vous arrêter sur l'accotement (bande d'arrêt d'urgences) d'une autoroute pour régler votre GPS ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Sur autoroute, il est strictement interdit de s'arrêter et stationner.
 
@@ -193,7 +193,7 @@
 ### Pour vous garez en agglomération, vous utilisez l'accotement de plain-pied?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > En agglomération, les véhicules en stationnement doivent être rangés sur l'accotement de plain-pied.
 
@@ -207,7 +207,7 @@
 
 - Accotement en saillie.
 - Accotement de plain-pied.
-- **Sur tout accotement (plain-pied et en saillie).**
+- ***Sur tout accotement (plain-pied et en saillie).***
 
 > Hors agglomération, les véhicules en stationnement peuvent être rangés sur tous accotements.
 
@@ -220,7 +220,7 @@
 ### Le stationnement est interdit sur les trottoirs et sur les accotements en saillie en agglomération.
 
 - Non.
-- **Oui**
+- ***Oui***
 
 > En agglomération, il est interdit de mettre votre véhicule en stationnement sur les accotements en saillie.
 
@@ -233,7 +233,7 @@
 ### Vous êtes dans une zone résidentielle, vous pouvez ranger votre véhicule dans les 2 sens.
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Dans une zone résidentielle, vous êtes autorisé à stationner votre véhicule dans les 2 sens.
 
@@ -245,7 +245,7 @@
 
 ### Ce panneau indique …
 
-- **Interdiction d'arrêt et de stationnement.**
+- ***Interdiction d'arrêt et de stationnement.***
 - Interdiction de stationnement.
 - Interdiction d'arrêt.
 
@@ -259,7 +259,7 @@
 
 ### Ce panneau signifie…
 
-- **Interdiction de stationnement.**
+- ***Interdiction de stationnement.***
 - Interdiction d'arrêt et de stationnement.
 - Interdiction d'arrêt.
 
@@ -273,7 +273,7 @@
 
 ### En agglomération, pouvez-vous vous stationner sur tous accotements?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > En agglomération, les véhicules en stationnement doivent être rangés sur l'accotement de plain-pied.
@@ -288,7 +288,7 @@
 
 - C'est interdit.
 - C'est autorisé.
-- **Vous devez d'abord faire demi-tour.**
+- ***Vous devez d'abord faire demi-tour.***
 
 > Les véhicules à l’arrêt ou en stationnement doivent être rangés à droite par rapport au sens de la marche. Par conséquent, pour vous stationnez ici, vous devez au préalable faire demi-tour.
 
@@ -302,7 +302,7 @@
 
 - En stationnement.
 - à l'arrêt.
-- **Immobiliser.**
+- ***Immobiliser.***
 
 > En respectant la signalisation routière, vous n'êtes ni à l'arrêt ni en stationnement. Vous êtes simplement immobilisé.
 
@@ -314,7 +314,7 @@
 
 ### Vous désirez vous garer du côté gauche de cette chaussée à sens unique …
 
-- **C'est autorisé.**
+- ***C'est autorisé.***
 - C'est interdit.
 
 > Votre voiture peut être rangée à droite ou à gauche sur une chaussée à sens unique.

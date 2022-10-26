@@ -29,7 +29,7 @@
 
 - La voiture grise.
 - La voiture jaune.
-- **Les 2 voitures.**
+- ***Les 2 voitures.***
 
 > La voiture grise et la voiture jaune voient l'agent qualifié de profil. Par conséquent, elles peuvent toutes les 2 continuer tout droit, tourner à gauche et à droite. Les injonctions de l'agent de police prévalent sur le feu rouge.
 
@@ -43,7 +43,7 @@
 
 - Oui, elle peut seulement aller tout droit.
 - Non.
-- **Oui, elle peut tourner à droite et à gauche ou aller tout droit**
+- ***Oui, elle peut tourner à droite et à gauche ou aller tout droit***
 
 > La voiture grise voit l'agent qualifié de profil. Par conséquent, elle peut continuer tout droit, tourner à gauche et à droite. C'est l'équivalent d'un feu vert.
 
@@ -56,7 +56,7 @@
 ### Vous voyez l'agent de police de profil et il tend les bras. Que pouvez-vous faire ?
 
 - Obligation de s'arrêter.
-- **Autorisation de continuer tout droit, aller à droite ou à gauche.**
+- ***Autorisation de continuer tout droit, aller à droite ou à gauche.***
 - Obligation de continuer tout droit.
 
 > L’agent de police est de profil. Par conséquent, vous pouvez continuer tout droite, tourner à gauche ou  à droite. C'est l'équivalent d'un feu vert.
@@ -69,7 +69,7 @@
 
 ### Un agent utilise son sifflet. Cela signifie…
 
-- **L'agent attire seulement l'attention des conducteurs.**
+- ***L'agent attire seulement l'attention des conducteurs.***
 - Le signal sonore (sifflet) est une injonction.
 - Tout le monde doit s'arrêter.
 
@@ -84,7 +84,7 @@
 ### La voiture grise peut-elle  tourner à droite ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > L'agent de police a le bras levé vers le haut. Cela signifie que tous les usagers doivent s'arrêter et ne peuvent pas s'engager dans le carrefour.
 
@@ -97,7 +97,7 @@
 ### La voiture grise est autorisée à tourner à droite ?
 
 - Oui
-- **Non**
+- ***Non***
 
 > L'agent de police est face à la voiture. Par conséquent, elle doit s'arrêter.
 
@@ -110,7 +110,7 @@
 ### Dans ce carrefour, que doit faire la voiture  ?
 
 - Continuer et marquer l'arrêt si besoin
-- **Continuer sans marquer l'arrêt**
+- ***Continuer sans marquer l'arrêt***
 - Respecter le panneau et marquer le STOP
 
 > Les injonctions des agents qualifiés prévalent sur les panneaux. Par conséquent, pas besoin de s'arrêter étant donné que l'agent de police autorise à traverser le carrefour.
@@ -125,7 +125,7 @@
 
 - Les piétons.
 - Les piétons et les conducteurs.
-- **Les piétons, les conducteurs et les véhicules sur rails.**
+- ***Les piétons, les conducteurs et les véhicules sur rails.***
 
 > Lorsque l'agent de police a un bras levé vers le haut, cela signifie que tous les usagers doivent s'arrêter. C’est-à-dire, les piétons, les cyclistes, les conducteurs et bien évidement les véhicules sur rails. 
 
@@ -137,7 +137,7 @@
 
 ### À cette intersection, le cycliste peut continuer tout droit ?
 
-- **Oui**
+- ***Oui***
 - Non
 
 > Le cycliste voit l’agent de police de profil. Par conséquent, il peut continuer sa route. C’est l’équivalent d’un feu vert. 
@@ -151,7 +151,7 @@
 ### Le bras levé verticalement d'un agent qualifié signifie...
 
 - Arrêt pour tous les conducteurs sauf ceux déjà engagés dans le carrefour.
-- **Arrêt de tous les usagers sauf ceux déjà engagés dans le carrefour.**
+- ***Arrêt de tous les usagers sauf ceux déjà engagés dans le carrefour.***
 - Arrêt de tous les usagers.
 
 > Lorsque l'agent de police a un bras levé vers le haut, cela signifie que tous les usagers doivent s'arrêter et ne peuvent pas s'engager dans le carrefour. Cependant, les usagers déjà engagés dans le carrefour doivent le dégager au plus vite. 
@@ -166,7 +166,7 @@
 
 - Oui, elle peut seulement aller tout droit.
 - Non.
-- **Oui, elle peut tourner à droite et à gauche ou aller tout droit**
+- ***Oui, elle peut tourner à droite et à gauche ou aller tout droit***
 
 > La voiture grise voit l'agent qualifié de profil. Par conséquent, elle peut continuer tout droit, tourner à gauche et à droite. C'est l'équivalent d'un feu vert.
 
@@ -179,7 +179,7 @@
 ### Le fait que l'agent tend un bras ou 2 bras horizontalement signifie la même chose ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Le fait que l'agent de police tend 1 ou 2 bras ne change rien. En effet, l'injonction reste la même.
 
@@ -192,7 +192,7 @@
 ### Le conducteur de la voiture rose doit s'arrêter.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > L'agent de police est face à la voiture. Par conséquent, elle doit s'arrêter.
 
@@ -204,7 +204,7 @@
 
 ### L'agent tend un bras verticalement. Cela signifie que …
 
-- **Tous les usagers doivent s'arrêter. Ceux qui sont déjà dans le carrefour doivent le dégager.**
+- ***Tous les usagers doivent s'arrêter. Ceux qui sont déjà dans le carrefour doivent le dégager.***
 - Tous les usagers doivent s'arrêter. Même ceux qui sont déjà dans le carrefour doivent s'arrêter.
 - Tous les conducteurs doivent s'arrêter.
 
@@ -218,7 +218,7 @@
 
 ### Est-ce qu'un tram doit tenir compte des injonctions d'un agent qualifié ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Le tram est lui aussi soumis aux injonctions des agents qualifiés.
@@ -232,7 +232,7 @@
 ### Un véhicule de police avec le gyrophare (feux bleus) allumé. Devez-vous lui céder le passage ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Lorsque qu’un véhicule prioritaire effectue une mission urgente avec la sirène et le gyrophare (feux bleus) allumés, alors vous devez lui céder le passage. Dans ce cas, comme seul le gyrophare est allumé, vous ne devez pas céder le passage.
 
@@ -245,7 +245,7 @@
 ### Une ambulance a les feux bleus clignotants et la sirène allumés. Que devez-vous faire ?
 
 - Vous continuer en accélérant.
-- **Dégager la voie et cédez le passage.**
+- ***Dégager la voie et cédez le passage.***
 - Circuler normalement.
 
 > Lorsque qu’un véhicule prioritaire effectue une mission urgente, sirène et feux bleus allumés, vous devez immédiatement dégager la voie et céder le passage.
@@ -258,7 +258,7 @@
 
 ### Le Code de la route impose la hiérarchie suivante
 
-- **B - A - C**
+- ***B - A - C***
 - B - C - A
 - C - A - B
 

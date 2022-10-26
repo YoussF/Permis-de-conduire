@@ -29,7 +29,7 @@
 ### Un virage approche, à quel moment devez-vous freiner ?
 
 - À la fin du virage.
-- **Avant le virage.**
+- ***Avant le virage.***
 - Dans le virage.
 
 > Pour des raisons de sécurité, vous devez freiner (ralentir) avant d'entamer votre virage.
@@ -43,7 +43,7 @@
 ### Laissez vos feux de croisement allumés toute la nuit déchargera votre batterie.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Laissez vos feux de croisement allumés toute la nuit déchargera votre batterie et vous empêchera de démarrer votre voiture le lendemain.
 
@@ -56,7 +56,7 @@
 ### Le témoin ABS de couleur orange reste allumé lorsque vous roulez. Comment devez-vous réagir ?
 
 - Vous devez vous arrêter immédiatement et appeler un dépanneur.
-- **Vous devez aller voir votre garagiste.**
+- ***Vous devez aller voir votre garagiste.***
 - Vous pouvez continuer à rouler sans problème.
 
 > Témoin d'alerte (orange). Vous pouvez continuer votre route si vous ne devez pas faire un long trajet. Mais à vérifier chez votre garagiste sans tarder, quelque chose cloche !
@@ -70,7 +70,7 @@
 ### Après avoir changé de vitesse, où mettez-vous votre pied gauche ?
 
 - Au-dessus de la pédale d'embrayage.
-- **Sur le repose-pied.**
+- ***Sur le repose-pied.***
 - En-dessous de la pédale d'embrayage.
 
 > Une fois le changement de vitesse effectué, ne laissez pas votre pied sur la pédale d’embrayage. Déposez-le sur le repose-pied !
@@ -84,7 +84,7 @@
 ### Quel est le rôle du liquide de refroidissement ?
 
 - Permet de polluer moins.
-- **Permet de maintenir une température constante du moteur.**
+- ***Permet de maintenir une température constante du moteur.***
 - Permet d'avoir de la climatisation.
 
 > Le moteur chauffe très vite et il faut éviter qu’il surchauffe. Par conséquent, on incorpore du liquide de refroidissement qui a pour rôle de le refroidir.
@@ -98,7 +98,7 @@
 ### Comment devez-vous freiner avec une voiture munie d'un système de freinage ABS?
 
 - Il faut appuyer en pompant sur la pédale de frein.
-- **Il faut appuyer fortement sur la pédale de frein.**
+- ***Il faut appuyer fortement sur la pédale de frein.***
 - Il faut appuyer doucement sur la pédale de frein.
 
 > Il faut appuyer fortement sur la pédale de frein avec une voiture munie d'un système de freinage ABS.
@@ -112,7 +112,7 @@
 ### Que contient ce récipient ?
 
 - L'huile moteur.
-- **Le liquide de frein.**
+- ***Le liquide de frein.***
 - Le liquide de refroidissement.
 
 > Le liquide de frein.
@@ -126,7 +126,7 @@
 ### À quel moment votre voiture consomme le plus d'huile ?
 
 - Lorsque vous roulez les fenêtres ouvertes.
-- **Lorsque vous démarrez votre moteur à froid.**
+- ***Lorsque vous démarrez votre moteur à froid.***
 - Lorsque vous roulez à 120 km/h.
 
 > Votre voiture consomme plus d'huile lorsque vous démarrez votre moteur à froid.
@@ -139,7 +139,7 @@
 
 ### Le témoin ABS de couleur rouge reste allumé lorsque vous roulez. Comment devez-vous réagir ?
 
-- **Vous devez vous arrêter immédiatement et appeler un dépanneur.**
+- ***Vous devez vous arrêter immédiatement et appeler un dépanneur.***
 - Vous devez aller voir votre garagiste.
 - Vous pouvez continuer à rouler sans problème.
 
@@ -155,7 +155,7 @@
 
 - ABS.
 - ASR.
-- **ESP.**
+- ***ESP.***
 
 > L’ESP (Electronic Stability Program) est un système qui a pour but de stabiliser votre véhicule lorsqu’elle dérape ou que vous avez effectué une mauvaise manœuvre.
 
@@ -169,7 +169,7 @@
 
 - La voiture se trouve sur un terrain plat et le moteur doit être chaud.
 - La voiture se trouve sur un terrain plat.
-- **La voiture se trouve sur un terrain plat et le moteur doit être froid.**
+- ***La voiture se trouve sur un terrain plat et le moteur doit être froid.***
 
 > Pour vérifier le niveau d’huile, il faut que la voiture se trouve sur un terrain plat et le moteur doit être froid.
 
@@ -182,7 +182,7 @@
 ### L'huile moteur permet de …
 
 - Lubrifier et refroidir le moteur.
-- **Lubrifier, refroidir et nettoyer le moteur.**
+- ***Lubrifier, refroidir et nettoyer le moteur.***
 - Lubrifier le moteur.
 
 > L’huile moteur a 3 fonctions. Elle permet de lubrifier, refroidir et nettoyer le moteur.
@@ -195,7 +195,7 @@
 
 ### Est-ce que l'ABS exerce une influence sur la distance de freinage ?
 
-- **Non, il n'exerce aucune influence.**
+- ***Non, il n'exerce aucune influence.***
 - Oui, il diminue la distance de freinage.
 - Oui, il augmente la distance de freinage.
 
@@ -210,7 +210,7 @@
 ### En cas de freinage brusque, lequel de ces systèmes vous permet de garder le contrôle de votre voiture ? 
 
 - ASR.
-- **ABS.**
+- ***ABS.***
 - ESP.
 
 > L’ABS est un système qui permet d’éviter le blocage des roues. En effet, en cas de freinage brusque, il évitera aux roues de se bloquer et de provoquer un accident.
@@ -224,7 +224,7 @@
 ### Le manque de liquide de refroidissement entraîne un risque de surchauffe du moteur.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Le liquide de refroidissement maintient une température correcte du moteur lorsqu'il fonctionne. Cela évite une surchauffe du moteur.
 
@@ -236,7 +236,7 @@
 
 ### Le contrôle du niveau de liquide de refroidissement doit se faire …
 
-- **Moteur froid.**
+- ***Moteur froid.***
 - Moteur chaud.
 - Peu importe.
 
@@ -252,7 +252,7 @@
 
 - Le liquide de frein.
 - L'huile moteur.
-- **Le liquide de refroidissement.**
+- ***Le liquide de refroidissement.***
 
 > Le liquide de refroidissement est de couleur rose.
 
@@ -266,7 +266,7 @@
 
 - Le temps n'influence pas les performances de la batterie.
 - L'été.
-- **L'hiver.**
+- ***L'hiver.***
 
 > Le froid a une influence négative sur le fonctionnement de votre batterie. En hiver, la batterie de votre voiture a plus de risque de tomber en panne.
 
@@ -280,7 +280,7 @@
 
 - Proche du maximum.
 - Proche du minimum.
-- **Entre le minimum et le maximum.**
+- ***Entre le minimum et le maximum.***
 
 > Le niveau d'huile doit se situer entre le minimum et le maximum.
 

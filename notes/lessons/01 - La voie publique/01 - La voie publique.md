@@ -22,7 +22,7 @@
 
 - Terrain non public.
 - Terrain public.
-- **La voie publique.**
+- ***La voie publique.***
 
 > Le Code de la route est d'application sur la voie publique.
 
@@ -36,7 +36,7 @@
 
 - Un accotement en saillie.
 - Un accotement de plain-pied.
-- **Une piste cyclable.**
+- ***Une piste cyclable.***
 
 > On parle ici d'une piste cyclable.
 
@@ -48,7 +48,7 @@
 
 ### Quel est cette partie de la voie publique ?
 
-- **L'accotement de plain-pied.**
+- ***L'accotement de plain-pied.***
 - Une bande de circulation.
 - L'accotement en saillie.
 
@@ -64,7 +64,7 @@
 
 - La voie publique.
 - La chaussée.
-- **La bande de circulation.**
+- ***La bande de circulation.***
 
 > C'est une bande de circulation.
 
@@ -76,7 +76,7 @@
 
 ### Qui sont les usagers de la voie publique ?
 
-- **Les piétons et les conducteurs.**
+- ***Les piétons et les conducteurs.***
 - Uniquement les conducteurs.
 - Uniquement les piétons.
 
@@ -90,7 +90,7 @@
 
 ### Votre motocyclette tombe en panne et vous décidez de la pousser. Par conséquent, vous êtes conducteur.
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Un usager qui pousse une motocyclette ou une voiture en panne est aussi considéré comme un conducteur. Il doit alors respecter le Code de la route.
@@ -103,7 +103,7 @@
 
 ### De quelle partie de la voie publique parle-t-on ici ?
 
-- **Un chemin de terre.**
+- ***Un chemin de terre.***
 - Une piste agricole.
 - Un sentier.
 
@@ -117,7 +117,7 @@
 
 ### Pouvez-vous vous rendre dans ce lieu ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Le terrain non public est un lieu où vous pouvez vous y rendre avec votre véhicule pour autant que vous ayez une raison, mais surtout la permission d’y aller. Dans ce cas, vous n'avez rien à y faire donc c'est interdit.
@@ -131,7 +131,7 @@
 ### Sur cette image, on parle d'un ...
 
 - Lieu public.
-- **Terrain public.**
+- ***Terrain public.***
 - Terrain non public.
 
 > Il s'agit d'un terrain public. En effet, c'est un lieu ouvert au public pour autant que vous ayez une raison d'y être.
@@ -144,7 +144,7 @@
 
 ### De quelle partie de la voie publique parle-t-on ici ?
 
-- **Un sentier.**
+- ***Un sentier.***
 - Un chemin de terre.
 - Une piste cyclable.
 
@@ -159,7 +159,7 @@
 ### Quel est cette partie de la voie publique ?
 
 - La voie publique.
-- **La chaussée.**
+- ***La chaussée.***
 - La bande de circulation.
 
 > Il s'agit de la chaussée.

@@ -50,7 +50,7 @@
 ### Ces panneaux ont-ils la même signification?
 
 - Non
-- **Oui**
+- ***Oui***
 
 > Ces deux panneaux ont la même signification et vous obligent à suivre le sens de la flèche.
 
@@ -63,7 +63,7 @@
 ### Quelle bande la voiture mauve doit-elle prendre ?
 
 - Bande 2
-- **Elle peut choisir**
+- ***Elle peut choisir***
 - Bande 1
 
 > En agglomération, vous pouvez choisir la bande de circulation qui convient le mieux à votre destination.
@@ -76,7 +76,7 @@
 
 ### Est-il autorisé à la voiture grise de tourner à gauche?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est le panneau qui l'autorise.
 - Oui, c'est l'agent qualifié qui l'autorise.
 
@@ -90,7 +90,7 @@
 
 ### Quels types de conducteurs ce panneau additionnel concerne-t-il ?
 
-- **Cyclistes et speed pedelecs.**
+- ***Cyclistes et speed pedelecs.***
 - Cyclistes, speed pedelecs et cyclomoteurs classe P.
 - Cyclistes
 
@@ -105,7 +105,7 @@
 ### Qui a la priorité?
 
 - Le piéton.
-- **La voiture.**
+- ***La voiture.***
 
 > Lorsqu'un piéton traverse devant vous en dehors d'un passage piétons et que vous ne changez pas de direction (manœuvre), vous avez la priorité.
 
@@ -118,7 +118,7 @@
 ### Quelle voiture peut s’engager en premier dans ce carrefour ?
 
 - La voiture grise
-- **La voiture mauve**
+- ***La voiture mauve***
 
 > La voiture grise fait une plus grande manœuvre (tourne large) que la voiture mauve. La voiture grise est obligée de céder le passage aux véhicules venant en sens inverse.
 
@@ -132,7 +132,7 @@
 
 - Grise-Rose-Jaune
 - Jaune-Grise-Rose
-- **Grise-Jaune-Rose**
+- ***Grise-Jaune-Rose***
 
 > La voiture grise est sur un voie prioritaire. La voiture jaune est aussi sur une voie prioritaire mais elle effectue une manœuvre. La voiture rose doit céder le passage à gauche et à droite.
 
@@ -145,7 +145,7 @@
 ### Qui a la priorité de passage ?
 
 - La moto.
-- **La voiture grise.**
+- ***La voiture grise.***
 
 > La moto effectue un changement de direction (manœuvre). Elle n'est donc pas prioritaire. La voiture grise est prioritaire, car elle est face à un panneau passage prioritaire et va tout droit.
 
@@ -159,7 +159,7 @@
 
 - La voiture jaune.
 - La moto.
-- **La voiture grise**
+- ***La voiture grise***
 
 > Les injonctions de l'agent qualifié prévalent sur le feu rouge. La voiture grise voit l'agent qualifié de profit (= feu vert) et va tout droit, elle est donc prioritaire.
 
@@ -172,7 +172,7 @@
 ### Comment réagir au-delà de ce panneau ?
 
 - Vous devez marquer le stop
-- **Vous pouvez continuer votre route**
+- ***Vous pouvez continuer votre route***
 - Vous devez céder le passage
 
 > Les signaux lumineux (feu rouge) prévalent sur les panneaux. Si le feu était en panne, alors vous devriez respecter le panneau STOP et marquer l'arrêt
@@ -185,7 +185,7 @@
 
 ### Quel panneau est un panneau d’indication?
 
-- **Celui de gauche**
+- ***Celui de gauche***
 - Les deux
 - Celui de droite
 
@@ -200,7 +200,7 @@
 ### Cette voiture peut-elle tourner à droite à ce carrefour ?
 
 - Non
-- **Oui**
+- ***Oui***
 
 > Ce panneau indique seulement une voie à sens unique. La voiture peut donc tourner à droite au carrefour.
 
@@ -212,7 +212,7 @@
 
 ### Pouvez-vous circuler sur le marquage routier pour tourner à droite ?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, vous pouvez
 - Oui, vous devez
 
@@ -227,7 +227,7 @@
 ### Le bus peut-il tourner à droite ?
 
 - Oui, il peut tourner à droite ou à gauche.
-- **Non, il doit.**
+- ***Non, il doit.***
 - Oui, il peut tourner à droite.
 
 > Le bus est face à un panneau d'obligation et est obligé de tourner à droite.
@@ -242,7 +242,7 @@
 
 - Oui, car elle est discontinue.
 - Oui, car elle est continue.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 
 > La ligne est continue! Il vous est interdit de la franchir.
 
@@ -256,7 +256,7 @@
 
 - À gauche
 - À droite
-- **Au choix**
+- ***Au choix***
 
 > Il n'y a aucun panneau qui vous oblige à suivre une direction spécifique.
 
@@ -269,7 +269,7 @@
 ### Qui a la priorité de passage ?
 
 - La voiture mauve
-- **La voiture grise**
+- ***La voiture grise***
 
 > La voiture grise va tout droit, elle est donc prioritaire malgré le panneau Stop. Le panneau Stop n'est d'application que si le feu est en panne. La voiture mauve fait un changement de direction (manœuvre), elle doit donc céder le passage.
 
@@ -282,7 +282,7 @@
 ### Qui a la priorité dans ce carrefour?
 
 - La voiture jaune.
-- **La voiture mauve.**
+- ***La voiture mauve.***
 
 > S’il n’y a pas d’agent qualifié, pas de feux de signalisation, pas de panneaux de priorité, la règle de prioritaire est applicable.
 
@@ -294,7 +294,7 @@
 
 ### Pouvez-vous franchir la ligne à votre droite pour sortir de l'autoroute ?
 
-- **Oui, car elle est discontinue.**
+- ***Oui, car elle est discontinue.***
 - Oui, car elle est continue.
 - Non, c'est interdit.
 
@@ -309,7 +309,7 @@
 ### Vous voulez tourner à droite à cette intersection. Comment s'y prendre ?
 
 - - Regarder le rétroviseur. - Freiner. - Allumer le feu indicateur de direction.
-- **- Regarder le rétroviseur. - Allumer le feu indicateur de direction. - Freiner.**
+- ***- Regarder le rétroviseur. - Allumer le feu indicateur de direction. - Freiner.***
 - - Allumer le feu indicateur de direction. - Regarder le rétroviseur. - Freiner.
 
 > 1.Regarder le rétroviseur pour tenir compte des possibilités de ralentissement de ceux qui sont derrière vous. 2.Montrer votre intention en allumant l’indicateur de direction (clignotant). 3. Ralentir ensuite tourner.
@@ -322,7 +322,7 @@
 
 ### Quel conducteur peut s’engager en premier dans ce carrefour?
 
-- **La moto.**
+- ***La moto.***
 - La voiture grise.
 - La voiture jaune.
 
@@ -337,7 +337,7 @@
 ### Quelle direction vous ne pouvez pas prendre ?
 
 - Ni à gauche, ni à droite
-- **À droite**
+- ***À droite***
 - À gauche
 
 > Le panneau d'interdiction (rond) à votre droite, vous interdit de tourner à droite au prochain carrefour.
@@ -352,7 +352,7 @@
 
 - La voiture grise.
 - La voiture jaune.
-- **La voiture rose.**
+- ***La voiture rose.***
 
 > Les injonctions de l'agent qualifié prévalent sur le feu rouge. La voiture rose voit l'agent de police de profit (=feu vert). Elle peut alors s'engager en premier.
 
@@ -366,7 +366,7 @@
 
 - Oui car il change de direction
 - Oui, le panneau vous l'oblige.
-- **Non, vous êtes prioritaire.**
+- ***Non, vous êtes prioritaire.***
 
 > Les signaux lumineux (feu rouge) prévalent sur les panneaux. Si le feu était en panne, alors vous devrez respecter le panneau et céder le passage.
 
@@ -379,7 +379,7 @@
 ### Qui a la priorité de passage?
 
 - La voiture grise.
-- **Le piéton.**
+- ***Le piéton.***
 
 > Lorsqu'un piéton traverse devant vous en dehors d'un passage et que vous changez de direction (manœuvre), le piéton a la priorité.
 
@@ -392,7 +392,7 @@
 ### Êtes-vous face à un rond-point ?
 
 - Oui
-- **Non**
+- ***Non***
 
 > Pour que ce soit un rond-point, il faut le panneau giratoire et le panneau  triangulaire céder le passage.
 
@@ -404,7 +404,7 @@
 
 ### Dans quel ordre ces voitures doivent-elles s’engager dans ce carrefour ?
 
-- **Grise-Jaune-Rose**
+- ***Grise-Jaune-Rose***
 - Grise-Rose-Jaune
 - Rose-Jaune-Grise
 
@@ -420,7 +420,7 @@
 
 - La voiture jaune.
 - La voiture rose.
-- **La voiture grise.**
+- ***La voiture grise.***
 
 > La voiture grise voit l'agent de police de profit (= feu vert). Elle peut alors s'engager en premier.
 
@@ -432,7 +432,7 @@
 
 ### Quelle direction la voiture noire peut-elle prendre ?
 
-- **Seulement aller tout droit**
+- ***Seulement aller tout droit***
 - Au choix
 - Seulement à droite
 
@@ -447,7 +447,7 @@
 ### Quel conducteur peut s’engager en premier dans ce carrefour ?
 
 - La voiture grise.
-- **La voiture rose**
+- ***La voiture rose***
 - La voiture jaune.
 
 > La voiture rose est face à un panneau passage prioritaire. Elle est donc prioritaire sur les conducteurs de gauche et de droite.
@@ -461,7 +461,7 @@
 ### Qui a la priorité?
 
 - La voiture jaune.
-- **La voiture grise.**
+- ***La voiture grise.***
 
 > Les signaux lumineux (feu rouge) prévalent sur les panneaux. Si le feu était en panne, alors vous devriez respecter le panneau et céder le passage.
 
@@ -474,7 +474,7 @@
 ### Qui a la priorité?
 
 - La voiture.
-- **Le piéton.**
+- ***Le piéton.***
 
 > Le piéton traverse la chaussée sur le passage piéton, il est donc prioritaire.
 
@@ -487,7 +487,7 @@
 ### Quel conducteur peut s’engager en premier dans ce carrefour ?
 
 - La voiture jaune
-- **La moto**
+- ***La moto***
 - La voiture grise
 
 > Les signaux lumineux (feu rouge) prévalent sur les règles de priorité. La moto a un feu vert, elle est donc prioritaire.
@@ -500,7 +500,7 @@
 
 ### Dans quel ordre les conducteurs peuvent-ils s’engager dans ce carrefour ?
 
-- **Cycliste - Voiture Rose - Voiture Grise**
+- ***Cycliste - Voiture Rose - Voiture Grise***
 - Voiture Rose - Cycliste - Voiture Grise
 - Voiture Rose - Voiture Grise - Cycliste
 
@@ -516,7 +516,7 @@
 
 - Lorsque vous roulez tout droit.
 - Lorsque vous ouvrez le capot.
-- **Lorsque vous changez de direction.**
+- ***Lorsque vous changez de direction.***
 
 > L'angle mort est un angle que vous ne pouvez pas voir à l’aide de votre rétroviseur. 
 Vous devez tourner légèrement votre tête pour vérifier qu’il n’y ai aucun usager. L’angle mort doit être contrôler lors de chaque changement de direction ou de bande de circulation.
@@ -531,7 +531,7 @@ Vous devez tourner légèrement votre tête pour vérifier qu’il n’y ai aucu
 ### Quel usager devra s’engager en dernier dans ce carrefour ?
 
 - Le piéton
-- **La voiture grise.**
+- ***La voiture grise.***
 - La voiture mauve.
 
 > Le piéton est prioritaire sur la voiture mauve car il se trouve sur un passage piéton. La voiture mauve est prioritaire sur la voiture grise car c'est un carrefour à priorité de droite.
@@ -545,7 +545,7 @@ Vous devez tourner légèrement votre tête pour vérifier qu’il n’y ai aucu
 ### Dans quel ordre ces usagers doivent-ils s’engager dans ce carrefour ?
 
 - Voiture-Piéton-Cycliste
-- **Piéton-Cycliste-Voiture**
+- ***Piéton-Cycliste-Voiture***
 - Piéton-Voiture-Cycliste
 
 > Le piéton est toujours prioritaire lorsqu'il traverse sur un passage piétons. Ensuite, la priorité de droite est applicable car il n'y pas de panneaux de priorité. Le cycliste est prioritaire sur la voiture.
@@ -559,7 +559,7 @@ Vous devez tourner légèrement votre tête pour vérifier qu’il n’y ai aucu
 ### La voiture rose est autorisée à tourner à gauche ?
 
 - Non, c'est un sens interdit.
-- **Oui**
+- ***Oui***
 
 > Le panneau bleu est un panneau qui oblige seulement la voiture grise à aller tout droit. La voiture rose a le choix d'aller à gauche ou à droite.
 
@@ -573,7 +573,7 @@ Vous devez tourner légèrement votre tête pour vérifier qu’il n’y ai aucu
 
 - Aller tout droit.
 - Tourner à gauche.
-- **Tourner à droite.**
+- ***Tourner à droite.***
 
 > Le panneau d'obligation vous oblige à aller tout droit ou tourner à gauche. Tourner à droite est interdit.
 
@@ -585,7 +585,7 @@ Vous devez tourner légèrement votre tête pour vérifier qu’il n’y ai aucu
 
 ### Qui a la priorité de passage ?
 
-- **La voiture mauve**
+- ***La voiture mauve***
 - La voiture grise
 
 > La voiture grise fait une plus grande manœuvre (tourne large) que la voiture mauve. La voiture grise est obligée de céder le passage aux véhicules venant en sens inverse.

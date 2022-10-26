@@ -36,7 +36,7 @@
 
 ### Les feux de brouillard avant sont-ils obligatoires ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Les feux de brouillard avant ne sont pas obligatoires.
@@ -49,7 +49,7 @@
 
 ### Quand devez-vous allumer les feux de position ?
 
-- **Lorsque je suis à l'arrêt ou en stationnement.**
+- ***Lorsque je suis à l'arrêt ou en stationnement.***
 - Lorsque je suis en circulation.
 - Peu importe, je peux les utiliser quand je le souhaite.
 
@@ -64,7 +64,7 @@
 ### Que devez-vous faire lorsque vous apercevez de la fumée dans un tunnel ?
 
 - J'essaye d'éteindre les flammes avec mon extincteur.
-- **Je laisse la clef sur le contact et je quitte le tunnel par une sortie de secours.**
+- ***Je laisse la clef sur le contact et je quitte le tunnel par une sortie de secours.***
 - Je fais demi-tour.
 
 > Lorsque vous apercevez de la fumée dans un tunnel, vous devez : 1) Mettre en stationnement votre véhicule sur la bande la plus à droite; 2) Laisser la clef sur le contact ; 3) Quitter le tunnel par une sortie de secours.
@@ -79,7 +79,7 @@
 
 - Toujours en cas de chute de neige.
 - Quand la visibilité est réduite à moins de 200 mètres.
-- **Quand la visibilité est réduite à moins de 100 mètres.**
+- ***Quand la visibilité est réduite à moins de 100 mètres.***
 
 > En cas de chute de neige, vous devez  allumer les feux de brouillard arrière lorsque la visibilité est réduite à moins de 100 mètres.
 
@@ -91,7 +91,7 @@
 
 ### Quels feux s’allument simultanément avec les feux de croisement?
 
-- **Deux feux rouges arrière et deux feux de position.**
+- ***Deux feux rouges arrière et deux feux de position.***
 - Deux feux rouges arrière.
 - Les feux de routes.
 
@@ -105,7 +105,7 @@
 
 ### Il y a un fort brouillard sur la route, devez-vous allumer les feux de brouillard avant ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Les feux de brouillard avant ne sont pas obligatoires, vous n'êtes donc pas dans l'obligation de les allumer.
@@ -120,7 +120,7 @@
 
 - Routes sont allumés.
 - Brouillard avant sont allumés.
-- **Brouillard arrière sont allumés.**
+- ***Brouillard arrière sont allumés.***
 
 > Ce témoin lumineux indique que vos feux de brouillard arrière sont allumés.
 
@@ -134,7 +134,7 @@
 
 - Croisement sont allumés.
 - Position sont allumés.
-- **Routes sont allumés.**
+- ***Routes sont allumés.***
 
 > Ce témoin lumineux indique que vos feux de routes sont allumés.
 
@@ -147,7 +147,7 @@
 ### Il est interdit d’utiliser l’avertisseur sonore en présence de bétail et d’animaux.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Il est interdit d’utiliser l’avertisseur sonore en présence de bétail et d’animaux.
 
@@ -159,7 +159,7 @@
 
 ### En cas de forte pluie, à quel moment le feu de brouillard arrière doit-il être allumé ?
 
-- **Toujours en cas de forte pluie.**
+- ***Toujours en cas de forte pluie.***
 - Quand la visibilité est réduite à moins de 100 mètres.
 - Quand la visibilité est réduite à moins de 200 mètres.
 
@@ -174,7 +174,7 @@
 ### Quels feux devez-vous allumer lorsque vous circulez en plein brouillard ?
 
 - Les deux de brouillard avant et arrière.
-- **Les feux de brouillard arrière.**
+- ***Les feux de brouillard arrière.***
 - les feux de brouillard avant.
 
 > Vous devez seulement allumer vos feux de brouillard arrière.
@@ -187,7 +187,7 @@
 
 ### À quel moment est-il autorisé d’utiliser les 4 feux indicateurs de directions ?
 
-- **Pour signaler aux autres usagers le risque d'un ralentissement imminent.**
+- ***Pour signaler aux autres usagers le risque d'un ralentissement imminent.***
 - Lorsque vous êtes en double file.
 - Lorsque vous effectuez un dépassement.
 
@@ -203,7 +203,7 @@
 
 - Les feux de croisement.
 - Les feux de routes.
-- **Dans un tunnel, les feux ne sont pas obligatoires.**
+- ***Dans un tunnel, les feux ne sont pas obligatoires.***
 
 > Le code de la route ne vous oblige pas à allumer vos feux lorsque vous circulez dans un tunnel. Cependant, il est fortement conseillé de les allumer.
 
@@ -215,7 +215,7 @@
 
 ### Vous devez utiliser vos feux de croisement lorsqu'il n’est plus possible de voir distinctement jusqu’à moins de …
 
-- **200 mètres.**
+- ***200 mètres.***
 - 50 mètres.
 - 100 mètres.
 
@@ -229,7 +229,7 @@
 
 ### Ce témoin lumineux indique que vos feux de …
 
-- **Position sont allumés.**
+- ***Position sont allumés.***
 - Croisement sont allumés.
 - Brouillard arrière sont allumés.
 
@@ -243,7 +243,7 @@
 
 ### En cas de brouillard, à quel moment le feu de brouillard arrière doit-il être allumé ?
 
-- **Quand la visibilité est réduite à moins de 100 mètres.**
+- ***Quand la visibilité est réduite à moins de 100 mètres.***
 - Toujours en cas de brouillard.
 - Quand la visibilité est réduite à moins de 200 mètres.
 
@@ -257,7 +257,7 @@
 
 ### Ce témoin lumineux indique que vos feux de …
 
-- **Brouillard avant sont allumés.**
+- ***Brouillard avant sont allumés.***
 - Croisement sont allumés.
 - Brouillard arrière sont allumés.
 
@@ -272,7 +272,7 @@
 ### Un bus scolaire s'est arrêté et a allumé ses 4 feux indicateurs de directions. Que faites-vous ?
 
 - Vous continuez votre route.
-- **Vous ralentissez et au besoin vous vous arrêtez.**
+- ***Vous ralentissez et au besoin vous vous arrêtez.***
 - Vous vous arrêtez.
 
 > Lorsque les conducteurs d’autobus scolaire embarquent ou débarquent des enfants, ils doivent utiliser les 4 feux indicateurs de direction. Dés lors, restez vigilant.
@@ -285,7 +285,7 @@
 
 ### Vous devez utiliser vos feux de position lorsque la visibilité est réduite à moins de …
 
-- **200 mètres.**
+- ***200 mètres.***
 - 50 mètres.
 - 100 mètres.
 
@@ -301,7 +301,7 @@
 
 - De jour, lorsque je circule en agglomération.
 - De nuit, lorsque je circule en dehors d'une agglomération.
-- **De jour, lorsque je circule en dehors d'une agglomération.**
+- ***De jour, lorsque je circule en dehors d'une agglomération.***
 
 > Vous pouvez utiliser votre avertisseur sonore (klaxon) pour prévenir un conducteur qu’on s’apprête à le dépasser. Seulement lorsque vous circulez en dehors d'une agglomération et en journée.
 
@@ -314,7 +314,7 @@
 ### Devez-vous allumer vos 4 feux indicateurs de direction lorsque vous êtes stationné à un endroit interdit ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Il est autorisé d’utiliser les 4 feux indicateurs de directions UNIQUEMENT :  En cas de panne, d’accident ou pour signaler aux autres usagers le risque d'un ralentissement imminent.
 
@@ -327,7 +327,7 @@
 ### Les feux de brouillard arrière sont-ils obligatoires ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Les feux de brouillard arrière sont obligatoires.
 
@@ -341,7 +341,7 @@
 
 - 50 mètres.
 - 200 mètres.
-- **100 mètres.**
+- ***100 mètres.***
 
 > Les feux de route sont interdits lorsque l’éclairage de la chaussée vous permet de voir distinctement jusqu’à une distance d’environ 100 mètres. On les remplace par les feux de croisement.
 
@@ -355,7 +355,7 @@
 
 - 100 mètres.
 - 200 mètres.
-- **50 mètres.**
+- ***50 mètres.***
 
 > Les feux de route sont interdits lorsque vous suivez un autre véhicule à moins de 50 mètres et que vous ne le dépassez pas.
 
@@ -367,7 +367,7 @@
 
 ### Vous stationnez votre voiture, dans quel cas les feux de brouillard arrière peuvent-ils rester allumer ?
 
-- **En cas de brouillard, de neige ou de forte pluie.**
+- ***En cas de brouillard, de neige ou de forte pluie.***
 - En cas de brouillard ou de neige.
 - En cas de brouillard.
 
@@ -381,7 +381,7 @@
 
 ### En journée, en cas de forte pluie,à quel moment devez-vous allumer vos feux de croisement ?
 
-- **Quand la visibilité est réduite à moins de 200 mètres.**
+- ***Quand la visibilité est réduite à moins de 200 mètres.***
 - De jour, je n'allume pas mes feux de croisement.
 - Quand la visibilité est réduite à moins de 100 mètres.
 
@@ -397,7 +397,7 @@
 
 - Position sont allumés.
 - Routes sont allumés.
-- **Croisement sont allumés.**
+- ***Croisement sont allumés.***
 
 > Ce témoin lumineux indique que vos feux de croisement sont allumés.
 

@@ -41,7 +41,7 @@
 ### Le cycliste doit-il céder le passage à la voiture mauve ?
 
 - Oui, car la priorité de droite est applicable
-- **Non**
+- ***Non***
 
 > Le cycliste est prioritaire sur la voiture mauve car il se trouve sur une piste cyclable.
 
@@ -53,7 +53,7 @@
 
 ### Il y a un rétrécissement de la chaussée. Quelle voiture a priorité ?
 
-- **La voiture mauve**
+- ***La voiture mauve***
 - La voiture jaune.
 
 > La voiture mauve vient de droite, elle est donc prioritaire.
@@ -67,7 +67,7 @@
 ### La voiture mauve sort d'un sentier. Étant donné qu'elle est à droite, a-t-elle la priorité ?
 
 - Oui, la priorité de droite est applicable
-- **Non**
+- ***Non***
 
 > Exception à la règle de priorité de droite: si vous débouchez (sortez) d’un sentier ou d’un chemin de terre, vous devez céder le passage.
 
@@ -80,7 +80,7 @@
 ### Vous arrivez à une zone résidentielle. Devez-vous céder le passage aux piétons qui traversent ?
 
 - Non, il n'y pas de panneaux de priorité
-- **Oui, les piétons sont prioritaires.**
+- ***Oui, les piétons sont prioritaires.***
 - Oui, seulement aux enfants qui jouent
 
 > Dans une zone résidentielle, les piétons sont toujours prioritaires lorsqu'ils traversent.
@@ -94,7 +94,7 @@
 ### Qui a la priorité de passage ?
 
 - La voiture.
-- **Le tram.**
+- ***Le tram.***
 
 > Le tram est prioritaire. Il ne doit pas respecter les règles de priorité.
 
@@ -107,7 +107,7 @@
 ### Vous souhaitez vous engager dans un rond-point. Pouvez-vous faire usage de votre clignotant droit ?
 
 - Non, je dois
-- **Oui, je peux**
+- ***Oui, je peux***
 
 > Vous pouvez mais vous ne devez pas. Lorsque vous vous engagez dans un rond point l'usage du clignotant n'est pas obligatoire. Il est obligatoire seulement si vous sortez à la première sortie.
 
@@ -120,7 +120,7 @@
 ### De quel type de panneau s'agit-il ?
 
 - Un panneau d'indication
-- **Un panneau de priorité**
+- ***Un panneau de priorité***
 - Un panneau de danger
 
 > Ce panneau est un panneau de priorité et vous indique que vous avez la priorité de passage.
@@ -134,7 +134,7 @@
 ### Le cyclomoteur est-il prioritaire sur la voiture jaune ?
 
 - Oui, car la priorité de droite est applicable
-- **Non**
+- ***Non***
 
 > C'est la règle de la priorité de droite qui s'applique à ce carrefour étant donné l'absence de panneau de priorité. C'est donc la voiture jaune qui est prioritaire.
 
@@ -146,7 +146,7 @@
 
 ### Le feu est vert mais la circulation est presque à l'arrêt. Pouvez-vous vous engager dans le carrefour ?
 
-- **Non**
+- ***Non***
 - Oui, car vous êtes toujours prioritaire
 
 > Même si le feu est vert vous ne pouvez pas vous engager sous prétexte que vous êtes prioritaire. Vous ne pouvez pas bloquer un carrefour.
@@ -160,7 +160,7 @@
 ### La priorité de droite est-elle applicable dans ce carrefour ?
 
 - Oui sur tous les carrefours
-- **Non**
+- ***Non***
 - Oui, seulement au prochain carrefour
 
 > Ce panneau de priorité  indique un passage prioritaire et non une priorité de droite. Après ce panneau, vous avez donc la priorité.
@@ -175,7 +175,7 @@
 
 - Vous avez la priorité
 - Sens interdit
-- **Vous devez céder la priorité**
+- ***Vous devez céder la priorité***
 
 > Ce panneau est un panneau de priorité.  Au-delà de ce panneau, vous devez céder le passage aux véhicules venant en sens inverse. Vous n'avez donc pas la priorité (flèche rouge).
 
@@ -187,7 +187,7 @@
 
 ### Le cycliste veut tourner à droite et s'est arrêté avant le carrefour. Qui a la priorité?
 
-- **Le cycliste.**
+- ***Le cycliste.***
 - La voiture.
 
 > Même si un conducteur (cycliste) venant de droite s’arrête, il ne perd pas sa priorité. Vous devez malgré tout lui céder le passage.
@@ -201,7 +201,7 @@
 ### Vous circulez sur la chaussée, devez-vous céder le passage si un véhicule sort du sentier ?
 
 - Oui, seulement si c'est un véhicule agricole.
-- **Non.**
+- ***Non.***
 - Oui, la priorité de droite est applicable.
 
 > Exception à la règle de priorité de droite: si vous débouchez (sortez) d’un sentier ou d’un chemin de terre, vous devez céder le passage.
@@ -216,7 +216,7 @@
 
 - Mauve-Jaune-Grise
 - Jaune-Grise-Mauve
-- **Mauve-Grise-Jaune**
+- ***Mauve-Grise-Jaune***
 
 > Dans ce carrefour, il n'y a pas de panneau de priorité. La priorité de droite est donc applicable.
 
@@ -229,7 +229,7 @@
 ### Quelle voiture est prioritaire ?
 
 - La voiture grise.
-- **La voiture mauve.**
+- ***La voiture mauve.***
 
 > La voiture grise est face à un panneau qui indique qu'elle doit céder le passage aux autres conducteurs. La voiture mauve est donc prioritaire.
 
@@ -241,7 +241,7 @@
 
 ### Qui peut s’engager en premier dans ce carrefour?
 
-- **La voiture grise**
+- ***La voiture grise***
 - La voiture mauve
 
 > La voiture mauve est face à un panneau STOP. Elle doit marquer l'arrêt (comme un feu rouge)  et céder le passage aux autres conducteurs.
@@ -256,7 +256,7 @@
 
 - Oui, car la voiture quitte une autoroute
 - Oui, car vous vous trouvez à droite de cette voiture.
-- **Non, la priorité de droite est applicable**
+- ***Non, la priorité de droite est applicable***
 
 > C'est la règle de la priorité de droite qui s'applique à ce carrefour étant donné l'absence de panneau de priorité.
 
@@ -270,7 +270,7 @@
 
 - Oui car il n'y a aucun panneau de priorité.
 - Oui, la priorité de droite est applicable
-- **Non, vous êtes prioritaire.**
+- ***Non, vous êtes prioritaire.***
 
 > Vous êtes prioritaire dans ce carrefour car il y a le panneau de priorité  à votre droite qui vous indique: passage prioritaire.
 
@@ -282,7 +282,7 @@
 
 ### Qui a la priorité?
 
-- **Le tram.**
+- ***Le tram.***
 - La voiture.
 
 > Exception à la règle de priorité de droite: le tram a la priorité sur tous les autres usagers.
@@ -296,7 +296,7 @@
 ### Quelle règle s'applique à cette intersection?
 
 - Voie prioritaire
-- **Priorité de droite**
+- ***Priorité de droite***
 - Carrefour prioritaire
 
 > S’il n’y a pas d’agent qualifié, pas de feux de signalisation, pas de panneaux, la règle de priorité de droite est applicable.
@@ -309,7 +309,7 @@
 
 ### La camionnette grise veut quitter la propriété. A-t-elle priorité ?
 
-- **Non**
+- ***Non***
 - Oui, la priorité de droite est applicable
 
 > Exception à la règle de priorité de droite: Si vous débouchez (sortez) d’une propriété riveraine ou d’un parking, vous devez céder le passage.
@@ -322,7 +322,7 @@
 
 ### Vous êtes dans la voiture grise. La voiture mauve s'est arrêtée. Qui a la priorité ?
 
-- **La voiture mauve.**
+- ***La voiture mauve.***
 - La voiture grise.
 
 > Même si un conducteur venant de droite s’arrête, il ne perd pas sa priorité. Vous devez malgré tout lui céder le passage.
@@ -336,7 +336,7 @@
 ### Qui a la priorité?
 
 - La voiture.
-- **Le cycliste.**
+- ***Le cycliste.***
 
 > C'est la règle de la priorité de droite qui s'applique à ce carrefour étant donné l'absence de panneau de priorité.
 
@@ -348,7 +348,7 @@
 
 ### Qui a la priorité dans ce carrefour?
 
-- **La voiture grise.**
+- ***La voiture grise.***
 - La voiture mauve.
 
 > La voiture mauve est face à un panneau qui indique une priorité de droite. Elle doit donc céder le passage à la voiture grise.
@@ -361,7 +361,7 @@
 
 ### La voiture jaune circule dans le rond-point. Qui a la priorité ?
 
-- **La voiture jaune.**
+- ***La voiture jaune.***
 - La voiture grise, car c'est la priorité de droite qui est applicable.
 
 > Tout conducteur qui circule dans un rond-point est prioritaire. La voiture grise doit donc céder le passage.
@@ -376,7 +376,7 @@
 
 - La voiture mauve
 - Le cycliste
-- **La voiture jaune**
+- ***La voiture jaune***
 
 > Le cycliste est prioritaire sur la voiture mauve car il se trouve sur une piste cyclable. Ensuite, la priorité de droite est applicable, la voiture mauve est prioritaire sur la voiture jaune.
 
@@ -388,7 +388,7 @@
 
 ### Vous êtes au volant de la voiture jaune. Qui a la priorité dans ce carrefour ?
 
-- **Vous, la voiture jaune.**
+- ***Vous, la voiture jaune.***
 - Le bus.
 
 > C'est la règle de la priorité de droite qui s'applique à ce carrefour étant donné l'absence de panneau de priorité.
@@ -401,7 +401,7 @@
 
 ### Vous voulez quitter le rond-point. Devez-vous faire usage de votre clignotant droit ?
 
-- **Oui, c'est obligatoire.**
+- ***Oui, c'est obligatoire.***
 - Oui, seulement si un véhicule me suit.
 - Non, ce n'est pas obligatoire.
 
@@ -416,7 +416,7 @@
 ### Vous effectuez une marche arrière pour vous garer. Avez-vous la priorité sur les usagers derrière vous ?
 
 - Oui seulement sur les cyclistes
-- **Non, sur aucun conducteur**
+- ***Non, sur aucun conducteur***
 - Oui sur tout les usagers
 
 > Effectuer une marche arrière est une manœuvre. Vous n’avez pas priorité.
@@ -430,7 +430,7 @@
 ### Quelle voiture est prioritaire ?
 
 - La voiture mauve.
-- **La voiture grise.**
+- ***La voiture grise.***
 
 > C'est la règle de la priorité de droite qui s'applique à ce carrefour étant donné l'absence de panneau de priorité.
 
@@ -443,7 +443,7 @@
 ### Le cycliste doit-il céder le passage à la voiture mauve ?
 
 - Non
-- **Oui, car la priorité de droite est applicable**
+- ***Oui, car la priorité de droite est applicable***
 
 > Le cycliste ne se trouve pas sur une piste cyclable. Le marquage rouge peint au sol ne signifie pas une piste cyclable. Dans ce carrefour, la priorité de droite est donc applicable.
 

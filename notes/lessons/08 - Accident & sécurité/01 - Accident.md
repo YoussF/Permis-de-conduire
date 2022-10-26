@@ -39,7 +39,7 @@
 
 ### Lors d'un accident, un blessé vous demande un médicament. Que faites-vous ?
 
-- **Je ne lui donne pas de médicament.**
+- ***Je ne lui donne pas de médicament.***
 - Je lui donne un médicament.
 
 > Il ne faut jamais donner à boire/manger à un blessé. Pas de médicament non plus.
@@ -54,7 +54,7 @@
 
 - Seulement en cas d'accident avec blessé.
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Toute personne de plus de 15 ans impliquée dans un accident doit pouvoir présenter une pièce d’identité.
 
@@ -67,7 +67,7 @@
 ### Vous êtes impliqué dans un accident avec un véhicule à deux roues. Le conducteur vous demande de lui enlever son casque, que faites-vous ?
 
 - Je reste sans rien faire.
-- **Je sécurise les lieux, mais ne lui enlève pas son casque.**
+- ***Je sécurise les lieux, mais ne lui enlève pas son casque.***
 - Je lui enlève son casque.
 
 > Après avoir sécurisé les lieux, je procure les premiers soins sans enlever le casque d'un motard.
@@ -80,7 +80,7 @@
 
 ### Vous roulez sur l'autoroute et vous apercevez qu'il y a un accident dans l'autre sens de circulation. Que faites-vous ?
 
-- **Je préviens les urgences.**
+- ***Je préviens les urgences.***
 - Je m'arrête sur la bande d'arrêt d'urgence pour offrir mon aide.
 - Je continue ma route normalement.
 
@@ -96,7 +96,7 @@
 
 - Je lui donne de l'eau.
 - Je lui donne un médicament.
-- **Je lui retire le vomi de sa bouche.**
+- ***Je lui retire le vomi de sa bouche.***
 
 > Retirer le reste de vomissement d’un blessé afin de libérer ses voies respiratoires. Pas d'eau, de nourriture, ni de médicament.
 
@@ -108,7 +108,7 @@
 
 ### Devez-vous obligatoirement avoir une trousse de secours dans votre voiture ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Les accessoires obligatoires à avoir dans votre voiture sont un gilet de sécurité, un triangle de danger, un extincteur et une trousse de secours.
@@ -123,7 +123,7 @@
 
 - Je complète le constat européen d'accident.
 - Je préviens la police.
-- **Je déplace mon véhicule.**
+- ***Je déplace mon véhicule.***
 
 > En cas d'accident léger sans blessé, la première chose à faire est de déplacer votre véhicule à un endroit qui gêne le moins possible la circulation.
 
@@ -137,7 +137,7 @@
 
 - Lors d'un accident sans blessé.
 - Lors de chaque accident.
-- **Lors d'un accident avec blessé.**
+- ***Lors d'un accident avec blessé.***
 
 > Vous devez prévenir la police seulement lors d'un accident avec blessé.
 
@@ -151,7 +151,7 @@
 
 - Le conducteur et les passagers.
 - Le conducteur et les passagers qui ont moins de 18ans.
-- **Seulement le conducteur.**
+- ***Seulement le conducteur.***
 
 > Le gilet de sécurité est obligatoire UNIQUEMENT pour le conducteur.Il doit se trouver à porter de main (dans l'habitacle).
 
@@ -163,7 +163,7 @@
 
 ### Quel est le numéro d’appel d’urgence européen ?
 
-- **112**
+- ***112***
 - 100
 - 101
 
@@ -177,7 +177,7 @@
 
 ### Lors d'un accident, à partir de quel âge devez-vous présenter votre carte d'identité ?
 
-- **15 ans.**
+- ***15 ans.***
 - 16 ans.
 - 18 ans.
 
@@ -192,7 +192,7 @@
 ### Une fois chez vous, pouvez-vous apporter une modification au constat d'accident ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Une fois le constat signé, aucune modification n’est autorisée.
 
@@ -204,7 +204,7 @@
 
 ### Le gilet de sécurité est-il un accessoire qui doit être présent dans votre voiture ?
 
-- **Oui, c'est obligatoire.**
+- ***Oui, c'est obligatoire.***
 - Non, c'est seulement conseillé.
 - Oui et il en faut aussi pour tous les passagers.
 
@@ -220,7 +220,7 @@
 
 - Une roue de secours.
 - Un disque de stationnement.
-- **Un triangle de danger.**
+- ***Un triangle de danger.***
 
 > Les accessoires obligatoires à avoir dans votre voiture sont un gilet de sécurité, un triangle de danger, un extincteur et une trousse de secours.
 
@@ -233,7 +233,7 @@
 ### Lors d'un stationnement, vous avez griffé une voiture mais personne ne vous a vu. Pouvez-vous partir ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Toute personne impliquée dans un accident doit rester sur place. Commettre un délit de fuite peut entraîner une lourde amende, une déchéance du droit du permis de conduire et même une peine emprisonnement.
 
@@ -245,7 +245,7 @@
 
 ### Lors d'un accident avec blessé. Pouvez-vous déplacer votre voiture ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Lorsque vous êtes impliqués dans un accident avec blessés, vous ne devez pas déplacer votre véhicule
@@ -258,7 +258,7 @@
 
 ### Pouvez-vous déplacer un blessé ?
 
-- **Oui si cela est nécessaire pour sa sécurité.**
+- ***Oui si cela est nécessaire pour sa sécurité.***
 - Non.
 - Oui.
 
@@ -272,7 +272,7 @@
 
 ### Lors d'un accident, vous êtes sur les nerfs. Pouvez-vous fumer une cigarette ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Il est interdit de fumer sur les lieux d'un accident. Il y a des risques d'incendie.
@@ -287,7 +287,7 @@
 
 - Non.
 - Oui.
-- **Oui s'il y a désaccord au niveau du constat.**
+- ***Oui s'il y a désaccord au niveau du constat.***
 
 > Dans un accident sans blessé, vous ne devez pas appeler la police. Sauf si la partie adverse refuse ou vous-même refusez de signer le constat d'accident.
 
@@ -300,7 +300,7 @@
 ### Lesquels de ces documents n'est pas obligatoires dans votre voiture ?
 
 - Le certificat d'immatriculation.
-- **Le carnet d'entretien.**
+- ***Le carnet d'entretien.***
 - Le certificat de conformité.
 
 > Les documents obligatoires à avoir dans la voiture sont le document d’assurance, le certificat d’immatriculation (carte grise), le certificat de conformité et le certificat du contrôle technique.
@@ -313,7 +313,7 @@
 
 ### Lors d'un accident dans un tunnel, comment prévenez-vous les secours ?
 
-- **Il est recommandé d'utiliser la borne d'appel d'urgence.**
+- ***Il est recommandé d'utiliser la borne d'appel d'urgence.***
 - Il est recommandé d'utiliser votre GSM.
 
 > Lors d'un accident dans un tunnel ou sur autoroute, il est recommandé d'utiliser la borne d'appel d'urgence.
@@ -326,7 +326,7 @@
 
 ### Quand devez-vous porter un gilet de sécurité ?
 
-- **Toujours.**
+- ***Toujours.***
 - Seulement en journée.
 - Seulement la nuit.
 
@@ -342,7 +342,7 @@
 
 - Vous prévenez les secours.
 - Vous devez compléter le constat européen d'accident.
-- **Vous sécurisez les lieux.**
+- ***Vous sécurisez les lieux.***
 
 > Lors d'un accident de la route, la première chose à faire est de sécuriser les lieux.
 
@@ -355,7 +355,7 @@
 ### Un de vos proches est dans une ambulance, pouvez-vous suivre l'ambulance ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Vous ne pouvez pas suivre l'ambulance, car celle-ci roule vite, passe des feux rouges…
 
@@ -369,7 +369,7 @@
 
 - Les passagers.
 - La police.
-- **Les conducteurs impliqués.**
+- ***Les conducteurs impliqués.***
 
 > Accident sans blessé : Constat complété par les conducteurs impliqués.
 
@@ -382,7 +382,7 @@
 ### Vous êtes impliqué dans un accident sans blessés sur l'autoroute. Où devez-vous remplir le constat à l'amiable?
 
 - Sur la bande d'arrêt d'urgence.
-- **Derrière les barrières de sécurité.**
+- ***Derrière les barrières de sécurité.***
 - Dans l'un des véhicules.
 
 > Lors d'un accident sur l'autoroute, rester toujours derrière les barrières de sécurité.
@@ -397,7 +397,7 @@
 
 - Les passagers.
 - Les conducteurs impliqués.
-- **La police.**
+- ***La police.***
 
 > Accident avec blessé : Constat complété par la Police.
 
@@ -410,7 +410,7 @@
 ### Vous avez percuté un piéton. Que faites-vous en premier lieu ?
 
 - Vous appelez les secours.
-- **Vous sécurisez les lieux.**
+- ***Vous sécurisez les lieux.***
 - Vous lui venez en aide.
 
 > Pour votre sécurité et celle des autres, la première chose à faire est de sécuriser les lieux.
@@ -423,7 +423,7 @@
 
 ### Lors d'un accident avec blessé, après avoir sécurisé les lieux. Que faites-vous ?
 
-- **J'apporte les premiers soins au blessé.**
+- ***J'apporte les premiers soins au blessé.***
 - J'appelle les secours.
 - Je donne à boire au blessé.
 
@@ -437,7 +437,7 @@
 
 ### Quelle partie du constat européen d'accident devez-vous remplir avec l'autre conducteur ?
 
-- **Seulement le recto.**
+- ***Seulement le recto.***
 - Le recto et le verso du constat.
 - Seulement le verso.
 

@@ -60,7 +60,7 @@
 
 ### Un conducteur de véhicule agricole (tracteur) peut-il rouler sur une autoroute ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Les conducteurs de véhicules agricoles, de quadricycles sans habitacle, de cyclomoteurs, de véhicules lents (- 70km/h), conducteurs d’animaux, piétons et cyclistes ne peuvent pas circuler sur l'autoroute.
@@ -75,7 +75,7 @@
 
 - Oui, c'est autorisé.
 - Oui, mais seulement s’il y a des blessés.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 
 > La bande d’arrêt d’urgence n’est pas une bande de circulation. Par conséquent, il est interdit de circuler, s’arrêter et stationner. Sauf pour une panne ou un accident.
 
@@ -88,7 +88,7 @@
 ### Quelle est la vitesse maximale sur une route pour automobiles ?
 
 - 90 km/h.
-- **Cela dépend de la région et de l'agencement de la chaussée.**
+- ***Cela dépend de la région et de l'agencement de la chaussée.***
 - 120 km/h.
 
 > La vitesse maximale sur une route pour automobiles dépend de la région dans laquelle vous roulez, mais aussi de l'agencement de la chaussée.
@@ -101,7 +101,7 @@
 
 ### Lors d'une insertion sur l'autoroute, vous …
 
-- **Devez allumer votre feu indicateur de direction.**
+- ***Devez allumer votre feu indicateur de direction.***
 - Pouvez allumer votre feu indicateur de direction.
 
 > Lors d'une insertion sur l'autoroute, vous êtes obligé d'allumer votre feu indicateur de direction.
@@ -115,7 +115,7 @@
 ### Vous circulez sur une route pour automobile en Wallonie, quelle est la vitesse maximale ?
 
 - 70 km/h.
-- **90 km/h.**
+- ***90 km/h.***
 - 120 km/h.
 
 > Sur cette image, vous êtes hors agglomération en Wallonie et vous circulez sur une route pour automobile. La vitesse maximale est donc de 90 km/h. Il n'y a que des marquages routiers, pas de berne centrale.
@@ -128,7 +128,7 @@
 
 ### Pouvez-vous dépasser la voiture rouge par la droite ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Il est interdit de dépasser par la droite.
@@ -142,7 +142,7 @@
 ### Lors d'une insertion sur l'autoroute, vous avez la priorité ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Lors d'une insertion d'autoroute, vous devez céder le passage aux autres conducteurs qui se trouvent déjà sur l’autoroute.
 
@@ -155,7 +155,7 @@
 ### Vous roulez avec des pneus cloutés, quelle est la vitesse maximale sur l'autoroute?
 
 - 120 km/h.
-- **90 km/h.**
+- ***90 km/h.***
 - 70 km/h.
 
 > La vitesse maximale pour les pneus cloutés est de 90 km/h sur les autoroutes.
@@ -170,7 +170,7 @@
 
 - 30 mètres.
 - 100 mètres.
-- **50 mètres.**
+- ***50 mètres.***
 
 > Le triangle de danger doit être visible à une distance de 50 mètres pour les conducteurs qui s’en rapprochent.
 
@@ -182,7 +182,7 @@
 
 ### Sur cette route pour automobiles comportant 2 x 2 bandes avec une berne centrale, quelle est la vitesse maximale ?
 
-- **120 km/h.**
+- ***120 km/h.***
 - 70 km/h.
 - 90 km/h.
 
@@ -197,7 +197,7 @@
 ### Vous devez aller à Anderlecht, quelle bande de circulation devez-vous emprunter ?
 
 - La bande de gauche.
-- **La bande de droite.**
+- ***La bande de droite.***
 - La bande du milieu.
 
 > Pour aller en direction d'Anderlecht, il faut rouler la bande de droite. La bande de gauche et celle du milieu, c'est pour aller en direction de Charleroi, Namur et Mons.
@@ -210,7 +210,7 @@
 
 ### Que signifie ce panneau d'indication ?
 
-- **Fin d’autoroute.**
+- ***Fin d’autoroute.***
 - Sortie de tunnel.
 - Fin d'une route pour automobiles.
 
@@ -225,7 +225,7 @@
 ### Comment réagir face à un conducteur fantôme (personne qui roule dans le mauvais sens) sur l’autoroute ?
 
 - Vous klaxonnez et faites des appels de phares pour qu'il vous voie.
-- **Il faut ralentir et serrer le plus possible à droite.**
+- ***Il faut ralentir et serrer le plus possible à droite.***
 - Vous vous arrêtez sur la bande d’arrêt d’urgence.
 
 > Il faut ralentir et serrer le plus possible à droite. Pour ne pas causer un accident.
@@ -238,7 +238,7 @@
 
 ### Quelle est la vitesse maximale sur une autoroute ?
 
-- **120 km/h.**
+- ***120 km/h.***
 - 130 km/h.
 - 100 km/h.
 
@@ -252,7 +252,7 @@
 
 ### Vous avez raté de peu votre sortie d'autoroute. Pouvez-vous faire marche arrière pour prendre votre sortie ?
 
-- **Non, c'est interdit de faire marche arrière sur l'autoroute.**
+- ***Non, c'est interdit de faire marche arrière sur l'autoroute.***
 - Oui, c'est autorisé.
 - Oui, mais seulement pour 50 mètres.
 
@@ -266,7 +266,7 @@
 
 ### Votre véhicule tombe en panne sur la bande d'arrêt d'urgence de l'autoroute. Une dépanneuse arrive dans 1h, où l'attendez-vous ?
 
-- **Derrière les barrières de sécurité.**
+- ***Derrière les barrières de sécurité.***
 - Au chaud dans votre voiture.
 - Sur la bande d’arrêt d’urgence.
 
@@ -282,7 +282,7 @@
 
 - Oui mais seulement en semaine.
 - Non, c'est interdit.
-- **Oui, c'est autorisé.**
+- ***Oui, c'est autorisé.***
 
 > Avec un permis de conduire provisoire, vous pouvez circuler sur toutes les autoroutes belges sans exceptions.
 
@@ -295,7 +295,7 @@
 ### Lorsqu'il y a des embouteillages sur une bande d'insertion d'autoroute, …
 
 - Il ne faut pas appliquer le principe de la tirette.
-- **Il faut appliquer le principe de la tirette.**
+- ***Il faut appliquer le principe de la tirette.***
 
 > Pour appliquer le principe de la tirette, il faut : Une réduction de bande et des embouteillages.
 
@@ -309,7 +309,7 @@
 
 - Une sortie d'autoroute.
 - Un carrefour.
-- **Un échangeur**
+- ***Un échangeur***
 
 > Un échangeur est un lieu où deux autoroutes se croisent. Autrement dit, grâce à un échangeur, vous pouvez changer de direction d’autoroute.
 
@@ -323,7 +323,7 @@
 
 - Seulement en journée.
 - Seulement la nuit.
-- **Toujours.**
+- ***Toujours.***
 
 > Le gilet jaune de sécurité doit être porté tant le jour que la nuit.
 
@@ -336,7 +336,7 @@
 ### Sur l'autoroute, pouvez-vous vous arrêter sur le long de l'accotement  pour consulter votre GPS ?
 
 - Oui, mais pas plus de 5 minutes.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est autorisé.
 
 > « Le long de l’accotement » est le synonyme d’une bande d’arrêt d’urgence. Par conséquent, il est interdit de circuler, s’arrêter et stationner. Sauf pour une panne ou un accident.
@@ -350,7 +350,7 @@
 ### Si vous avez besoin d’aide, et qu'il n’y a pas de borne d’appel à proximité. Quel est le numéro d’appel d’urgence européen ?
 
 - 101
-- **112**
+- ***112***
 - 100
 
 > Le numéro d'appel d'urgence européens est le 112.
@@ -365,7 +365,7 @@
 
 - 70 km/h.
 - 90 km/h.
-- **120 km/h.**
+- ***120 km/h.***
 
 > La voiture sur l'image circule sur l'autoroute et non sur la sortie. Dès lors, la vitesse maximale est de 120 km/h
 
@@ -377,7 +377,7 @@
 
 ### Que signifie cette combinaison de panneaux?
 
-- **Vitesse maximum de 70 km/h sur la sortie d'autoroute.**
+- ***Vitesse maximum de 70 km/h sur la sortie d'autoroute.***
 - Vitesse maximum de 70 km/h sur la bande d'arrêt d'urgence.
 - Vitesse maximum de 70 km/h sur la bande de droite.
 
@@ -391,7 +391,7 @@
 
 ### Vous circulez sur la bande de droite l'autoroute et vous croisez ce panneau. Quelle est la vitesse maximale ?
 
-- **120 km/h.**
+- ***120 km/h.***
 - 90 km/h.
 - 70 km/h.
 
@@ -406,7 +406,7 @@
 ### Que signifie ce panneau d'indication ?
 
 - Accès dans un tunnel.
-- **Accès d'une route pour automobiles.**
+- ***Accès d'une route pour automobiles.***
 - Accès d'autoroute.
 
 > Ce panneau indique un accès d'une route pour automobiles.
@@ -421,7 +421,7 @@
 
 - 100
 - 101
-- **112**
+- ***112***
 
 > Le numéro d'appel d'urgence européen est le 112.
 
@@ -435,7 +435,7 @@
 
 - Oui et il en faut pour tous les passagers.
 - Non, c'est seulement conseillé.
-- **Oui, c'est obligatoire.**
+- ***Oui, c'est obligatoire.***
 
 > Le gilet jaune de sécurité est un accessoire obligatoire. Il doit se trouver dans l'habitacle de votre voiture (à portée de main).
 
@@ -449,7 +449,7 @@
 
 - Fin d’autoroute.
 - Sortie de tunnel.
-- **Fin d'une route pour automobiles.**
+- ***Fin d'une route pour automobiles.***
 
 > Ce panneau indique la fin d'une route pour automobiles.
 
@@ -462,7 +462,7 @@
 ### Votre ami est tombé en panne sur l'autoroute. Il vous appelle pour venir le remorquer, que faites vous ?
 
 - Je prends une corde et je vais remorquer mon ami.
-- **Je lui fais savoir qu'il est interdit de remorquer un véhicule sur autoroute.**
+- ***Je lui fais savoir qu'il est interdit de remorquer un véhicule sur autoroute.***
 
 > Il est interdit de remorquer un véhicule sur une autoroute.
 
@@ -474,7 +474,7 @@
 
 ### Vous n'êtes pas obligé de circuler sur la bande de circulation la plus à droite …
 
-- **Lorsque la circulation est dense.**
+- ***Lorsque la circulation est dense.***
 - Lorsqu'il fait nuit.
 - Lorsqu'il fait jour.
 
@@ -490,7 +490,7 @@
 
 - 90 km/h.
 - 120 km/h.
-- **70 km/h.**
+- ***70 km/h.***
 
 > Sur la bande de droite, la vitesse maximale est de 70 km/h.
 
@@ -503,7 +503,7 @@
 ### L’accès à une route pour automobiles est interdit aux conducteurs de …
 
 - Camions.
-- **Cyclomoteurs.**
+- ***Cyclomoteurs.***
 - Motocyclettes.
 
 > L’accès à une route pour automobiles est interdit aux conducteurs de vélo, cyclomoteurs, véhicules agricoles, quadricycles sans habitacle et train de véhicules forains.
@@ -517,7 +517,7 @@
 ### En pleine insertion sur autoroute, vous remarquez qu'il y a énormément d'embouteillage. Pouvez-vous faire demi-tour ?
 
 - Oui, seulement s’il n'y a personne derrière moi.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est autorisé.
 
 > Il est interdit de faire demi-tour sur une autoroute.
@@ -530,7 +530,7 @@
 
 ### Un cycliste, peut-il circuler sur une route pour automobile ?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est autorisé.
 - Oui, mais seulement si il est équipé d'un gilet jaune de sécurité.
 
@@ -546,7 +546,7 @@
 
 - 120 km/h.
 - 90 km/h.
-- **70 km/h.**
+- ***70 km/h.***
 
 > La vitesse minimale sur autoroute est de 70 km/h.
 
@@ -559,7 +559,7 @@
 ### Lorsque vous quittez l'autoroute, vous devez freiner sur …
 
 - L'autoroute.
-- **Sur la bande de sorties.**
+- ***Sur la bande de sorties.***
 - Peu importe, c'est la même chose.
 
 > Lorsque vous quittez l’autoroute, freinez sur la bande de sorties et pas sur l’autoroute.
@@ -573,7 +573,7 @@
 ### Lors d'une insertion sur l'autoroute, devez-vous conduire jusqu'au bout de la voie d'insertion?
 
 - Oui, il faut atteindre le bout de la voie pour s'insérer.
-- **Non, il faut essayer de s'insérer le plus tôt possible.**
+- ***Non, il faut essayer de s'insérer le plus tôt possible.***
 - Peu importe, c'est la même chose.
 
 > Lorsque vous voulez vous insérer sur une autoroute, il faut essayer de le faire le plus tôt possible. Une voie d'insertion n'est pas infinie…
@@ -587,7 +587,7 @@
 ### Pouvez-vous franchir ce panneau en voiture ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Ce panneau indique la fin d'une route pour automobiles.
 
@@ -599,7 +599,7 @@
 
 ### En cas de panne ou d’accident sur une route pour automobiles, à quelle distance devez-vous placer votre triangle de danger ?
 
-- **30 mètres.**
+- ***30 mètres.***
 - 50 mètres.
 - 100 mètres.
 
@@ -615,7 +615,7 @@
 
 - Au moins 50 mètres derrière votre véhicule.
 - Au moins 30 mètres derrière votre véhicule.
-- **Au moins 100 mètres derrière votre véhicule.**
+- ***Au moins 100 mètres derrière votre véhicule.***
 
 > En cas de panne ou d’accident sur l’autoroute, n’oubliez pas de directement placer votre triangle de danger à au moins 100 mètres derrière votre véhicule.
 
@@ -628,7 +628,7 @@
 ### Lorsqu'il y a des embouteillages, les motocyclettes peuvent remonter les files en circulant …
 
 - Entre les 2 bandes de circulations de droite.
-- **Entre les 2 bandes de circulations de gauche.**
+- ***Entre les 2 bandes de circulations de gauche.***
 - Sur la bande du milieu.
 
 > Dans les embouteillages, les motocyclettes peuvent circuler entre les 2 bandes de circulations de gauche.
@@ -643,7 +643,7 @@
 
 - 70 km/h.
 - 90 km/h.
-- **Il n'y a pas de vitesse minimale.**
+- ***Il n'y a pas de vitesse minimale.***
 
 > Il n’y a pas de vitesse minimale sur les routes pour automobiles.
 
@@ -656,7 +656,7 @@
 ### Qui doit porter un gilet de sécurité?
 
 - Le conducteur et les passagers.
-- **Seulement le conducteur.**
+- ***Seulement le conducteur.***
 - Le conducteur et les passagers qui ont moins de 18ans.
 
 > Le gilet jaune de sécurité est obligatoire que pour le conducteur.
@@ -669,7 +669,7 @@
 
 ### Pouvez-vous vous arrêter sur la bande d’arrêt d’urgence pour consulter votre GPS ?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, mais pas plus de 5 minutes.
 - Oui, c'est autorisé.
 
@@ -683,7 +683,7 @@
 
 ### Vous circulez sur une route pour automobile en Flandre, quelle est la vitesse maximale ?
 
-- **70 km/h.**
+- ***70 km/h.***
 - 90 km/h.
 - 50 km/h.
 
@@ -698,7 +698,7 @@
 ### Sur l'autoroute, vous devez circuler sur la bande …
 
 - Peu importe, c'est la même chose.
-- **De droite.**
+- ***De droite.***
 - Du milieu.
 
 > Sur l'autoroute, vous devez circuler sur la bande de droite.
@@ -712,7 +712,7 @@
 ### Que signifie ce panneau d'indication ?
 
 - Accès dans un tunnel.
-- **Accès d'autoroute.**
+- ***Accès d'autoroute.***
 - Accès d'une route pour automobile.
 
 > Ce panneau indique le commencement d’une autoroute ou accès à une autoroute.
@@ -727,7 +727,7 @@
 
 - Je freine brusquement pour laisser de l'espace au conducteur de la voiture grise.
 - Vous devez changer de voie pour faciliter l'insertion pour le conducteur de la voiture grise.
-- **Vous pouvez changer de voie pour faciliter l'insertion pour le conducteur de la voiture grise.**
+- ***Vous pouvez changer de voie pour faciliter l'insertion pour le conducteur de la voiture grise.***
 
 > Si vous vous trouvez sur l’autoroute, vous pouvez changer de voie et vous écarter sur la bande de circulation de gauche par courtoisie. Ainsi, vous facilitez l’insertion d’un autre conducteur qui veut s’engager sur l’autoroute.
 
@@ -740,7 +740,7 @@
 ### Vous circulez sur une route pour automobile à Bruxelles, quelle est la vitesse maximale ?
 
 - 70 km/h.
-- **50 km/h.**
+- ***50 km/h.***
 - 90 km/h.
 
 > Sur cette image, vous êtes dans une agglomération à Bruxelles (tunnel) et vous circulez sur une route pour automobile. La vitesse maximale est donc de 50 km/h.
@@ -754,7 +754,7 @@
 ### Vous tombez en panne sur une route pour automobiles. Pouvez-vous appeler un ami pour qu'il vienne vous remorquer ?
 
 - Oui, c'est autorisé sur une route pour automobiles.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, mais seulement si on roule à une vitesse maximum de 25 km/h
 
 > Il est interdit de remorquer un véhicule sur une route pour automobiles.

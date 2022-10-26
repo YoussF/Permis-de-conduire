@@ -42,7 +42,7 @@
 
 ### Ce panneau indique …
 
-- **Le début d'une zone de stationnement à durée limitée.**
+- ***Le début d'une zone de stationnement à durée limitée.***
 - Une zone de stationnement autorisée.
 
 > Ce panneau indique le début d'une zone de stationnement à durée limitée.
@@ -55,7 +55,7 @@
 
 ### Quels sont les véhicules pouvant se stationner sur ces places de parkings ?
 
-- **Uniquement les autocars.**
+- ***Uniquement les autocars.***
 - Uniquement les camions et camionnettes.
 - Les camions, camionnettes, voitures et motocyclettes.
 
@@ -70,7 +70,7 @@
 ### Que signifie ce panneau ?
 
 - Obligation de se garer sur l'accotement ou le trottoir.
-- **Obligation de se garer sur la chaussée. Il est interdit de se garer sur le trottoir ou l'accotement.**
+- ***Obligation de se garer sur la chaussée. Il est interdit de se garer sur le trottoir ou l'accotement.***
 - Obligation de se garer en partie sur la chaussée et en partie sur le trottoir ou l'accotement.
 
 > Ce panneau indique une obligation de stationnement sur la chaussée.
@@ -83,7 +83,7 @@
 
 ### Vous arrivez dans la rue à 11H45, vous mettez votre disque de stationnement à …
 
-- **12H.**
+- ***12H.***
 - 11H.
 - 11H30.
 
@@ -99,7 +99,7 @@
 
 - Le dernier jour de la période entre 7H30 et 8H.
 - Le dernier jour de la période avant minuit.
-- **Le dernier jour de la période entre 19H30 et 20H.**
+- ***Le dernier jour de la période entre 19H30 et 20H.***
 
 > Les changements de côté se font le dernier jour de chaque période entre 19h30 et 20h. Autrement dit, chaque 15 et 31 du mois entre 19H30 et 20H.
 
@@ -113,7 +113,7 @@
 
 - Obligation de se garer sur la chaussée.
 - Obligation de se garer sur l'accotement ou le trottoir.
-- **Obligation de se garer en partie sur la chaussée et en partie sur le trottoir ou l'accotement.**
+- ***Obligation de se garer en partie sur la chaussée et en partie sur le trottoir ou l'accotement.***
 
 > Ce panneau indique une obligation de se stationner en partie sur l’accotement ou le trottoir
 
@@ -127,7 +127,7 @@
 
 - Plus de 12 heures.
 - Plus de 6 heures.
-- **Plus de 24 heures.**
+- ***Plus de 24 heures.***
 
 > Il est interdit de mettre son véhicule en stationnement sur la voie publique pendant plus de 24 heures consécutives s'il est en panne.
 
@@ -140,7 +140,7 @@
 ### Les emplacements pour personnes handicapées font …
 
 - 18 mètres.
-- **6 mètres.**
+- ***6 mètres.***
 - 12 mètres.
 
 > Les emplacements pour handicapées font une longueur de 6 mètres.
@@ -154,7 +154,7 @@
 ### La voiture blanche peut-elle rester stationnée toute l'après-midi ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Ces emplacements autorisent le stationnement pour une durée maximum de 5 min.
 
@@ -167,7 +167,7 @@
 ### Pouvez-vous stationner votre véhicule qui roule au LPG sur cet emplacement de stationnement ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Ces emplacements sont réservés aux véhicules électriques. Par conséquent, il vous est interdit de vous stationner ici avec votre véhicule roulant au LPG.
 
@@ -179,7 +179,7 @@
 
 ### Vous vous stationnez dans une zone bleue. Les jours ouvrables sont…
 
-- **Du lundi au samedi de 9H à 18H.**
+- ***Du lundi au samedi de 9H à 18H.***
 - Du lundi au dimanche de 9H à 18H.
 - Du lundi au vendredi de 9H à 18H.
 
@@ -195,7 +195,7 @@
 
 - Sens interdit.
 - Accès interdit.
-- **Une voie sans issue.**
+- ***Une voie sans issue.***
 
 > Ce panneau indique une voie sans issue.
 
@@ -207,7 +207,7 @@
 
 ### Le parcomètre est en panne.
 
-- **Vous mettez un disque de stationnement.**
+- ***Vous mettez un disque de stationnement.***
 - Vous stationnez sans rien faire.
 - Vous stationnez ailleurs.
 
@@ -221,7 +221,7 @@
 
 ### Vous arrivez dans la rue à 14H05, vous mettez votre disque de stationnement à …
 
-- **14H30.**
+- ***14H30.***
 - 14H.
 - 15H.
 
@@ -235,7 +235,7 @@
 
 ### Nous sommes le 15 septembre. Pouvez-vous stationner après ce panneau ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Ce panneau INTERDIT le stationnement du 1er au 15 du mois du côté de la chaussée où le panneau est placé. Par conséquent, vous devrez vous stationner de l’autre côté de la chaussée. Pour rappel, ce panneau vous autorise l'arrêt.
@@ -249,7 +249,7 @@
 ### Vous arrivez à 13H55, vous mettez votre disque à 14H. Il prendra fin à …
 
 - 17H.
-- **16H.**
+- ***16H.***
 - 15H.
 
 > En principe, avec votre disque de stationnement, vous avez droit à 2H de stationnement gratuit. Faites attention, parfois des panneaux additionnels peuvent indiquer une durée différente.
@@ -262,7 +262,7 @@
 
 ### Nous sommes le 24 septembre à 23h. Pouvez-vous stationner après ce panneau ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Ce panneau INTERDIT le stationnement du 16 au 31 du mois du côté de la chaussée où le panneau est placé. Par conséquent, vous devrez vous stationner de l’autre côté de la chaussée étant donné que nous sommes le 24 du mois. Pour rappel, ce panneau vous autorise l'arrêt.
@@ -276,7 +276,7 @@
 ### Pouvez-vous rester stationné ici pendant 45 min ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Ces emplacements autorisent le stationnement pour une durée maximum de 15 min.
 
@@ -289,7 +289,7 @@
 ### Ce panneau de stationnement prend fin …
 
 - Jusqu'au panneau de fin d'interdiction.
-- **Au prochain carrefour.**
+- ***Au prochain carrefour.***
 
 > Ce panneau est valable jusqu'au prochain carrefour.
 
@@ -301,7 +301,7 @@
 
 ### Nous sommes le 15 septembre à 22h. Pouvez-vous stationner après ce panneau (à droite de l'image) ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Nous sommes le dernier jour de la période et les changements de côté se font le dernier jour de chaque période entre 19h30 et 20h. Par conséquent, étant donné qu'il est 20h passé, vous pouvez stationner après ce panneau.
@@ -315,7 +315,7 @@
 ### Pouvez-vous mettre votre véhicule en vente sur la voie publique ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Vous ne pouvez pas mettre votre véhicule en vente sur la voie publique.
 
@@ -328,7 +328,7 @@
 ### Quels sont les véhicules pouvant se stationner sur ces places de parkings ?
 
 - Les voitures, les voitures mixtes et minibus.
-- **Les voitures, voitures mixtes, motos et minibus.**
+- ***Les voitures, voitures mixtes, motos et minibus.***
 - Les voitures, motos et minibus.
 
 > Ces emplacements sont réservés aux motocyclettes, voitures, voitures mixtes et minibus.
@@ -341,7 +341,7 @@
 
 ### Quels sont les véhicules pouvant se stationner sur ces places de parkings ?
 
-- **Uniquement les camions et camionnettes.**
+- ***Uniquement les camions et camionnettes.***
 - Les bus, camions et camionnettes.
 - Les camions, camionnettes, voitures et motocyclettes.
 
@@ -356,7 +356,7 @@
 ### Il est 12h pile lorsque vous stationnez, vous placez votre disque de stationnement sur …
 
 - 12H.
-- **12H30.**
+- ***12H30.***
 - 12H15.
 
 > Vous devez régler la flèche du disque sur le trait qui suit l’heure ou la demi-heure de votre arrivée. Dans cet exemple, le trait qui suit 12H est 12H30.
@@ -369,7 +369,7 @@
 
 ### Une fois la durée de stationnement écoulée, pouvez-vous changer l'heure sur votre disque de stationnement ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Vous ne pouvez pas changer l'heure sur votre disque de stationnement. Une fois la durée de stationnement écoulée, vous devez procéder au déplacement du véhicule.
@@ -382,7 +382,7 @@
 
 ### Ce panneau indique …
 
-- **Stationnement obligatoire sur la chaussée.**
+- ***Stationnement obligatoire sur la chaussée.***
 - Stationnement obligatoire sur l'accotement.
 - Stationnement obligatoire en partie sur la chaussée et en partie sur le trottoir.
 
@@ -397,7 +397,7 @@
 ### Sur cet emplacement, vous pouvez aussi vous stationner avec votre voiture.
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Il s'agit d'un emplacement réservé exclusivement aux motocyclettes.
 
@@ -410,7 +410,7 @@
 ### Après ce panneau …
 
 - L'arrêt et le stationnement sont réservés aux camions.
-- **Le stationnement est réservé aux camions.**
+- ***Le stationnement est réservé aux camions.***
 
 > Ici, on ne parle pas d'arrêt. En revanche, ce panneau indique que le stationnement est réservé aux camions.
 
@@ -422,7 +422,7 @@
 
 ### Sur une place pour personnes handicapées …
 
-- **Vous pouvez vous arrêter.**
+- ***Vous pouvez vous arrêter.***
 - Vous pouvez vous arrêter et stationner.
 - Ni vous arrêter ni vous stationner.
 
@@ -436,7 +436,7 @@
 
 ### Vous utilisez votre disque de stationnement…
 
-- **Uniquement les jours ouvrables.**
+- ***Uniquement les jours ouvrables.***
 - Tous les jours de la semaine.
 - Uniquement le week-end.
 
@@ -451,7 +451,7 @@
 ### Que signifie ce panneau ?
 
 - Obligation de se garer sur la chaussée.
-- **Obligation de se garer sur l'accotement ou le trottoir.**
+- ***Obligation de se garer sur l'accotement ou le trottoir.***
 - Obligation de se garer en partie sur la chaussée et en partie sur le trottoir ou l'accotement.
 
 > Ce panneau indique une obligation de se stationner sur le trottoir ou l'accotement. Autrement dit, il faut mettre vos 4 roues sur le trottoir.
@@ -464,7 +464,7 @@
 
 ### Il est interdit de mettre en stationnement un véhicule publicitaire pendant plus de …
 
-- **3 heures.**
+- ***3 heures.***
 - 6 heures.
 - 12 heures.
 
@@ -479,7 +479,7 @@
 ### Ce panneau signifie obligation de se stationner sur l'accotement ou le trottoir ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Ce panneau vous oblige à vous stationner sur l'accotement ou le trottoir. En effet, il est interdit de se stationner sur la chaussée.
 

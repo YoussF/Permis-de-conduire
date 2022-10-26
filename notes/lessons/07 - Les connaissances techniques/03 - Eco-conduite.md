@@ -28,7 +28,7 @@
 
 ### Quel est le rôle du catalyseur dans une voiture ?
 
-- **Diminuer la pollution.**
+- ***Diminuer la pollution.***
 - Diminuer la consommation de carburant.
 - Augmenter la puissance de la voiture.
 
@@ -42,7 +42,7 @@
 
 ### Votre voiture consomme plus de carburant lorsque vous roulez …
 
-- **En agglomération.**
+- ***En agglomération.***
 - Hors agglomération.
 - Sur autoroute.
 
@@ -57,7 +57,7 @@
 ### Pouvez-vous accélérer à plusieurs reprises en étant à l’arrêt?
 
 - Oui mais seulement pour chauffer le moteur.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est autorisé.
 
 > Vous ne pouvez pas accélérer en étant à l'arrêt (point mort), c'est interdit. La meilleure manière pour chauffer votre moteur, c'est de directement rouler votre véhicule à bas régime.
@@ -70,7 +70,7 @@
 
 ### Vous êtes à l'arrêt devant un pont mobile. Quelle est la meilleure chose à faire ?
 
-- **Couper son moteur.**
+- ***Couper son moteur.***
 - Se préparer à démarrer le plus rapidement.
 - Utiliser son gsm.
 
@@ -85,7 +85,7 @@
 ### La consommation de carburant est plus basse lorsque vous roulez à une allure constante.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > La consommation de carburant est plus basse lorsque vous roulez à une allure constante.
 
@@ -99,7 +99,7 @@
 
 - Le diesel rouge.
 - Le diesel blanc.
-- **Le diesel ayant une faible teneur en souffre.**
+- ***Le diesel ayant une faible teneur en souffre.***
 
 > De ces 3 carburants, le diesel ayant une faible teneur en souffre est le moins polluant.
 
@@ -111,7 +111,7 @@
 
 ### Que signifie ce panneau ?
 
-- **Début d’une zone de basses émissions**
+- ***Début d’une zone de basses émissions***
 - Début d’une zone écologique.
 - Début d’une zone sans voiture.
 
@@ -127,7 +127,7 @@
 
 - L'essence.
 - Le diesel.
-- **Le LPG (gaz liquéfié).**
+- ***Le LPG (gaz liquéfié).***
 
 > De ces 3 carburants, le LPG (gaz liquéfié) est le moins nocif pour l'environnement.
 
@@ -141,7 +141,7 @@
 
 - 2500 tours/minute.
 - 3000 tours/minute.
-- **2000 tours/minute.**
+- ***2000 tours/minute.***
 
 > Pour une voiture diesel, il est conseillé de changer de vitesse lorsque votre moteur atteint 2000 tours/minute.
 
@@ -154,7 +154,7 @@
 ### Lorsque vous transportez des vélos, où est-il préférable de les fixer pour consommer moins de carburant ?
 
 - Sur le toit de votre voiture.
-- **À l'arrière de votre voiture.**
+- ***À l'arrière de votre voiture.***
 - Peu importe, la consommation reste la même.
 
 > Lorsque vous transportez des vélos, fixez-les à l’arrière de votre voiture et non sur le toit, vous consommerez ainsi moins de carburant.
@@ -167,7 +167,7 @@
 
 ### Si vous conduisez les fenêtres ouvertes, vous consommerez plus de carburant.
 
-- **Vrai.**
+- ***Vrai.***
 - Faux.
 
 > Si vous conduisez les fenêtres ouvertes, vous consommerez plus de carburant. En effet, selon des estimations, à 120 km/h fenêtre ouverte, votre consommation augmente de 5 %.
@@ -182,7 +182,7 @@
 
 - 3000 tours/minute.
 - 2000 tours/minute.
-- **2500 tours/minute.**
+- ***2500 tours/minute.***
 
 > Pour une voiture essence, il est conseillé de changer de vitesse lorsque votre moteur atteint 2500 tours/minute.
 
@@ -195,7 +195,7 @@
 ### Lorsque vous devez aborder une descente ou une montée, il est conseillé de …
 
 - Mettre la vitesse ne point mort.
-- **Rétrograder de vitesse.**
+- ***Rétrograder de vitesse.***
 - Changer de vitesse vers le haut.
 
 > Lorsque vous devez aborder une descente ou une montée, il est conseillé de rétrograder (changer de vitesse vers le bas).
@@ -208,7 +208,7 @@
 
 ### Une voiture mal entretenue consommera plus de carburant.
 
-- **Vrai.**
+- ***Vrai.***
 - Faux.
 
 > Il est important de faire entretenir votre voiture par un garagiste. Une voiture mal entretenue consommera plus de carburant. Par exemple, un filtre à air encrassé, une huile moteur usée, des pneus sous-gonflés…
@@ -221,7 +221,7 @@
 
 ### Quelle est l'influence de l'utilisation de l'air conditionné (climatisation) sur la consommation du carburant ?
 
-- **La consommation de carburant augmente.**
+- ***La consommation de carburant augmente.***
 - La consommation de carburant reste la même.
 - La consommation de carburant diminue.
 
@@ -237,7 +237,7 @@
 
 - L'essence.
 - Le diesel blanc.
-- **Le diesel rouge.**
+- ***Le diesel rouge.***
 
 > De ces 3 carburants, le diesel rouge est le plus nocif pour l'environnement. Le diesel rouge est utilisé pour chauffer les maisons.
 
@@ -249,7 +249,7 @@
 
 ### Vous roulez derrière un camion de poubelle, que faites-vous.
 
-- **J'attends patiemment.**
+- ***J'attends patiemment.***
 - Je klaxonne.
 - J'essaye de le dépasser.
 
@@ -264,7 +264,7 @@
 ### Un moteur froid consomme jusqu’à 50 % de carburant en plus qu’un moteur chaud.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Un moteur froid consomme jusqu’à 50 % de carburant en plus qu’un moteur chaud. Par conséquent, roulez à un régime moteur bas durant les 10 premières minutes.
 
@@ -278,7 +278,7 @@
 
 - Diminue la consommation de carburant.
 - N’a aucun effet sur la consommation de carburant.
-- **Augmente la consommation de carburant.**
+- ***Augmente la consommation de carburant.***
 
 > Rouler trop longtemps à une petite vitesse (1ère ou 2ème) augmente la consommation de carburant.
 

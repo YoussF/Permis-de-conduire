@@ -27,7 +27,7 @@
 
 - Marchandises dangereuses.
 - Marchandises dangereuses inflammables ou explosibles.
-- **Marchandises dangereuses de nature à polluer les eaux.**
+- ***Marchandises dangereuses de nature à polluer les eaux.***
 
 > Ce panneau interdit l'accès aux conducteurs de véhicules transportant des marchandises dangereuses de nature à polluer les eaux.
 
@@ -40,7 +40,7 @@
 ### Êtes-vous concerné par ce signal d’interdiction ?
 
 - Non, c'est seulement pour les camions.
-- **Oui, comme pour toutes les catégories de véhicules.**
+- ***Oui, comme pour toutes les catégories de véhicules.***
 - Non, c'est seulement pour les camions et leurs remorques.
 
 > Ce panneau interdit l'accès aux conducteurs de véhicules ou trains de véhicules ayant, chargement compris, une longueur supérieure à celle indiquée.
@@ -55,7 +55,7 @@
 
 - Une largeur de plus de 10 mètres.
 - Une hauteur de plus de 10 mètres
-- **Une longueur de plus de 10 mètres**
+- ***Une longueur de plus de 10 mètres***
 
 > Ce panneau interdit l'accès aux conducteurs de véhicules ou trains de véhicules ayant, chargement compris, une longueur supérieure à 10 mètres.
 
@@ -67,7 +67,7 @@
 
 ### Dans le cas où le chargement dépasse de plus de 1 mètre l’arrière de votre véhicule, vous devez impérativement placer le panneau d'avertissement rouge et blanc qui fait…
 
-- **50cm sur 50cm**
+- ***50cm sur 50cm***
 - 45cm sur 45cm
 - 40cm sur 40cm
 
@@ -81,7 +81,7 @@
 
 ### Ce panneau interdit l’accès aux conducteurs de véhicules qui ont chargement compris …
 
-- **Une largeur de plus de 2,5 mètres.**
+- ***Une largeur de plus de 2,5 mètres.***
 - Une longueur de plus de 2,5 mètres
 - Une hauteur de plus de 2,5 mètres
 
@@ -97,7 +97,7 @@
 
 - Une largeur de plus de 3,5 mètres.
 - Une longueur de plus de 3,5 mètres
-- **Une hauteur de plus de 3,5 mètres**
+- ***Une hauteur de plus de 3,5 mètres***
 
 > Ce panneau interdit l'accès aux conducteurs de véhicules ayant, chargement compris, une hauteur supérieure à 3,5 mètres.
 
@@ -111,7 +111,7 @@
 
 - Non, jamais.
 - Oui, jusqu'à 1 mètre maximum.
-- **Oui, jusqu'à 3 mètres maximum.**
+- ***Oui, jusqu'à 3 mètres maximum.***
 
 > Le chargement peut dépasser de MAXIMUM 3 mètres, SEULEMENT si le chargement est composé de pièces indivisibles et de grandes longueurs
 
@@ -123,7 +123,7 @@
 
 ### Quelle est la hauteur maximale d'un véhicule avec son chargement ?
 
-- **Maximum 4 mètres.**
+- ***Maximum 4 mètres.***
 - Maximum 4,50 mètres.
 - Maximum 3,50 mètres.
 
@@ -139,7 +139,7 @@
 
 - Maximum 2,45 mètres.
 - Maximum 2,50 mètres.
-- **Maximum 2,55 mètres.**
+- ***Maximum 2,55 mètres.***
 
 > La largeur d'un véhicule ou d'une remorque chargés ne peut pas dépasser 2,55 mètres.
 
@@ -153,7 +153,7 @@
 
 - Peu importe, cela n'a pas d'importance.
 - Sur le toit de la voiture.
-- **À l’arrière de la voiture.**
+- ***À l’arrière de la voiture.***
 
 > Pour des questions d'aérodynamique et pour consommer moins de carburants, il est préférable de transporter vos vélos à l'arrière de votre voiture. Attention, les vélos ne doivent cacher aucun feu du véhicule.
 
@@ -165,7 +165,7 @@
 
 ### Sans signalisation spéciale, le chargement peut-il dépasser l’extrémité arrière de votre véhicule?
 
-- **Oui, jusqu'à 1 mètre maximum.**
+- ***Oui, jusqu'à 1 mètre maximum.***
 - Oui.
 - Non, jamais.
 
@@ -179,7 +179,7 @@
 
 ### Est-ce que le chargement peut dépasser l’extrémité avant de votre véhicule ?
 
-- **Non jamais.**
+- ***Non jamais.***
 - Oui, s’il s’agit d’un chargement indivisible.
 - Oui, maximum 1 mètre.
 
@@ -195,7 +195,7 @@
 
 - Marchandises dangereuses de nature à polluer les eaux.
 - Marchandises dangereuses inflammables ou explosibles.
-- **Marchandises dangereuses.**
+- ***Marchandises dangereuses.***
 
 > Ce panneau interdit l'accès aux conducteurs de véhicules transportant des marchandises dangereuses.
 
@@ -209,7 +209,7 @@
 
 - De jour, c'est autorisé.
 - De nuit, c'est autorisé.
-- **C'est interdit.**
+- ***C'est interdit.***
 
 > Lorsque vous transportez un chargement avec votre véhicule, vous devez suivre certaines règles. Ainsi, le chargement NE PEUT PAS masquer les feux, les catadioptres et la plaque d’immatriculation
 
@@ -222,7 +222,7 @@
 ### Dans le cas où le chargement dépasse de plus de 1 mètre l’arrière de votre véhicule, en journée que devez-vous faire ?
 
 - Mettre un triangle de danger.
-- **Placer le panneau d'avertissement rouge et blanc au bout du chargement.**
+- ***Placer le panneau d'avertissement rouge et blanc au bout du chargement.***
 - Rien de spécial
 
 > Dans le cas où le chargement dépasse de plus de 1 mètre l’arrière de votre véhicule. DE JOUR, vous devez impérativement placer le panneau d'avertissement rouge et blanc au bout du chargement.
@@ -237,7 +237,7 @@
 
 - Marchandises dangereuses.
 - Marchandises dangereuses de nature à polluer les eaux.
-- **Marchandises dangereuses inflammables ou explosibles.**
+- ***Marchandises dangereuses inflammables ou explosibles.***
 
 > Ce panneau interdit l'accès aux conducteurs de véhicules transportant des marchandises dangereuses inflammables ou explosibles.
 

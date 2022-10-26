@@ -46,7 +46,7 @@
 
 - Une personne qui s’apprête à conduire un véhicule sur le parking d’une station-service.
 - Un conducteur dans un terrain public
-- **Un conducteur qui pousse son cyclomoteur.**
+- ***Un conducteur qui pousse son cyclomoteur.***
 
 > Un conducteur qui pousse son cyclomoteur est considéré comme un piéton. Un piéton ne peut être soumis un test d'haleine que s'il est impliqué dans un accident et même s'il en est la victime.
 
@@ -60,7 +60,7 @@
 
 - Non
 - Oui, seulement s'ils sont impliqués dans un accident.
-- **Oui**
+- ***Oui***
 
 > Les cavaliers sont considérés comme des conducteurs. Ils peuvent donc être soumis à un test d'haleine lors d'un contrôle.
 
@@ -72,7 +72,7 @@
 
 ### Quelles sont les conséquences d'un résultat positif au test de la salive ?
 
-- **Une interdiction immédiate de conduire de 12 heures.**
+- ***Une interdiction immédiate de conduire de 12 heures.***
 - Une interdiction immédiate de conduire de 6 heures.
 - Une interdiction immédiate de conduire de 3 heures.
 
@@ -87,7 +87,7 @@
 ### Quelles sont les conséquences d'un résultat A du test de l’haleine ?
 
 - Vous serez soumis à un test salivaire.
-- **Vous serez soumis à une analyse de l’haleine.**
+- ***Vous serez soumis à une analyse de l’haleine.***
 - Vous pouvez continuer votre route.
 
 > Suite à un résultat A (alerte) ou P (positif), vous serez soumis à une analyse d'haleine.
@@ -100,7 +100,7 @@
 
 ### Quel serait le temps de réaction si vous conduisez en état d'ivresse ?
 
-- **Plus long.**
+- ***Plus long.***
 - Ne change pas.
 - Plus court.
 
@@ -115,7 +115,7 @@
 ### Vous êtes sobre. Votre ami a bu plusieurs verres d'alcool. Votre réactivité sera … 
 
 - Identique que celle de votre ami.
-- **Plus courte.**
+- ***Plus courte.***
 - Plus longue.
 
 > Lorsque vous êtes sobre, c’est à dire que vous n’avez pas bu pas d’alcool ou très peu. Il est logique que vos réflexes/votre réactivité soit plus courte que celle de votre ami qui a bu de l’alcool. 
@@ -131,7 +131,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Vous êtes stationnés dans votre garage. Quelle est la sanction si vous refusez un test de l’haleine ?
 
 - Une interdiction immédiate de conduire de 3 heures.
-- **Aucune sanction.**
+- ***Aucune sanction.***
 - Une interdiction immédiate de conduire de 6 heures.
 
 > Aucune sanction car vous ne vous trouvez pas dans un lieu public.Toute personne qui, dans un lieu public, conduit ou s’apprête à conduire un véhicule, peut être soumis à un teste d'haleine.
@@ -146,7 +146,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Boire plusieurs tasses de café.
 - Boire une boisson .
-- **Faire une pause toutes les 2 heures.**
+- ***Faire une pause toutes les 2 heures.***
 
 > Il est conseillé de prendre une pause toutes les 2 heures si vous prenez une longue route.
 
@@ -158,7 +158,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Que risquez-vous si votre résultat de l’analyse de l’haleine est inférieur de 0,22 mg/litre d’air expiré ?
 
-- **Rien, vous pouvez continuer votre route.**
+- ***Rien, vous pouvez continuer votre route.***
 - Une interdiction immédiate de conduire de 3 heures.
 - Une interdiction immédiate de conduire de 6 heures.
 
@@ -172,7 +172,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Quelles sont les conséquences d'un résultat S du test de l’haleine ?
 
-- **Rien, vous pouvez continuer votre route.**
+- ***Rien, vous pouvez continuer votre route.***
 - Une interdiction immédiate de conduire de 6 heures.
 - Une interdiction immédiate de conduire de 3 heures.
 
@@ -188,7 +188,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Une personne se trouvant sur la voie publique.
 - Un cycliste qui pousse sa bicyclette.
-- **Une personne qui pousse sa motocyclette.**
+- ***Une personne qui pousse sa motocyclette.***
 
 > Toute personne qui, dans un lieu public, conduit ou s’apprête à conduire un véhicule, peut être soumis à un teste d'haleine. Un usager qui pousse une motocyclette est aussi considéré comme un conducteur. Il peut donc être soumis à un test d'haleine. En revanche, un cycliste qui pousse sa bicyclette est considéré comme un piéton.
 
@@ -201,7 +201,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Quels sont les effets de la consommation de café et de l'alcool ?
 
 - Augmente les capacités du conducteur.
-- **Diminue les capacités du conducteur.**
+- ***Diminue les capacités du conducteur.***
 - Ne change rien
 
 > Le mélange du café et de l'alcool  diminue les capacités du conducteur.
@@ -214,7 +214,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Quel appareil permet de mesurer avec précision le taux d’alcool par litre d’air expiré ?
 
-- **L'éthylomètre**
+- ***L'éthylomètre***
 - Le tensiomètre
 - L'éthylotest
 
@@ -228,7 +228,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Que risquez-vous si vous refusez un test de salive ?
 
-- **Une interdiction immédiate de conduire de 12 heures.**
+- ***Une interdiction immédiate de conduire de 12 heures.***
 - Une interdiction immédiate de conduire de 3 heures.
 - Une interdiction immédiate de conduire de 6 heures.
 
@@ -243,7 +243,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Quel est le taux d'alcool qui n'est pas punissable?
 
 - Plus de 0,22 mg d'alcool par litre d'air expiré.
-- **Moins de 0,22 mg d'alcool par litre d'air expiré.**
+- ***Moins de 0,22 mg d'alcool par litre d'air expiré.***
 - Entre 0,22 et 0,35 mg/l d'air expiré.
 
 > Moins de 0,22 mg/l = vous pouvez conduire, à partir de 0,22 mg/ l= 3 heures, à partir de 0,35 mg/l ou refus de souffler = 6 heures.
@@ -257,7 +257,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Avant votre test d'haleine, un agent de police peut vous demander les documents de votre véhicule ?
 
 - Non, c'est seulement un contrôle d'alcoolémie.
-- **Oui, il peut dans tous les cas.**
+- ***Oui, il peut dans tous les cas.***
 - Oui, seulement si je suis positif au test.
 
 > Un agent de police peut vous demander les documents de  votre véhicule  à n'importe quel type de contrôle routier.
@@ -271,7 +271,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Qu'est-ce qui permet de mesurer avec précision le taux d’alcool par litre d’air expiré ?
 
 - Le test de l’haleine.
-- **L’analyse de l’haleine.**
+- ***L’analyse de l’haleine.***
 - Le test salivaire
 
 > L'analyse d'haleine consiste à l'utilisation de l'éthylomètre qui permet de mesurer précisément la concentration d'alcool par litre d'air expiré. L'éthylotest (test d'haleine) donne seulement 3 résultats : S (safe), A (alert), P (positif).
@@ -286,7 +286,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Les effets de l’alcool ne changent pas.
 - Les effets de l’alcool peuvent être diminués.
-- **Les effets de l’alcool peuvent être augmentés.**
+- ***Les effets de l’alcool peuvent être augmentés.***
 
 > Prendre des médicaments peut augmenter les effets de l'alcool.
 
@@ -298,7 +298,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Quelles sont les conséquences si, suite à des problèmes de respiration, vous refusez de vous soumettre au test de l’haleine ?
 
-- **Vous recevez une interdiction immédiate de conduire de 6 heures.**
+- ***Vous recevez une interdiction immédiate de conduire de 6 heures.***
 - Vous recevez une interdiction immédiate de conduire de 3 heures.
 - Vous êtes excusé, vous pouvez continuer votre route.
 
@@ -314,7 +314,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Une interdiction immédiate de conduire de 3 heures.
 - Une interdiction immédiate de conduire de 12 heures.
-- **Une interdiction immédiate de conduire de 6 heures.**
+- ***Une interdiction immédiate de conduire de 6 heures.***
 
 > Si vous refusez de vous soumettre à un test d'haleine, vous risquez la peine maximale qui est de 6 heures, soit l'équivalence d'un taux supérieur à 0,35mg/l d'air expiré (Positif).
 
@@ -328,7 +328,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Les effets de l’alcool peuvent être diminués.
 - Les effets de l’alcool ne changent pas.
-- **Les effets de l’alcool peuvent être augmentés.**
+- ***Les effets de l’alcool peuvent être augmentés.***
 
 > La consommation d’alcool augmente les effets de la prise de drogue. Les capacités du conducteur diminuent et le temps de réaction devient plus long.
 
@@ -341,7 +341,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Que risquez-vous si votre résultat de l’analyse de l’haleine est de 0,35 mg/litre d’air expiré ?
 
 - Une interdiction immédiate de conduire de 12 heures.
-- **Une interdiction immédiate de conduire de 6 heures.**
+- ***Une interdiction immédiate de conduire de 6 heures.***
 - Une interdiction immédiate de conduire de 3 heures.
 
 > Moins de 0,22 mg/l = vous pouvez conduire, à partir de 0,22 mg/l = 3 heures, à partir de 0,35 mg/l ou refus de souffler = 6 heures.
@@ -354,7 +354,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Que risquez-vous si votre résultat de l'analyse de l’haleine est de 0,25 mg d’alcool par litre d’air expiré ?
 
-- **Une interdiction immédiate de conduire de 3 heures.**
+- ***Une interdiction immédiate de conduire de 3 heures.***
 - Une interdiction immédiate de conduire de 6 heures.
 - Rien, car vous êtes sous la limite punissable.
 
@@ -369,7 +369,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Vous avez reçu une interdiction immédiate de conduire de 6 heures par l'agent de police. Que se passe-t-il après ces 6 heures d'attente ?
 
 - Vous pouvez directement reprendre votre route.
-- **Vous serez soumis à un nouveau test de l’haleine et/ou à une analyse de l’haleine.**
+- ***Vous serez soumis à un nouveau test de l’haleine et/ou à une analyse de l’haleine.***
 - Vous serez soumis à un test salivaire.
 
 > Après les 6 heures, vous serez soumis à un nouveau test de l’haleine ou à une analyse de l’haleine, pour confirmer que vous êtes vraiment en état de conduire et reprendre votre route en toute sécurité.
@@ -382,7 +382,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Un piéton peut être soumis à un test de l’haleine ?
 
-- **Oui, seulement s'il est impliqué dans un accident de circulation**
+- ***Oui, seulement s'il est impliqué dans un accident de circulation***
 - Oui
 - Non
 
@@ -397,7 +397,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Vous êtes au volant de votre voiture, un agent de police peut demander à votre passager d'effectuer un test d'haleine ?
 
 - Oui
-- **Oui, seulement s'il est votre guide ou moniteur d'auto-école.**
+- ***Oui, seulement s'il est votre guide ou moniteur d'auto-école.***
 - Non
 
 > Durant votre apprentissage à la conduite, les moniteurs d’auto-école ainsi que les guides peuvent être soumis à un contrôle d’alcoolémie.
@@ -411,7 +411,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Pouvez-vous demander un délai de 15 minutes avant de vous soumettre à l’analyse de l’haleine?
 
 - Oui
-- **Non**
+- ***Non***
 - Oui, seulement après l'analyse
 
 > Vous pouvez demander un délai unique de 15 min seulement avant le test d'haleine.
@@ -424,7 +424,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Que risquez-vous si votre résultat de l'analyse de l’haleine est de 0,40 mg d’alcool par litre d’air expiré ?
 
-- **Une interdiction immédiate de conduire de 6 heures.**
+- ***Une interdiction immédiate de conduire de 6 heures.***
 - Une interdiction immédiate de conduire de 3 heures.
 - Une interdiction immédiate de conduire de 12 heures.
 
@@ -439,7 +439,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Quelles sont les conséquences d'un résultat d’une analyse de l’haleine dépassant les 0,22 mg d’alcool par litre d’air expiré ?
 
 - Une interdiction immédiate de conduire de 6 heures.
-- **Une interdiction immédiate de conduire de 3 heures.**
+- ***Une interdiction immédiate de conduire de 3 heures.***
 - Une interdiction immédiate de conduire de 12 heures.
 
 > Moins de 0,22 mg/l = vous pouvez conduire, à partir de 0,22 mg/l = 3 heures, à partir de 0,35 mg/l ou refus de souffler = 6 heures.
@@ -452,7 +452,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Qui peut effectuer le prélèvement sanguin ?
 
-- **Un médecin désigné par la police.**
+- ***Un médecin désigné par la police.***
 - Un agent de police
 - Le médecin privé du conducteur.
 
@@ -468,7 +468,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Une interdiction immédiate de conduire de 6 heures.
 - Rien car vous êtes sous la limite punissable.
-- **Une interdiction immédiate de conduire de 3 heures.**
+- ***Une interdiction immédiate de conduire de 3 heures.***
 
 > Moins de 0,22 mg/l = vous pouvez conduire, à partir de 0,22 mg/l = 3 heures, à partir de 0,35 mg/l ou refus de souffler = 6 heures.
 
@@ -482,7 +482,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Le test de drogue.
 - Le test d'haleine.
-- **Le test de la salive.**
+- ***Le test de la salive.***
 
 > Le test salivaire  permet de détecter l'emprise de drogue ou autres substances illicites. Le test de drogue n'existe pas dans la loi de la circulation routière.
 
@@ -495,7 +495,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 ### Vous êtes stationnés sur la voie publique. Quelle est la sanction si vous refusez un test de l’haleine ?
 
 - Aucune sanction.
-- **Une interdiction immédiate de conduire de 6 heures.**
+- ***Une interdiction immédiate de conduire de 6 heures.***
 - Une interdiction immédiate de conduire de 3 heures.
 
 > Si vous refusez de vous soumettre à un test d'haleine, vous risquez la peine maximale qui est de 6 heures, soit l'équivalence d'un taux supérieur à 0,35mg/l d'air expiré (Positif).
@@ -508,7 +508,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 ### Combien de délais de 15 minutes pouvez-vous demander à l'agent de police ?
 
-- **Un seul délai.**
+- ***Un seul délai.***
 - Seulement 2.
 - Pas plus que 3.
 
@@ -524,7 +524,7 @@ ATTENTION : N’oubliez pas que le seuil d’alcool punissable est de 0,22 milli
 
 - Oui, 30 minutes.
 - Non, vous devez souffler immédiatement.
-- **Oui, 15 minutes.**
+- ***Oui, 15 minutes.***
 
 > Vous pouvez demander un délai unique de 15 min avant de souffler.
 

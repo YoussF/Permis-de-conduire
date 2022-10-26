@@ -31,7 +31,7 @@
 
 ### Dans un virage où la visibilité est réduite, il est interdit de se stationner, mais l'arrêt est autorisé.
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > à proximité du sommet d'une côte ou d'un virage, lorsque la visibilité est insuffisante, il est interdit de s’arrêter et de stationner sur la chaussée.
@@ -46,7 +46,7 @@
 
 - De s'arrêter et de stationner sur la chaussée et l'accotement.
 - De stationner sur l'accotement et la chaussée.
-- **De s'arrêter et de stationner sur la chaussée.**
+- ***De s'arrêter et de stationner sur la chaussée.***
 
 > Dans un tunnel, il est interdit de s’arrêter et de stationner sur la chaussée.
 
@@ -59,7 +59,7 @@
 ### Le véhicule noir, peut-il s'arrêter ou se stationner après ce panneau ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > à partir du panneau, l'arrêt et le stationnement sont interdits.
 
@@ -71,7 +71,7 @@
 
 ### Vous pouvez vous immobiliser sur la piste cyclable
 
-- **Ni pour vous arrêter ni pour stationner.**
+- ***Ni pour vous arrêter ni pour stationner.***
 - Pour vous arrêtez ou stationnez.
 - Uniquement pour vous arrêter.
 
@@ -85,7 +85,7 @@
 
 ### Pouvez-vous rouler sur la piste cyclable pour croiser un véhicule qui vient dans l'autre sens ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > La piste cyclable ne fait pas partie de la chaussée. Par conséquent, c'est interdit.
@@ -100,7 +100,7 @@
 
 - à moins de 20 mètres en deçà de ce passage.
 - à moins de 5 mètres au-delà de ce passage.
-- **à moins de 5 mètres en deçà de ce passage.**
+- ***à moins de 5 mètres en deçà de ce passage.***
 
 > Il est interdit de s’arrêter et de stationner sur la chaussée à moins de 5 m en deçà (avant) d’un passage pour piétons, pour cyclistes et cyclomoteurs à deux-roues. En revanche, il est possible de stationner immédiatement après.
 
@@ -112,7 +112,7 @@
 
 ### Pouvez-vous stationner le long de cette ligne jaune ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > à cet endroit, le stationnement est interdit. En revanche, l'arrêt est autorisé.
@@ -127,7 +127,7 @@
 
 - Vous stationnez.
 - Vous arrêtez.
-- **Ni vous arrêtez ni vous stationnez.**
+- ***Ni vous arrêtez ni vous stationnez.***
 
 > Sur une zone d'évitement, il est interdit de s'arrêter et de stationner.
 
@@ -139,7 +139,7 @@
 
 ### Pouvez-vous vous arrêter devant ce garage ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Il est autorisé de s'arrêter devant un garage. Seul le stationnement est interdit.
@@ -152,7 +152,7 @@
 
 ### Avant un carrefour. L'arrêt et le stationnement sont interdits …
 
-- **à moins de 5 mètres en deçà de ce carrefour.**
+- ***à moins de 5 mètres en deçà de ce carrefour.***
 - à moins de 15 mètres en deçà de ce carrefour.
 - à moins de 20 mètres de ce carrefour.
 
@@ -166,7 +166,7 @@
 
 ### La piste cyclable se termine et les cyclistes doivent circuler sur la chaussée. Il est interdit de s'arrêter et de stationner en deçà et au-delà sur la chaussée et l'accotement…
 
-- **à moins de 5 mètres.**
+- ***à moins de 5 mètres.***
 - à moins de 20 mètres.
 - à moins de 15 mètres.
 
@@ -181,7 +181,7 @@
 ### Pouvez-vous faire une double file pour laisser descendre un ami ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Les doubles files sont interdites. Dans ce cas, c'est d'autant plus interdit, car le véhicule blanc s'est arrêté sur la piste cyclable.
 
@@ -194,7 +194,7 @@
 ### En deçà d'un panneau, vous ne pouvez ni vous arrêter ni vous stationner…
 
 - à moins de 5 mètres.
-- **à moins de 20 mètres.**
+- ***à moins de 20 mètres.***
 - à moins de 15 mètres.
 
 > À moins de 20 mètres en deçà des panneaux de signalisation, il est interdit de s'arrêter et de stationner sur la chaussée et l'accotement. Sauf si votre véhicule fait moins de 1m65 et que le panneau est placé à au moins 2 mètres au-dessus du sol.
@@ -208,7 +208,7 @@
 ### Pouvez-vous vous arrêter après ce panneau pour consulter votre téléphone ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Il est interdit de s'arrêter et de stationner sur les autoroutes et routes pour automobiles sauf une réglementation locale. C'est-à-dire, sauf dans le cas où un panneau l'y autoriserait. Dans ce cas, c'est interdit !
 
@@ -222,7 +222,7 @@
 
 - Stationner.
 - S'arrêter.
-- **S'arrêter et stationner.**
+- ***S'arrêter et stationner.***
 
 > Sur une route pour automobiles, il est interdit de s'arrêter et de stationner.
 
@@ -236,7 +236,7 @@
 
 - S'arrêter et stationner sur la chaussée et l'accotement.
 - Stationner sur la chaussée.
-- **S'arrêter et stationner sur la chaussée.**
+- ***S'arrêter et stationner sur la chaussée.***
 
 > Sous les ponts, il est interdit de s’arrêter et de stationner sur la chaussée. On considère que la visibilité n'est pas assez bonne. Par contre, retenez que sur l'accotement, c'est autorisé.
 
@@ -248,7 +248,7 @@
 
 ### Il est interdit de s'arrêter et de stationner …
 
-- **Sur un dispositif surélevé.**
+- ***Sur un dispositif surélevé.***
 - Sur un dispositif surélevé et à moins de 5 mètres en deçà et au delà.
 - Sur un dispositif surélevé et à moins de 5 mètres en deçà de ces dispositifs.
 
@@ -263,7 +263,7 @@
 ### Pouvez-vous vous arrêter sur un dispositif surélevé ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Sur un dispositif surélevé, il est interdit de s'arrêter et de stationner.
 
@@ -276,7 +276,7 @@
 ### Avant un signal lumineux (feu de signalisation). Il est interdit de s'arrêter et de stationner …
 
 - à moins de 15 mètres en deçà de ce feu.
-- **à moins de 20 mètres en deçà de ce feu.**
+- ***à moins de 20 mètres en deçà de ce feu.***
 - à moins de 5 mètres en deçà de ce feu.
 
 > à moins de 20 mètres en deçà (avant) un carrefour muni d'un signal lumineux, il est interdit de s’arrêter et de stationner sur la chaussée et l'accotement.
@@ -289,7 +289,7 @@
 
 ### Avant  un passage pour cycliste, il est interdit de s'arrêter et de stationner …
 
-- **à moins de 5 mètres en deçà de ce passage.**
+- ***à moins de 5 mètres en deçà de ce passage.***
 - à moins de 15 mètres en deçà de ce passage.
 - à moins de 20 mètres en deçà de ces passages.
 
@@ -303,7 +303,7 @@
 
 ### Signaux lumineux placés en dehors des carrefours. Il est interdit de s'arrêter et de stationner…
 
-- **à moins de 20 mètres en deçà de ce feu.**
+- ***à moins de 20 mètres en deçà de ce feu.***
 - à moins de 15 mètres en deçà de ce feu.
 - à moins de 5 mètres en deçà de ce feu.
 
@@ -317,7 +317,7 @@
 
 ### Pouvez-vous vous arrêter sur la piste cyclable pour laisser descendre un passager ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > La piste cyclable ne fait pas partie de la chaussée. Par conséquent, c'est interdit.

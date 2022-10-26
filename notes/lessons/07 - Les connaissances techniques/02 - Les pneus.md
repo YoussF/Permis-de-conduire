@@ -35,7 +35,7 @@
 
 ### Rouler avec des pneus sous-gonflés …
 
-- **Augmente l'usure des pneus.**
+- ***Augmente l'usure des pneus.***
 - Diminue l'usure des pneus.
 - Cela ne modifie pas l'usure des pneus.
 
@@ -50,7 +50,7 @@
 ### À quoi correspond le chiffre 45 sur ce pneu ?
 
 - C'est la hauteur du pneu en mm.
-- **C'est le rapport entre la hauteur et la largeur.**
+- ***C'est le rapport entre la hauteur et la largeur.***
 - C'est la largeur du pneu en mm.
 
 > Le chiffre 45 correspond au rapport entre la hauteur et la largeur (45 %).
@@ -65,7 +65,7 @@
 
 - des pneus diagonaux.
 - Des pneus radiaux.
-- **Des pneus radiaux ou diagonaux.**
+- ***Des pneus radiaux ou diagonaux.***
 
 > Si votre voiture est équipée de pneus diagonaux à l'avant, alors vous avez le choix de mettre des diagonaux ou des radiaux pour l'arrière.
 
@@ -78,7 +78,7 @@
 ### Des pneus sous-gonflés entraînent une consommation de carburant plus élevé.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Une mauvaise pression entraîne une usure plus rapide, une consommation de carburant plus élevé et une mauvaise tenue de route.
 
@@ -90,7 +90,7 @@
 
 ### Quand pouvez-vous rouler avec des pneus à clous ?
 
-- **Du 1er novembre au 31 mars.**
+- ***Du 1er novembre au 31 mars.***
 - Lorsqu'il neige.
 - Du 1er décembre au 31 mars.
 
@@ -105,7 +105,7 @@
 ### À quoi correspond la lettre W sur ce pneu ?
 
 - C'est l'indice de charge.
-- **C'est l'indice de vitesse.**
+- ***C'est l'indice de vitesse.***
 - C'est le type de structure du pneu.
 
 > La lettre W est l’indice de vitesse.
@@ -119,7 +119,7 @@
 ### Lors du changement d'une roue, dans quel ordre devez-vous serrer les boulons ?
 
 - De gauche à droite.
-- **En croix.**
+- ***En croix.***
 - De haut en bas.
 
 > Lors du changement d'une roue, vous devez serrer les boulons en forme de croix.
@@ -132,7 +132,7 @@
 
 ### Si votre voiture est équipée de pneus radiaux à l'avant, quels pneus doivent être mis pour l'arrière ?
 
-- **Des pneus radiaux.**
+- ***Des pneus radiaux.***
 - Des pneus radiaux ou diagonaux.
 - des pneus diagonaux.
 
@@ -146,7 +146,7 @@
 
 ### Quand pouvez-vous rouler avec des pneus équipés de chaîne à neige ?
 
-- **En cas de neige ou de verglas.**
+- ***En cas de neige ou de verglas.***
 - En cas de neige.
 - Du 1er novembre au 31 mars.
 
@@ -162,7 +162,7 @@
 
 - C'est la largeur du pneu en mm.
 - C'est la hauteur du pneu en mm.
-- **C'est l'indice de charge.**
+- ***C'est l'indice de charge.***
 
 > Le chiffre 91 correspond à l'indice de charge.
 
@@ -175,7 +175,7 @@
 ### Quelle est la profondeur minimale des rainures d’un pneu ?
 
 - 0,6 mm.
-- **1,6 mm.**
+- ***1,6 mm.***
 - 16 mm.
 
 > La profondeur minimale des rainures d’un pneu est de 1,6 mm.
@@ -189,7 +189,7 @@
 ### Le risque d'aquaplaning est plus élevé lorsque les pneus sont usés.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Le risque d'aquaplaning est plus élevé lorsque les pneus sont usés. En dessous de 1,6 mm, l’eau risque de ne plus être évacuée correctement.
 
@@ -201,7 +201,7 @@
 
 ### À quoi correspond la lettre R sur ce pneu ?
 
-- **C'est le type de structure du pneu.**
+- ***C'est le type de structure du pneu.***
 - C'est l'indice de charge.
 - C'est l'indice de vitesse.
 
@@ -215,7 +215,7 @@
 
 ### Avec des pneus équipés de chaîne à neige, quelle est la vitesse maximale en agglomération (Wallonie) ?
 
-- **50 km/h.**
+- ***50 km/h.***
 - 30 km/h.
 - 70 km/h.
 
@@ -229,7 +229,7 @@
 
 ### Quand devez-vous vérifier la pression de vos pneus ?
 
-- **Lorsque le pneu est froid.**
+- ***Lorsque le pneu est froid.***
 - Peu importe.
 - Lorsque le pneu est chaud.
 
@@ -244,7 +244,7 @@
 ### Laquelle de ces réponses est fausse ? J'augmente la pression de mes pneus ...
 
 - Lorsque mon véhicule est chargé.
-- **Lorsqu'il neige.**
+- ***Lorsqu'il neige.***
 - Lorsque je fais un long trajet.
 
 > Il faut augmenter la pression de vos pneus UNIQUEMENT si votre véhicule est chargé ou en cas de long trajet.
@@ -259,7 +259,7 @@
 
 - 70 km/h.
 - 90 km/h.
-- **60 km/h.**
+- ***60 km/h.***
 
 > Avec des pneus à clous, la vitesse maximale hors agglomération est de 60 km/h.
 
@@ -271,7 +271,7 @@
 
 ### Avec des pneus à clous, quelle est la vitesse maximale sur autoroute ?
 
-- **90 km/h.**
+- ***90 km/h.***
 - 100 km/h.
 - 120 km/h.
 
@@ -285,7 +285,7 @@
 
 ### Nous sommes le 25 octobre et il neige fortement, pouvez-vous rouler avec des pneus à clous ?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est autorisé.
 
 > Les pneus à clous sont à utiliser UNIQUEMENT du 1er novembre au 31 mars.
@@ -299,7 +299,7 @@
 ### Des pneus en mauvais état entraînent une distance de freinage …
 
 - Identique.
-- **Plus longue.**
+- ***Plus longue.***
 - Plus courte.
 
 > Des pneus en mauvais état entraînent une distance de freinage plus longue.
@@ -312,7 +312,7 @@
 
 ### Lequel de ces montages de pneus est interdit ?
 
-- **Des pneus diagonaux à l'arrière et radiaux à l'avant.**
+- ***Des pneus diagonaux à l'arrière et radiaux à l'avant.***
 - Des pneus diagonaux à l'avant et à l'arrière.
 - Des pneus diagonaux à l'avant et radiaux à l'arrière.
 
@@ -327,7 +327,7 @@
 ### Est-il obligatoire d'avoir une roue de secours dans sa voiture ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > La roue de secours n'est pas obligatoire, mais fortement recommandée d’en avoir une dans votre voiture.
 
@@ -341,7 +341,7 @@
 
 - Oui, je diminue la pression.
 - Oui, j'augmente la pression.
-- **Non, je ne modifie pas.**
+- ***Non, je ne modifie pas.***
 
 > En cas de neige ou de verglas, il ne faut pas modifier la pression de vos pneus.
 
@@ -353,7 +353,7 @@
 
 ### Vos pneus sont usés. Pouvez-vous le retailler pour rendre visibles les rainures ?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est autorisé.
 
 > Il est interdit de retailler ses pneus, il faut les changer.
@@ -367,7 +367,7 @@
 ### À quoi correspond le chiffre 17 sur ce pneu ?
 
 - C'est l'indice de vitesse.
-- **C'est le diamètre de la jante en pouce.**
+- ***C'est le diamètre de la jante en pouce.***
 - C'est l'indice de charge.
 
 > Le chiffre 17 indique le diamètre de la jante en pouce.
@@ -382,7 +382,7 @@
 
 - C'est la hauteur du pneu en mm.
 - C'est le rapport entre la hauteur et la largeur.
-- **C'est la largeur du pneu en mm.**
+- ***C'est la largeur du pneu en mm.***
 
 > Le chiffre 225 correspond à la largeur du pneu en mm.
 

@@ -53,7 +53,7 @@
 ### Un bus scolaire est à l'arrêt et a allumé ses feux de détresse. Qu'est-ce que cela signifie ?
 
 - Le bus vous prévient d'un embouteillage
-- **Le bus fait descendre ou monter des enfants**
+- ***Le bus fait descendre ou monter des enfants***
 - Le bus est en panne
 
 > Lorsqu'un bus scolaire allume ses feux de détresse,  cela signifie qu'il fait descendre ou monter des enfants. Vous pouvez dépasser le bus avec prudence et à vitesse modérée.
@@ -66,7 +66,7 @@
 
 ### Pouvez-vous dépasser par la gauche un cycliste sur un passage à niveau ?
 
-- **Tous types de passage à niveau**
+- ***Tous types de passage à niveau***
 - Seulement sur un passage à niveau sans barrières
 - Seulement sur un passage à niveau avec barrières
 
@@ -81,7 +81,7 @@
 ### Qui a la priorité?
 
 - La voiture grise
-- **Le tram.**
+- ***Le tram.***
 
 > En absence de signalisations, le tram est toujours prioritaire. Les règles de priorité ne s'appliquent pas aux trams.
 
@@ -95,7 +95,7 @@
 
 - Non, vous aurez seulement une amende
 - Non, c'est une infraction légère
-- **Oui, c'est une infraction grave**
+- ***Oui, c'est une infraction grave***
 
 > Il est interdit de franchir un passage à niveau lorsque les feux rouges clignotants sont allumés. C'est une infraction du 4ème degré.
 
@@ -108,7 +108,7 @@
 ### Que pouvez-vous faire sur une bande de bus ?
 
 - Attendre un ami
-- **S'arrêter**
+- ***S'arrêter***
 - Circuler
 
 > Sur une bande de bus, vous pouvez seulement vous arrêter pour embarquer/ débarquer une personne.
@@ -122,7 +122,7 @@
 ### Que signifie ce feu de signalisation dédié aux véhicules des transports en commun ?
 
 - Un feu rouge.
-- **Oblige de suivre la direction indiquée par la barre.**
+- ***Oblige de suivre la direction indiquée par la barre.***
 - Un feu jaune-orange fixe.
 
 > Ce feu est vert et oblige de suivre la direction indiquée par la barre
@@ -137,7 +137,7 @@
 
 - Passage à niveau.
 - Passage à niveau fermé.
-- **Passage à niveau avec barrières.**
+- ***Passage à niveau avec barrières.***
 
 > Ce panneau indique un passage à niveau avec barrières.
 
@@ -149,7 +149,7 @@
 
 ### Selon ces panneaux, qui peut circuler sur ce site spécial franchissable en plus du tram et bus ?
 
-- **Les cyclomoteurs**
+- ***Les cyclomoteurs***
 - Les motocyclettes
 - Les cyclistes
 
@@ -164,7 +164,7 @@
 ### Pouvez-vous dépasser un bus qui fait monter ou descendre des passagers ?
 
 - Non
-- **Oui**
+- ***Oui***
 - Oui, seulement hors agglomération
 
 > Vous pouvez dépasser le bus à vitesse modérée. Attention, dès que le bus allume son clignotant gauche, il est interdit de le dépasser.
@@ -179,7 +179,7 @@
 
 - Un passage à niveau à deux ou plusieurs voies.
 - Un passage à niveau avec barrières.
-- **Un passage à niveau sans barrières.**
+- ***Un passage à niveau sans barrières.***
 
 > Ce panneau reprend la forme d'un train. Il indique la présence d'un passage à niveau sans barrières.
 
@@ -191,7 +191,7 @@
 
 ### Que représente ce panneau ?
 
-- **Un passage à niveau à une voie.**
+- ***Un passage à niveau à une voie.***
 - Un passage à niveau avec barrières.
 - Un passage à niveau à deux ou plusieurs voies.
 
@@ -205,7 +205,7 @@
 
 ### Le tram doit céder le passage à la voiture grise ?
 
-- **Non, le tram est prioritaire.**
+- ***Non, le tram est prioritaire.***
 - Oui, c'est la priorité de droite qui s'applique.
 - Oui, la voiture grise est prioritaire.
 
@@ -221,7 +221,7 @@
 
 - Non, c'est interdit
 - Non, c'est réservé seulement au bus
-- **Oui**
+- ***Oui***
 
 > Les marques en damier indiquent  l'endroit où vous pouvez circuler sur le site spécial franchissable pour traverser un carrefour.
 
@@ -234,7 +234,7 @@
 ### Où pouvez-vous circuler sur les derniers mètres de la bande de bus pour tourner à droite au prochain carrefour ?
 
 - Hors agglomération
-- **En agglomération et hors agglomération**
+- ***En agglomération et hors agglomération***
 - En agglomération
 
 > Il est autorisé aussi bien en agglomération qu'en dehors de l'agglomération.
@@ -248,7 +248,7 @@
 ### En ville, un bus scolaire veut quitter son point d'arrêt et allume son feu indicateur de direction. Que devez-vous faire ?
 
 - Vous pouvez continuer votre route
-- **Vous devez lui céder le passage.**
+- ***Vous devez lui céder le passage.***
 
 > En ville (agglomération), le bus est prioritaire lorsqu'il veut quitter son point d'arrêt.
 
@@ -261,7 +261,7 @@
 ### Quand devez-vous céder le passage à un bus qui quitte son point d'arrêt ?
 
 - En agglomération et hors agglomération
-- **En agglomération**
+- ***En agglomération***
 - Hors agglomération
 
 > Vous devez céder le passage seulement en agglomération. Hors agglomération, la vitesse est souvent élevée. Il est donc dangereux  de freiner brusquement pour céder le passage à un bus qui quitte son point d'arrêt.
@@ -274,7 +274,7 @@
 
 ### Que représente ce panneau ?
 
-- **Croisement entre des rails de tram et la chaussée dans 150m**
+- ***Croisement entre des rails de tram et la chaussée dans 150m***
 - Passage à niveau avec barrières.
 - Passage à niveau sans barrières.
 
@@ -290,7 +290,7 @@
 
 - Un passage à niveau sans barrières.
 - Un passage à niveau avec barrières.
-- **Un passage à niveau à deux ou plusieurs voies.**
+- ***Un passage à niveau à deux ou plusieurs voies.***
 
 > Ce panneau reprend la forme d'une croix X en dessous d'un V. Il indique la présence d'un passage à niveau à deux ou plusieurs voies.
 
@@ -302,7 +302,7 @@
 
 ### À l'approche d'un passage à niveau, votre route est embouteillée. Pouvez-vous vous immobiliser sur les rails de train ?
 
-- **Non, c'est une infraction grave**
+- ***Non, c'est une infraction grave***
 - Oui, si les barrières sont ouvertes
 - Oui, j'ai priorité
 
@@ -317,7 +317,7 @@
 ### Pouvez-vous circuler sur l’arrêt de bus ?
 
 - Oui seulement hors agglomération
-- **Oui**
+- ***Oui***
 - Non
 
 > Vous pouvez toujours circuler sur un arrêt de bus, mais pas sur la bande de bus.
@@ -332,7 +332,7 @@
 
 - Oui, car c'est un carrefour prioritaire.
 - Oui, c'est la priorité de droite qui s'applique.
-- **Non**
+- ***Non***
 
 > Le tram est toujours prioritaire dans les carrefours. Il doit  seulement suivre ses feux de signalisations et les injonctions des agents qualifiés.
 
@@ -345,7 +345,7 @@
 ### Que signifie ce feu de signalisation dédié aux véhicules des transports en commun ?
 
 - Un feu vert.
-- **Un feu jaune-orange fixe.**
+- ***Un feu jaune-orange fixe.***
 - Un feu rouge.
 
 > Ce feu indique la même signification qu'un feu jaune-orange fixe.
@@ -359,7 +359,7 @@
 ### Quel panneau indique un site spécial franchissable ?
 
 - Panneau 2.
-- **Panneau 1.**
+- ***Panneau 1.***
 - Aucun
 
 > Le site spécial franchissable est délimité par deux lignes blanches continues
@@ -373,7 +373,7 @@
 ### Vous êtes derrière le bus. Le bus s'arrête à l'approche d'un passage pour piétons. Pouvez-vous dépasser ce bus ?
 
 - Oui, vous pouvez le dépasser par la gauche
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, c'est une voie prioritaire
 
 > Il est interdit de dépasser un véhicule, même un bus, lorsqu'il s'arrête devant ou s'approche d'un passage piéton.
@@ -387,7 +387,7 @@
 ### Le signal sonore fonctionne mais, les barrières sont encore ouvertes, que devez-vous faire?
 
 - Continuer votre route.
-- **Vous arrêter.**
+- ***Vous arrêter.***
 
 > Quand le signal sonore fonctionne, vous ne pouvez pas franchir le passage à niveau même si les barrières sont ouvertes.
 
@@ -400,7 +400,7 @@
 ### Que représente ce panneau de danger?
 
 - Passage à niveau sans feux.
-- **Passage à niveau à voie unique.**
+- ***Passage à niveau à voie unique.***
 - Passage à niveau avec barrières et feux.
 
 > Ce panneau reprend la forme d'une croix (X). Il indique la présence d'un passage à niveau à une voie.
@@ -413,7 +413,7 @@
 
 ### Que représente ce marquage au sol ?
 
-- **Des marques en damiers.**
+- ***Des marques en damiers.***
 - Une zone d’évitement.
 - Des marques en mosaïques.
 
@@ -429,7 +429,7 @@
 
 - Panneau 1
 - Panneau 3
-- **Panneau 2**
+- ***Panneau 2***
 
 > Ce panneau reprend la forme d'un train. Il indique la présence d'un passage à niveau sans barrières.
 
@@ -441,7 +441,7 @@
 
 ### La voiture grise est-elle bien placée pour tourner à droite au prochain carrefour ?
 
-- **Oui**
+- ***Oui***
 - Non, il est interdit de tourner à droite
 - Non, elle doit se placer sur la bande à sa droite.
 
@@ -455,7 +455,7 @@
 
 ### Pouvez vous faire monter ou descendre quelqu'un à un arrêt de bus ?
 
-- **Oui**
+- ***Oui***
 - Non, c'est interdit
 
 > L'arrêt est autorisé, mais le stationnement est interdit.
@@ -468,7 +468,7 @@
 
 ### Pouvez-vous attendre un ami sur l’arrêt de bus ?
 
-- **Non**
+- ***Non***
 - Oui
 
 > Sur un arrêt de bus, vous pouvez seulement vous arrêter le temps pour embarquer/débarquer une personne.
@@ -482,7 +482,7 @@
 ### Que représente ce panneau ?
 
 - Passage à niveau avec barrières.
-- **Passage à niveau sans barrières.**
+- ***Passage à niveau sans barrières.***
 - Croisement entre des rails de tram et la chaussée dans 150m
 
 > Ce panneau reprend la forme d'un train. Il indique la présence d'un passage à niveau sans barrières.
@@ -496,7 +496,7 @@
 ### De quel type de panneau s’agit-il?
 
 - Un panneau d'attention.
-- **Un panneau de danger.**
+- ***Un panneau de danger.***
 - Un panneau d’indication.
 
 > Ce panneau qui indique un passage à niveau à deux ou plusieurs voies est un panneau de danger (A47)
@@ -509,7 +509,7 @@
 
 ### Que signifie ce feu de signalisation dédié aux véhicules des transports en commun ?
 
-- **Un feu vert.**
+- ***Un feu vert.***
 - Un feu rouge.
 - Un feu jaune-orange fixe.
 
@@ -525,7 +525,7 @@
 
 - 350
 - 200
-- **150**
+- ***150***
 
 > Le panneau signalant un passage à niveau est un panneau de danger. Les panneaux de danger préviennent d'un danger qui se trouve à 150m. Par contre, la limitation de vitesse de 30 km/h est applicable dans 200m
 
@@ -537,7 +537,7 @@
 
 ### La voiture de police effectue une mission urgente. Dans quel ordre ces véhicules doivent-ils s’engager dans ce carrefour?
 
-- **Police-Tram-Voiture grise**
+- ***Police-Tram-Voiture grise***
 - Tram-Police-Voiture grise
 - Voiture grise-Police-Tram
 
@@ -552,7 +552,7 @@
 ### Vous êtes hors agglomération. Ce bus veut quitter son point d'arrêt. Que devez-vous faire?
 
 - Vous devez céder le passage au bus
-- **Vous pouvez continuer votre route**
+- ***Vous pouvez continuer votre route***
 
 > Hors agglomération, le bus n'est pas prioritaire lorsqu'il quitte son point d'arrêt. Vous pouvez continuer votre route en le dépassant prudemment.
 
@@ -564,7 +564,7 @@
 
 ### Pouvez-vous traverser la partie de voie publique avec la mention BUS pour stationner à droite sur l'accotement ?
 
-- **Oui**
+- ***Oui***
 - Non
 - Non, seulement vous arrêtez
 
@@ -579,7 +579,7 @@
 ### Pouvez-vous circuler sur les derniers mètres la partie de voie publique avec la mention BUS pour tourner à droite au prochain carrefour ?
 
 - Oui, seulement en agglomération
-- **Non**
+- ***Non***
 - Oui, seulement hors agglomération
 
 > Il est interdit de franchir la ligne blanche continue sur les derniers mètres, car c'est un site spécial franchissable et non une bande BUS.
@@ -592,7 +592,7 @@
 
 ### Le conducteur de tram doit-il respecter le Code de la route ?
 
-- **Oui, seulement les feux de signalisation et les agents de police**
+- ***Oui, seulement les feux de signalisation et les agents de police***
 - Oui, seulement les règles de priorité.
 - Non
 
@@ -606,7 +606,7 @@
 
 ### À quelle distance ne pouvez-vous pas stationner d’un panneau qui indique un arrêt de bus ?
 
-- **15 mètres en deçà et au-delà**
+- ***15 mètres en deçà et au-delà***
 - 15 mètres au-delà
 - 15 mètres en deçà
 
@@ -620,7 +620,7 @@
 
 ### Le train est déjà passé et les barrières se lèvent encore. Pouvez-vous vous engager ?
 
-- **Non, c'est une infraction grave**
+- ***Non, c'est une infraction grave***
 - Non, c'est une infraction légère
 - Oui, je peux m'engager
 
@@ -636,7 +636,7 @@
 
 - Seulement sur un passage à niveau sans barrières
 - Tous types de passage à niveau
-- **Seulement sur un passage à niveau avec barrières**
+- ***Seulement sur un passage à niveau avec barrières***
 
 > Sur un passage à niveau AVEC barrières, vous pouvez dépasser TOUS les usagers (cyclomoteur, cycliste, voiture, moto, camion,…).
 

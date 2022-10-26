@@ -52,7 +52,7 @@
 ### Pouvez-vous continuer tout droit ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Le panneau additionnel indique que le sens interdit prendra effet dans 60 m et non pas maintenant.
 
@@ -66,7 +66,7 @@
 
 - Dans 150 m.
 - Dans 50 m.
-- **Immédiatement.**
+- ***Immédiatement.***
 
 > Ce panneau prend effet immédiatement.
 
@@ -78,7 +78,7 @@
 
 ### Que signifie ce panneau ?
 
-- **Endroit spécialement fréquenté par des enfants.**
+- ***Endroit spécialement fréquenté par des enfants.***
 - Passage pour piétons.
 - Passage pour enfants.
 
@@ -92,7 +92,7 @@
 
 ### De quelle forme sont les panneaux d'indication ?
 
-- **Carré de couleur bleu et blanc.**
+- ***Carré de couleur bleu et blanc.***
 - Rond de couleur bleu et blanc.
 - Rond de couleur rouge et blanc.
 
@@ -106,7 +106,7 @@
 
 ### Ce signal annonce une …
 
-- **Interdiction de dépasser par la gauche un véhicule attelé ou un véhicule à plus de 2 roues.**
+- ***Interdiction de dépasser par la gauche un véhicule attelé ou un véhicule à plus de 2 roues.***
 - Interdiction de circuler sur cette voie pour tous les véhicules à moteur à plus de 2 roues.
 - Interdiction de dépasser.
 
@@ -121,7 +121,7 @@
 ### Ce panneau m'indique qu'à ce carrefour …
 
 - Je dois m'immobiliser et céder la priorité.
-- **le tracé de la voie prioritaire tourne vers la gauche.**
+- ***le tracé de la voie prioritaire tourne vers la gauche.***
 
 > Ce panneau indique le tracé de la voie prioritaire.
 
@@ -134,7 +134,7 @@
 ### Que signifie ce panneau ?
 
 - Accès interdit à tout véhicule transportant des marchandises dangereuses.
-- **Accès interdit à tout véhicule transportant des marchandises dangereuses ou inflammables ou explosives.**
+- ***Accès interdit à tout véhicule transportant des marchandises dangereuses ou inflammables ou explosives.***
 - Accès interdit à tout véhicule transportant des marchandises polluantes.
 
 > Ce panneau indique un accès interdit à tout véhicule transportant des marchandises dangereuses ou inflammables ou explosives.
@@ -148,7 +148,7 @@
 ### Que signifie ce panneau ?
 
 - Dos d'âne.
-- **Dispositif surélevé.**
+- ***Dispositif surélevé.***
 - Cassis.
 
 > Ce panneau indique un dispositif surélevé.
@@ -163,7 +163,7 @@
 
 - Une obligation.
 - Un danger.
-- **Une interdiction.**
+- ***Une interdiction.***
 
 > Ce panneau rond à bord rouge signale une interdiction. La nature de l'interdiction dépend du symbole à l'intérieur du panneau. Celui-ci n'a aucun symbole. Il signale donc un accès interdit à tous les conducteurs dans les 2 sens.
 
@@ -176,7 +176,7 @@
 ### Ce signal indique une fin de toutes les interdictions locales imposées aux véhicules en mouvement.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Ce panneau indique une fin de toutes les interdictions locales imposées aux véhicules en mouvement.
 
@@ -188,7 +188,7 @@
 
 ### Les panneaux ronds de couleur bleu et blanc sont des …
 
-- **Panneaux d'obligation.**
+- ***Panneaux d'obligation.***
 - Panneaux d'interdiction.
 - Panneaux d'indication.
 
@@ -203,7 +203,7 @@
 ### à la prochaine intersection …
 
 - Vous devez céder la priorité.
-- **Les usagers venant de droite et de gauche vous céderont le passage.**
+- ***Les usagers venant de droite et de gauche vous céderont le passage.***
 
 > Ce panneau indique qu'à la prochaine intersection, vous serez prioritaire.
 
@@ -217,7 +217,7 @@
 
 - Rond de couleur bleu et blanc.
 - Rond de couleur rouge et blanc.
-- **Triangulaire de couleur blanc et rouge**
+- ***Triangulaire de couleur blanc et rouge***
 
 > Les panneaux de danger sont de forme triangulaire de couleur blanc et rouge.
 
@@ -229,7 +229,7 @@
 
 ### Ce panneau indique …
 
-- **Une priorité de droite.**
+- ***Une priorité de droite.***
 - Un danger inconnu.
 - Un stop.
 
@@ -245,7 +245,7 @@
 
 - Croisement de la voie publique par une ou plusieurs voies ferrées établies sur la chaussée.
 - Passage à niveau avec barrières.
-- **Passage à niveau sans barrières.**
+- ***Passage à niveau sans barrières.***
 
 > Ce panneau indique un passage à niveau sans barrières.
 
@@ -259,7 +259,7 @@
 
 - Une déviation.
 - Travaux sur une distance de 1500 m.
-- **Traversée de la berme centrale.**
+- ***Traversée de la berme centrale.***
 
 > Ce panneau annonce la traversée d'une berme centrale lors de travaux.
 
@@ -273,7 +273,7 @@
 
 - Double virage dangereux. Le premier étant à gauche.
 - Virage dangereux à droite.
-- **Double virage dangereux. Le premier étant à droite.**
+- ***Double virage dangereux. Le premier étant à droite.***
 
 > Ce panneau indique un double virage dangereux. Le premier étant à droite.
 
@@ -286,7 +286,7 @@
 ### Ce panneau s'applique …
 
 - Pendant 100 m.
-- **jusqu'à la fin de zone.**
+- ***jusqu'à la fin de zone.***
 - Jusqu'au prochain carrefour.
 
 > Ce panneau reste d'application jusqu'à croiser un panneau de fin de zone.
@@ -299,7 +299,7 @@
 
 ### Ce panneau indique …
 
-- **Circulation admise dans les 2 sens.**
+- ***Circulation admise dans les 2 sens.***
 - Passage étroit.
 - chaussée à 2 bandes de circulation.
 
@@ -314,7 +314,7 @@
 ### Que signifie ce panneau ?
 
 - Obligation de tourner à droite au prochain carrefour.
-- **Interdiction de tourner à droite au prochain carrefour.**
+- ***Interdiction de tourner à droite au prochain carrefour.***
 - Interdiction de faire demi-tour au carrefour suivant.
 
 > Ce panneau indique une interdiction de tourner à droite au prochain carrefour.
@@ -329,7 +329,7 @@
 
 - Passage à niveau avec barrières.
 - Passage à niveau sans barrières.
-- **Croisement de la voie publique par une ou plusieurs voies ferrées établies sur la chaussée.**
+- ***Croisement de la voie publique par une ou plusieurs voies ferrées établies sur la chaussée.***
 
 > Ce panneau indique un croisement de la voie publique par une ou plusieurs voies ferrés établis sur la chaussée.
 
@@ -343,7 +343,7 @@
 
 - Triangulaire de couleur rouge et blanc.
 - Rond de couleur bleu et blanc.
-- **Rond de couleur rouge et blanc.**
+- ***Rond de couleur rouge et blanc.***
 
 > Les panneaux d'interdiction sont rond de couleur rouge et blanc.
 
@@ -355,7 +355,7 @@
 
 ### Ce panneau indique un virage dangereux à gauche dans 200 m.
 
-- **Vrai.**
+- ***Vrai.***
 - Faux.
 
 > Ce panneau vous informe que le virage dangereux se trouve dans 200 m et non dans 150 m.
@@ -369,7 +369,7 @@
 ### à cette intersection, vous pouvez tourner à droite.
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Ce panneau indique qu'à cette intersection, vous ne pouvez pas tourner à droite.
 
@@ -381,7 +381,7 @@
 
 ### La limitation de vitesse est valable …
 
-- **Jusqu'au prochain carrefour.**
+- ***Jusqu'au prochain carrefour.***
 - jusqu'à la fin de zone.
 - Pendant 150 m.
 
@@ -396,7 +396,7 @@
 ### Ce signal est un panneau …
 
 - D'interdiction
-- **De priorité.**
+- ***De priorité.***
 - D'obligation
 
 > Les panneaux carrés bleus sont des panneaux d'indication. Mais celui-là est une exception. Il s'agit d'un panneau de priorité qui indique que le passage étroit. Il vous indique que vous avez priorité par rapport aux conducteurs venant en sens inverse.
@@ -409,7 +409,7 @@
 
 ### Ce signal indique un passage pour piétons …
 
-- **Vrai.**
+- ***Vrai.***
 - Faux.
 
 > Ce panneau indique un passage pour piétons.
@@ -422,7 +422,7 @@
 
 ### Ce panneau indique une chaussée glissante …
 
-- **Vrai.**
+- ***Vrai.***
 - Faux.
 
 > Ce panneau indique une chaussée glissante.
@@ -436,7 +436,7 @@
 ### Le panneau additionnel m'indique que les cyclistes peuvent utiliser cette chaussée dans les 2 sens.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > Le panneau additionnel indique ce sens unique peut être utilisé par les cyclistes dans les 2 sens de circulation.
 
@@ -449,7 +449,7 @@
 ### À quelle distance se trouve le danger ?
 
 - 50 mètres.
-- **150 mètres.**
+- ***150 mètres.***
 - 100 mètres.
 
 > Attention, ce panneau est complété par un panneau additionnel qui indique une distance bien précise.
@@ -462,7 +462,7 @@
 
 ### Qu'annonce ce signal ?
 
-- **Un tunnel d'une longueur supérieure à 500 m.**
+- ***Un tunnel d'une longueur supérieure à 500 m.***
 - Un tunnel dans 150 m.
 - Un tunnel
 
@@ -476,7 +476,7 @@
 
 ### Les panneaux d'indication prennent effet …
 
-- **Directement à partir de leur emplacement.**
+- ***Directement à partir de leur emplacement.***
 - Dans 50 m.
 - Dans 150 m.
 
@@ -490,7 +490,7 @@
 
 ### Ce panneau indique qu'il y a des travaux dans 10 km.
 
-- **Faux.**
+- ***Faux.***
 - Vrai.
 
 > Ce panneau vous informe que 150 m plus loin, il y a des travaux sur une distance de 10 km.
@@ -503,7 +503,7 @@
 
 ### Que signifie ce panneau ?
 
-- **Obligation d'aller tout droit.**
+- ***Obligation d'aller tout droit.***
 - Possibilité d'aller tout droit.
 - Sens unique.
 
@@ -518,7 +518,7 @@
 ### Pouvez-vous circuler dans cette rue si vous rendez visite à votre maman qui y habite ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Ce panneau interdit l'accès à tous les conducteurs sauf circulation locale. C'est à dire, aux véhicules des riverains et des personnes se rendant ou venant de chez l'un d'eux.
 
@@ -531,7 +531,7 @@
 ### Ce signal indique …
 
 - Une descente dangereuse.
-- **Une montée à forte inclinaison.**
+- ***Une montée à forte inclinaison.***
 
 > Ce panneau indique une montée à forte inclinaison.
 
@@ -544,7 +544,7 @@
 ### Ce panneau interdit l'accès aux conducteurs de …
 
 - Cyclomoteurs.
-- **Quad.**
+- ***Quad.***
 - Motocyclettes.
 
 > Ce panneau interdit l'accès aux conducteurs de quad.
@@ -558,7 +558,7 @@
 ### Que signifie ce panneau ?
 
 - Obligation d'aller tout droit.
-- **Voie à sens unique.**
+- ***Voie à sens unique.***
 - Chaussée à une bande de circulation.
 
 > Ce panneau indique une voie à sens unique.
@@ -571,7 +571,7 @@
 
 ### Vous devez tenir compte des panneaux qui sont …
 
-- **à droite.**
+- ***à droite.***
 - à gauche.
 - à gauche et à droite.
 
@@ -587,7 +587,7 @@
 
 - 50 mètres
 - 100 mètres.
-- **150 mètres.**
+- ***150 mètres.***
 
 > Les panneaux de danger sont placés à 150 mètres.
 
@@ -600,7 +600,7 @@
 ### Que signifie ce panneau ?
 
 - Accès interdit à tout conducteur.
-- **Voie sans issue.**
+- ***Voie sans issue.***
 - Sens interdit.
 
 > Ce panneau indique une voie sans issue.
@@ -615,7 +615,7 @@
 
 - Sens interdit dans ce sens.
 - Accès interdit à tous les conducteurs.
-- **Accès interdit à tous les conducteurs dans les 2 sens.**
+- ***Accès interdit à tous les conducteurs dans les 2 sens.***
 
 > Ce panneau indique un accès interdit à tous les conducteurs dans les 2 sens.
 

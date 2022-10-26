@@ -40,7 +40,7 @@
 ### Le feu jaune-orange clignote en bas. Pouvez-vous le franchir ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Lorsque le feu orange clignote en bas, c'est comme un feu vert. Vous pouvez le franchir.
 
@@ -53,7 +53,7 @@
 ### Le feu jaune-orange clignote seul. Quelle en est sa signification ?
 
 - Vous pouvez continuer sans respecter les règles de priorité.
-- **Vous pouvez passer en redoublant de prudence.**
+- ***Vous pouvez passer en redoublant de prudence.***
 - Vous devez vous arrêter.
 
 > Le feu orange clignotant placé seul ou à deux permet d’attirer votre intention et rester vigilant, car vous arrivez à proximité d’une zone particulière. Il ne modifie en rien les règles de priorité.
@@ -67,7 +67,7 @@
 ### Le feu est en panne. Qui a la priorité ?
 
 - La voiture grise.
-- **La voiture rouge.**
+- ***La voiture rouge.***
 - Aucunes des 2.
 
 > Le feu est en panne et il n'y a aucun panneau. Par conséquent, c'est la règle de priorité de droite qui s'applique (la voiture rouge est à droite de la voiture grise).
@@ -81,7 +81,7 @@
 ### Vous êtes immobilisé au feu rouge. Pouvez-vous répondre à un SMS rapidement ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 - Oui, mais c'est déconseillé.
 
 > Même au feu rouge, il est strictement interdit d'utiliser votre téléphone portable.
@@ -94,7 +94,7 @@
 
 ### La flèche d’évacuation est allumée et vous désirez tourner à gauche. Devez-vous céder le passage aux véhicules venant en sens inverse ? 
 
-- **Non, la flèche d’évacuation est allumée. J’ai la priorité.**
+- ***Non, la flèche d’évacuation est allumée. J’ai la priorité.***
 - Non, le feu est vert j’ai la priorité.
 - Oui, car je change de direction.
 
@@ -109,7 +109,7 @@
 ### Le feu blanc clignotant signifie …
 
 - Vous devez vous arrêter.
-- **Vous pouvez continuer.**
+- ***Vous pouvez continuer.***
 
 > Un feu blanc clignotant signifie que vous pouvez franchir le passage à niveau. C'est l'équivalent d'un feu vert.
 
@@ -121,7 +121,7 @@
 
 ### Vous tournez à droite. Devez-vous tenir compte du feu rouge ? 
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Les feux doivent se trouver à votre droite. Par conséquent, si le feu se trouve uniquement à votre gauche, n'en tenez pas compte.
@@ -134,7 +134,7 @@
 
 ### Le feu passe au rouge. Sur quelle pédale devez-vous appuyer en premier ?
 
-- **Frein.**
+- ***Frein.***
 - Accélérateur.
 - Embrayage.
 
@@ -149,7 +149,7 @@
 ### Dans cette situation, que devez-vous faire ?
 
 - Vous respecter le panneau STOP.
-- **Vous respecter le feu vert et continuer sans marquer l'arrêt.**
+- ***Vous respecter le feu vert et continuer sans marquer l'arrêt.***
 
 > Vous ne devez pas tenir compte du panneau STOP. En effet, dans la hiérarchie , les feux sont prioritaires sur les panneaux. Par ailleurs, si le feu est en panne (clignotant orange au milieu), alors vous respecterez le panneau STOP.
 
@@ -162,7 +162,7 @@
 ### Dans cette situation, que devez-vous faire ?
 
 - Vous pouvez passer.
-- **Vous devez vous arrêter.**
+- ***Vous devez vous arrêter.***
 
 > Les injonctions d'un agent qualifié sont prioritaires sur les feux. Vous devez donc vous arrêter.
 
@@ -175,7 +175,7 @@
 ### Que signifie ce feu de signalisation destiné aux services réguliers de transport en commun ? 
 
 - Feu jaune-orange fixe.
-- **Feu vert.**
+- ***Feu vert.***
 - Feu rouge.
 
 > Un triangle sur pointe tout en bas à la même signification que le feu vert.
@@ -188,7 +188,7 @@
 
 ### Vous voulez tourner à droite au feu. Vous avez priorité sur les véhicules venant de gauche.
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > La flèche verte vous donne uniquement l'autorisation de tourner à droite. En effet, le feu rouge placé juste au-dessus vous rappelle que les véhicules venant de gauche et les piétons ont la priorité.
@@ -203,7 +203,7 @@
 
 - Juste avant le feu.
 - à la deuxième ligne blanche.
-- **à la première ligne blanche.**
+- ***à la première ligne blanche.***
 
 > Vous devez vous arrêter à hauteur de la première ligne blanche.
 
@@ -216,7 +216,7 @@
 ### La flèche orange au-dessus de cette bande de circulation indique que …
 
 - Vous pouvez continuer.
-- **Vous devez quitter cette bande de circulation.**
+- ***Vous devez quitter cette bande de circulation.***
 
 > La flèche jaune-orange indique que vous devez quitter cette bande de circulation.
 
@@ -228,7 +228,7 @@
 
 ### Quel est le rôle d'une flèche d'évacuation ?
 
-- **Faciliter l'évacuation d'une intersection.**
+- ***Faciliter l'évacuation d'une intersection.***
 - Illuminer l'intersection lorsqu'il fait nuit.
 - Régler la circulation.
 
@@ -243,7 +243,7 @@
 ### Le feu jaune-orange clignote au milieu. Qu'est ce que ça signifie ?
 
 - Vous devez vous arrêter.
-- **Vous pouvez continuer.**
+- ***Vous pouvez continuer.***
 
 > Le feu jaune-orange clignotant au milieu signifie que le feu est en panne. Vous pouvez franchir ce feu en redoublant de prudence. En effet, c'est les panneaux qui reprennent la relève.
 
@@ -255,7 +255,7 @@
 
 ### Vous voulez tournez à gauche. Devez-vous céder le passage aux véhicules venant en sens inverse ?
 
-- **Oui.**
+- ***Oui.***
 - Non, le feu est vert.
 
 > Lorsque le feu est vert pour vous, il est également vert pour les véhicules venant en sens inverse. Ainsi, comme c'est vous qui faites un changement de direction en tournant à gauche, vous devez céder le passage.
@@ -268,7 +268,7 @@
 
 ### Le feu jaune-orange clignote au milieu. Que devez-vous faire ?
 
-- **Vous continuez votre route en respectant la hiérarchie.**
+- ***Vous continuez votre route en respectant la hiérarchie.***
 - Vous devez vous arrêter.
 - Vous continuez votre route normalement.
 
@@ -283,7 +283,7 @@
 ### La flèche d'évacuation verte est allumée. Le conducteur de la voiture grise peut-il s'engager ?
 
 - Oui en cédant le passage aux véhicules venant en sens inverse.
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Lorsque la flèche d’évacuation est allumée, cela vous indique que les véhicules venant du sens inverse sont arrêtés par un feu rouge. Ainsi, vous pouvez vous engager dans le carrefour pour tourner à gauche.
@@ -297,7 +297,7 @@
 ### Que signifie ce feu blanc de signalisation ?
 
 - Feu vert.
-- **Feu jaune-orange fixe.**
+- ***Feu jaune-orange fixe.***
 - Feu rouge.
 
 > Un cercle au milieu à la même signification que le feu jaune-orange fixe.
@@ -311,7 +311,7 @@
 ### Pouvez-vous franchir ce feu de signalisation pour tourner à droite ?
 
 - Non.
-- **Oui, mais il faut céder le passage aux conducteurs, cyclistes et piétons déjà engagés.**
+- ***Oui, mais il faut céder le passage aux conducteurs, cyclistes et piétons déjà engagés.***
 - Oui, mais il faut céder le passage aux piétons et cyclistes déjà engagés.
 
 > Lorsqu’une flèche verte est allumée en même temps qu’un feu rouge : Vous pouvez franchir le feu seulement en suivant la direction de la flèche. Et vous devez céder le passage aux usagers qui viennent de toutes les autres directions (conducteurs, cyclistes et piétons).
@@ -326,7 +326,7 @@
 
 - M'arrêter sur le carrefour si nécessaire.
 - Freiner brusquement
-- **Continuer et dégager le carrefour.**
+- ***Continuer et dégager le carrefour.***
 
 > Si lorsque le feu jaune-orange fixe s'allume, vous ne pouvez pas vous arrêter en toute sécurité, alors vous pouvez le franchir. Je dis toujours à mes élèves: à l'approche d'un feu qui est vert depuis longtemps, on s'en méfie. En pratique, regardez dans le rétroviseur intérieur que personne n'est coller derrière vous et laissez votre pied au-dessus du frein.
 
@@ -338,7 +338,7 @@
 
 ### Cette flèche verte a pour signification …
 
-- **Vous pouvez tourner sans attendre.**
+- ***Vous pouvez tourner sans attendre.***
 - Obligation de tourner à gauche.
 
 > La flèche d'évacuation vous autorise à tourner à gauche sans attendre. En effet, les véhicules en sens inverse sont retenus par un feu rouge.
@@ -352,7 +352,7 @@
 ### Devez-vous vous vous arrêter au feu rouge si vous tournez à droite ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Les feux doivent se trouver à votre droite. Néanmoins, ils peuvent être répétés à gauche et au milieu. Par conséquent, si le feu se trouve uniquement à votre gauche, n'en tenez pas compte.
 
@@ -365,7 +365,7 @@
 ### Que signifie ce feu de signalisation destiné aux véhicules de transport en commun ?
 
 - Feu jaune-orange fixe.
-- **Feu rouge.**
+- ***Feu rouge.***
 - Feu vert.
 
 > une barre horizontale à la même signification que le feu rouge. Par conséquent, tram et bus doivent s'arrêter.
@@ -379,7 +379,7 @@
 ### Le feu est vert. Devez-vous respecter le panneau ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Si les feux tricolores fonctionnent, ne tenez pas compte des panneaux.
 
@@ -391,7 +391,7 @@
 
 ### Deux feux rouges clignotants signifient …
 
-- **Vous devez vous arrêter.**
+- ***Vous devez vous arrêter.***
 - Vous pouvez continuer.
 
 > Deux feux rouges clignotants signifient interdiction de franchir le passage à niveau.
@@ -405,7 +405,7 @@
 ### Le feu jaune-orange est fixe. Pouvez-vous le franchir ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Un feu jaune-orange fixe a la même signification qu'un feu rouge. En effet, vous devez vous arrêter sauf si vous ne savez pas vous arrêter dans des conditions de sécurité suffisante (par exemple, lorsqu’un véhicule vous suit à une distance très courte). 
 
@@ -417,7 +417,7 @@
 
 ### Le feu est vert et le carrefour est encombré. Pouvez-vous vous engager ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Si le carrefour est embouteillé, vous ne pouvez pas vous engager. Et ce, même si le feu est vert.
@@ -431,7 +431,7 @@
 ### Ce feu destiné aux véhicules de transport en commun signifie …
 
 - Doit céder le passage.
-- **Peut uniquement continuer tout droit.**
+- ***Peut uniquement continuer tout droit.***
 - Peut continuer dans toutes les directions.
 
 > Ce feu autorise les transports en commun à continuer uniquement tout droit.

@@ -20,7 +20,7 @@
 ### Vous roulez à 30 km/h. Votre distance d'arrêt sera comprise entre
 
 - 30 et 50 m
-- **10 m et 30 m**
+- ***10 m et 30 m***
 - 50 et 70 m
 
 > à 30 km/h, votre distance sera comprise entre 10 et 30 m.
@@ -34,7 +34,7 @@
 ### Sur sol mouillé, la distance de freinage est plus courte.
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Sur sol mouillé, la distance de freinage est plus longue. Vous risquez de glisser beaucoup plus.
 
@@ -48,7 +48,7 @@
 
 - 40 m.
 - 50 m.
-- **60 m.**
+- ***60 m.***
 
 > Pour calculer la distance de sécurité, vous devez diviser votre vitesse par 2. Dans ce cas-ci, en divisant 120 par 2, j'obtiens 60 m.
 
@@ -61,7 +61,7 @@
 ### Vous roulez à 100 km/h. La distance d'arrêt est …
 
 - Inférieur à 70 m.
-- **Supérieur à 70 m.**
+- ***Supérieur à 70 m.***
 
 > Pour calculer la distance d’arrêt, vous devez multiplier le chiffre des dizaines par lui-même. Dans ce cas-ci, en multipliant 10x10, j'obtiens +- 100 mètres (supérieur à 70 m).
 
@@ -74,7 +74,7 @@
 ### Vous roulez à 50 km/h. Votre distance de réaction est de …
 
 - 45 m.
-- **15 m.**
+- ***15 m.***
 - 30 m.
 
 > Pour calculer la distance de réaction, vous devez multiplier le chiffre des dizaines de la vitesse par 3. Par conséquent: 50 km/h : 5 x 3 = 15 m. Vous parcourez donc 15 m sans réagir.
@@ -87,7 +87,7 @@
 
 ### Vous devez freiner brusquement. Est-ce que la vitesse a une influence sur votre distance d'arrêt ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Plus vous roulez vite, plus vous mettrez de temps à vous arrêter.
@@ -101,7 +101,7 @@
 ### Sur sol sec, la distance de freinage est plus courte.
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Sur sol sec, la distance de freinage est plus courte que sur sol mouillé.
 
@@ -114,7 +114,7 @@
 ### La distance d'arrêt = La distance de réaction + la distance de freinage
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > La distance d'arrêt = La distance de réaction + la distance de freinage.
 
@@ -126,7 +126,7 @@
 
 ### Vous êtes fatigué. Votre temps de réaction …
 
-- **Augmente.**
+- ***Augmente.***
 - Diminue.
 
 > Plus vous êtes fatigué, plus votre temps de réaction sera long.
@@ -139,7 +139,7 @@
 
 ### Vous roulez à 50 km/h. Quelle distance de sécurité devez-vous maintenir ?
 
-- **25 m.**
+- ***25 m.***
 - 20 m.
 - 30 m.
 

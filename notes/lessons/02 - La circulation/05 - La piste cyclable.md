@@ -38,7 +38,7 @@
 
 ### Est-ce que la piste cyclable fait partie de la chaussée ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > La piste cyclable  ne fait pas partie de la chaussée, mais bien de la voie publique.
@@ -52,7 +52,7 @@
 ### Le véhicule devant tourne à gauche, pouvez-vous le dépasser par la droite en roulant sur la piste cyclable ?
 
 - Oui à condition de ne pas gêner les cyclistes.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui.
 
 > Sur une piste cyclable, il est interdit de circuler, s'arrêter et stationner.
@@ -66,7 +66,7 @@
 ### A partir de ce panneau, la partie de la voie publique est réservée aux…
 
 - Piétons, cyclistes et cyclomoteurs de classe A et B.
-- **Piétons et cyclistes.**
+- ***Piétons et cyclistes.***
 - Piétons, cyclistes et cyclomoteurs de classe A.
 
 > Un panneau avec un piétons et un vélo l’un au-dessus de l’autre sans séparation, signifie que les piétons et les cyclistes circulent sur la même partie de la voie publique. Les cyclomoteurs de classe A et de classe B ne doivent pas l'emprunter.
@@ -79,7 +79,7 @@
 
 ### Un cycliste, peut-il occuper toute la largeur de la chaussée lorsqu'il circule dans une rue cyclable ?
 
-- **Oui, c'est autorisé.**
+- ***Oui, c'est autorisé.***
 - Non, c'est interdit.
 
 > Le cycliste peut occuper toute la largeur de la chaussée.
@@ -93,7 +93,7 @@
 ### Hors agglomération, pour dépasser un cycliste, vous devez laisser une distance latérale de…
 
 - 2 mètres.
-- **1,5 mètre.**
+- ***1,5 mètre.***
 - 1 mètre.
 
 > Pour dépasser un cycliste ou un cyclomoteur à deux roues vous devez laisser : HORS AGGLOMÉRATION, une distance latérale doit être de 1,5 mètre.
@@ -108,7 +108,7 @@
 
 - À droite.
 - Au milieu.
-- **À gauche.**
+- ***À gauche.***
 
 > La bande cyclable suggérée se trouve à gauche. La piste cyclable se trouve à droite sur l’image.
 
@@ -120,7 +120,7 @@
 
 ### Sur un passage pour cyclistes et cyclomoteurs à deux-roues, il est interdit de …
 
-- **S'arrêter et stationner.**
+- ***S'arrêter et stationner.***
 - Circuler.
 - Circuler, s'arrêter.
 
@@ -134,7 +134,7 @@
 
 ### Que signifie ce panneau d’indication ?
 
-- **Ce panneau indique que si vous tournez à droite, vous croiserez une piste cyclable.**
+- ***Ce panneau indique que si vous tournez à droite, vous croiserez une piste cyclable.***
 - Ce panneau indique que vous croiserez une piste cyclable après le virage.
 - Ce panneau indique une piste cyclable dans 150 mètres.
 
@@ -148,7 +148,7 @@
 
 ### Est-ce que la piste cyclable fait partie de la voie publique ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > La piste cyclable est une partie de la voie publique réservée à la circulation des cyclistes et des conducteurs de cyclomoteurs classe A et à certains endroits les conducteurs de cyclomoteur de classe B .
@@ -162,7 +162,7 @@
 ### Sur cette image, avec votre voiture, vous devez vous arrêter à la …
 
 - Peu importe, c'est pareil.
-- **1ère ligne d'arrêt.**
+- ***1ère ligne d'arrêt.***
 - 2ème ligne d'arrêt.
 
 > En tant que conducteur de voiture, vous devez vous arrêter à la 1ère ligne d’arrêt.
@@ -176,7 +176,7 @@
 ### A partir de ce panneau, la partie de la voie publique est réservée aux…
 
 - Piétons et cyclistes.
-- **Piétons, cyclistes et cyclomoteurs de classe A.**
+- ***Piétons, cyclistes et cyclomoteurs de classe A.***
 - Piétons, cyclistes et cyclomoteurs de classe A et B.
 
 > Un panneau avec un piéton et un vélo côte à côte séparée par une ligne blanche continue, signifie que les piétons, les cyclistes et les cyclomoteurs de classe A doivent circuler sur la partie qui leur est réservée. Les cyclomoteurs classe B ne doivent pas l'emprunter.
@@ -189,7 +189,7 @@
 
 ### Quel est l'âge maximal pour qu'un enfant puisse rouler à vélo sur le trottoir en agglomération ?
 
-- **10 ans.**
+- ***10 ans.***
 - 12 ans.
 - 11 ans.
 
@@ -205,7 +205,7 @@
 
 - Oui.
 - Oui, mais seulement sur les 10 derniers mètres.
-- **Non.**
+- ***Non.***
 
 > Sur une piste cyclable, il est interdit de circuler, s'arrêter et stationner.
 
@@ -218,7 +218,7 @@
 ### La vitesse maximum d'un cyclomoteur de classe B est de …
 
 - 35km/h.
-- **45km/h.**
+- ***45km/h.***
 - 25km/h.
 
 > La vitesse maximum d'un cyclomoteur de classe B est de 45km/h.
@@ -231,7 +231,7 @@
 
 ### Vous arrivez devant un passage pour cyclistes et cyclomoteurs à deux-roue, devez-vous cédez le passage ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Le passage pour cycliste et cyclomoteurs à deux-roues permet à ceux-ci de traverser la voie publique, vous avez la priorité tant qu’ils ne se sont pas engagés sur ce passage.
@@ -246,7 +246,7 @@
 
 - 2 mètres.
 - 1,5 mètre.
-- **1 mètre.**
+- ***1 mètre.***
 
 > Pour dépasser un cycliste ou un cyclomoteur à deux-roues vous devez laisser : EN AGGLOMÉRATION, une distance latérale de 1 mètre.
 
@@ -259,7 +259,7 @@
 ### Pouvez-vous circuler en voiture dans une rue cyclable ?
 
 - Non, c'est interdit.
-- **Oui, c'est autorisé.**
+- ***Oui, c'est autorisé.***
 
 > La rue cyclable est accessible aussi bien aux vélos qu’aux voitures.
 
@@ -273,7 +273,7 @@
 
 - Seulement aux cyclistes.
 - Cyclistes, cyclomoteurs et motocyclettes
-- **Cyclistes et cyclomoteurs.**
+- ***Cyclistes et cyclomoteurs.***
 
 > Cet espace entre les 2 lignes est en fait réservé aux cyclistes et aux cyclomoteurs de manière à leur permettre de démarrer facilement.
 
@@ -286,7 +286,7 @@
 ### Hors agglomération, est ce qu'un adolescent de 17 ans peut rouler à vélo sur le trottoir ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Hors agglomération, il est autorisé de rouler à vélos sur les trottoirs.
 
@@ -299,7 +299,7 @@
 ### À quel moment prend fin une rue cyclable ?
 
 - 150 mètres après le panneau début d'une rue cyclable
-- **Au prochain carrefour.**
+- ***Au prochain carrefour.***
 - Quand vous voyez le panneau fin de la rue cyclable.
 
 > Depuis le 1 août 2021, la fin d’une rue cyclable n’est plus indiquée par un panneau. Elle prend fin automatiquement au prochain carrefour.
@@ -314,7 +314,7 @@
 
 - Circuler.
 - Circuler, s'arrêter.
-- **Circuler, s'arrêter et stationner.**
+- ***Circuler, s'arrêter et stationner.***
 
 > Sur une piste cyclable, il est interdit de circuler, s'arrêter et stationner.
 
@@ -327,7 +327,7 @@
 ### Que signifie ce panneau d’indication ?
 
 - Passage pour cyclomoteurs à deux-roues.
-- **Passage pour cyclistes et cyclomoteurs à deux-roues.**
+- ***Passage pour cyclistes et cyclomoteurs à deux-roues.***
 - Passage pour cyclistes.
 
 > Le panneau d'indication bleu se trouve à proximité du passage pour cyclistes et cyclomoteurs à deux-roues.
@@ -340,7 +340,7 @@
 
 ### Que signifie ce panneau de danger ?
 
-- **Passage pour cyclistes et cyclomoteurs à deux roues dans 150 mètres.**
+- ***Passage pour cyclistes et cyclomoteurs à deux roues dans 150 mètres.***
 - Passage pour cyclistes et cyclomoteurs à deux roues dans 50 mètres.
 - Passage pour cyclistes dans 150 mètres.
 
@@ -354,7 +354,7 @@
 
 ### La vitesse maximum d'un cyclomoteur de classe A est de …
 
-- **25km/h.**
+- ***25km/h.***
 - 45km/h.
 - 35km/h.
 
@@ -369,7 +369,7 @@
 ### Lorsqu'une piste cyclable prend fin, devez-vous céder la priorité aux cyclistes et cyclomoteurs qui arrive sur la chaussée ?
 
 - Seulement s’il met son clignotant.
-- **Oui, je cède le passage.**
+- ***Oui, je cède le passage.***
 - Non, j'ai la priorité.
 
 > Lorsqu’une piste cyclable prend fin, vous devez céder le passage aux cyclistes et cyclomoteurs, car ils ont la priorité.
@@ -382,7 +382,7 @@
 
 ### Quelle est la vitesse maximale autorisée dans une rue cyclable?
 
-- **30 km/h.**
+- ***30 km/h.***
 - 50 km/h
 - 25 km/h.
 
@@ -397,7 +397,7 @@
 ### Pouvez-vous dépasser un cycliste/trottinette dans une rue cyclable ?
 
 - Oui, c'est autorisé.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 
 > Vous ne pouvez jamais dépasser un cycliste ou une trottinette électrique.
 
@@ -411,7 +411,7 @@
 
 - Vous devez céder le passage aux cyclistes.
 - Les cyclistes doivent vous céder le passage.
-- **Autorise les cyclistes à passer même si un feu est rouge.**
+- ***Autorise les cyclistes à passer même si un feu est rouge.***
 
 > Ce panneau installé sous les feux tricolores autorise les cyclistes à franchir le feu rouge à condition de CÉDER LA PRIORITÉ aux autres usagers. Cette autorisation n’est valable que pour la direction indiquée par la flèche jaune. 
 
@@ -425,7 +425,7 @@
 ### Devez-vous circuler sur une bande cyclable suggérée ?
 
 - Oui, mais seulement pour dépasser.
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Vous DEVEZ roulé sur la bande cyclable suggérée car elle FAIT partie de la chaussée.

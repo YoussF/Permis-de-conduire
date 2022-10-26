@@ -49,7 +49,7 @@
 ### Qui a la priorité de passage?
 
 - La voiture grise.
-- **Le piéton.**
+- ***Le piéton.***
 
 > Lorsqu'un piéton traverse devant vous en dehors d'un passage et que vous changez de direction (manoeuvre),  le piéton a la priorité.  Changer de direction sans céder le passage aux conducteurs et aux piétons circulant sur la même voie publique est une faute grave.
 
@@ -61,7 +61,7 @@
 
 ### Un enfant de 17 ans qui mesure 1m25, devez-vous l’attacher sur un système de retenue adapté ?
 
-- **Oui, c'est obligatoire**
+- ***Oui, c'est obligatoire***
 - Non, ce n'est pas nécessaire
 
 > Le Code de la route impose de placer les enfants sur un système de retenue adapté (un siège enfant) si : Ils ont moins de 18 ans  et leur taille est inférieure à 1m35. Ne pas utiliser un dispositif adapté pour transporter un enfant répondant à ces conditions est une faute grave.
@@ -75,7 +75,7 @@
 ### Que signifie la croix rouge placée au-dessus de la bande de circulation de droite ?
 
 - Circulation autorisé.
-- **Circulation interdite à tous les véhicules.**
+- ***Circulation interdite à tous les véhicules.***
 - Circulation interdite aux véhicules dont la MMA est supérieure à 3,5 tonnes.
 
 > Il est interdit d'emprunter une bande de circulation au-dessus de laquelle se trouve une croix rouge
@@ -88,7 +88,7 @@
 
 ### Le signal sonore fonctionne mais les barrières sont encore ouvertes, que devez-vous faire?
 
-- **Vous vous arrêtez.**
+- ***Vous vous arrêtez.***
 - Continuer votre route.
 
 > Lorsque le signal sonore fonctionne vous ne pouvez pas franchir le passage à niveau même si les barrières sont ouvertes.
@@ -101,7 +101,7 @@
 
 ### Devez-vous obéir aux injonctions d'un agent qualifié ?
 
-- **Vous devez**
+- ***Vous devez***
 - Non, ce n'est pas un policier
 - Vous pouvez
 
@@ -115,7 +115,7 @@
 
 ### Dans une zone résidentielle :
 
-- **La vitesse maximum est de 20km/h et les piétons sont prioritaires sur vous**
+- ***La vitesse maximum est de 20km/h et les piétons sont prioritaires sur vous***
 - La vitesse maximum est de 20km/h et il n'y a pas de priorité
 - La vitesse maximum est de 30km/h et vous êtes prioritaire sur les piétons
 
@@ -130,7 +130,7 @@
 ### Pouvez-vous franchir une ligne continue blanche pour respecter une ligne continue provisoire (orange)?
 
 - Non, seulement si c'est une ligne blanche discontinue.
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Lorsque une ligne provisoire se trouve sur une ligne blanche, vous devez respecter la ligne provisoire et ne pas prêter attention à la ligne blanche. Attention, franchir une ligne blanche continue (seule) est une infraction grave.
@@ -143,7 +143,7 @@
 
 ### Hors agglomération, quelle distance latérale de sécurité devez-vous laisser si vous voulez dépasser un cycliste par la gauche ?
 
-- **1,5 mètre**
+- ***1,5 mètre***
 - 1 mètre
 - 0,5 mètre
 
@@ -159,7 +159,7 @@
 
 - Feux de position
 - Feux de route
-- **Feux de croisement**
+- ***Feux de croisement***
 
 > Vous devez allumer vos feux de croisement, même si la chaussée est éclairée. Ne pas allumer ses feux après la tombée de la nuit est une faute grave.
 
@@ -171,7 +171,7 @@
 
 ### Un agent qualifié vous demande de déplacer votre véhicule. Pouvez-vous le faire ?
 
-- **Non, vous devez**
+- ***Non, vous devez***
 - Oui, seulement lors d'un accident
 - Oui, vous pouvez
 
@@ -186,7 +186,7 @@
 ### Ces deux véhicules, se croisent-ils correctement ?
 
 - Non
-- **Oui**
+- ***Oui***
 
 > Lorsqu'il n'y a pas de flèches au sol, le croisement se fait toujours par la droite (passer derrière l'autre véhicule).
 
@@ -198,7 +198,7 @@
 
 ### Vous devez accompagner un ami souffrant aux urgences. Pouvez-vous franchir un feu rouge pour aller plus vite ?
 
-- **Non, c'est interdit**
+- ***Non, c'est interdit***
 - C'est autorisé seulement pour les femmes enceintes
 - Oui
 
@@ -213,7 +213,7 @@
 ### Le train est déjà passé et les barrières se lèvent encore. Pouvez-vous vous engager ?
 
 - Non, c'est une infraction légère
-- **Non, c'est une infraction grave**
+- ***Non, c'est une infraction grave***
 - Oui, je peux m'engager
 
 > Il est interdit de franchir un passage à niveau lorsque les barrières sont en mouvement. C'est une infraction du 4ème degré.
@@ -228,7 +228,7 @@
 
 - Vous devez allumer seulement vos feux de croisement
 - Vous devez allumer seulement vos feux de détresse et placer un feu rouge au bout du chargement
-- **Vous devez allumer vos feux de croisement et placer un feu rouge au bout du chargement**
+- ***Vous devez allumer vos feux de croisement et placer un feu rouge au bout du chargement***
 
 > En journée, vous devez impérativement placer le panneau d'avertissement rouge et blanc au bout du chargement. Après la tombée de la nuit, vous devez ajouter un feu rouge et des catadioptres de couleur orange de chaque côté du véhicule.
 
@@ -240,7 +240,7 @@
 
 ### Après ce panneau pouvez-vous dépasser une voiture par la gauche ?
 
-- **Non, le dépassement est interdit**
+- ***Non, le dépassement est interdit***
 - Oui, c'est autorisé
 - Non, vous pouvez dépasser seulement par la droite
 
@@ -254,7 +254,7 @@
 
 ### Pouvez-vous tourner à droite dans le carrefour?
 
-- **Non.**
+- ***Non.***
 - Oui, si vous êtes un riverain.
 - Oui après avoir cédé le passage à la voiture noir.
 
@@ -270,7 +270,7 @@
 
 - Oui, si les barrières sont ouvertes
 - Oui, j'ai priorité
-- **Non, c'est une infraction grave**
+- ***Non, c'est une infraction grave***
 
 > Il est interdit de s'immobiliser sur un passage à niveau, c'est une faute grave. Votre permis est retiré immédiatement.
 
@@ -283,7 +283,7 @@
 ### Un véhicule prioritaire utilisant sa sirène s'approche de vous :
 
 - Vous devez dégager le passage.
-- **Vous devez dégager le passage et au besoin vous arrêter.**
+- ***Vous devez dégager le passage et au besoin vous arrêter.***
 - Vous circulez normalement.
 
 > À l’approche d’un véhicule prioritaire utilisant sa sirène (avec ou sans les feux bleus allumés), vous devez immédiatement dégager et céder le passage, au besoin vous arrêter.
@@ -298,7 +298,7 @@
 
 - Le procureur du Roi
 - L'agent qualifié
-- **Le juge**
+- ***Le juge***
 
 > Le retrait est prononcé par le procureur du roi ou par la police tandis que la déchéance est prononcée par le juge.
 
@@ -311,7 +311,7 @@
 ### A l'approche d'un véhicule de transport scolaire :
 
 - Vous roulez normalement
-- **Vous ralentissez**
+- ***Vous ralentissez***
 - Vous vous arrêtez immédiatement derrière lui
 
 > Vous devez ralentir fortement à l’approche d’un véhicule de transport scolaire. Des enfants peuvent surgir à tous moments.
@@ -324,7 +324,7 @@
 
 ### Comment doivent se croiser ces véhicules ?
 
-- **Se croiser par la gauche.**
+- ***Se croiser par la gauche.***
 - Peu importe
 - Se croiser par la droite.
 
@@ -339,7 +339,7 @@
 ### Dans une zone piétonne :
 
 - Vous ne pouvez pas y circuler
-- **Vous devez rouler à l'allure du pas**
+- ***Vous devez rouler à l'allure du pas***
 - Vous devez rouler à 20 km/h
 
 > Il est interdit de dépasser l'allure du pas dans une zone piétonne. C'est une faute grave, car vous mettez en danger les piétons.
@@ -353,7 +353,7 @@
 ### A l'approche d'une forte inclinaison, pouvez-vous dépasser par la gauche ?
 
 - Oui, si la route a l'air libre
-- **Non**
+- ***Non***
 - Oui, si vous accélérez un bon coup
 
 > Il est interdit de dépasser par la gauche lorsque la visibilité est insuffisante
@@ -367,7 +367,7 @@
 ### Qui a la priorité de passage ?
 
 - La voiture grise
-- **La voiture mauve**
+- ***La voiture mauve***
 
 > La voiture grise fait une plus grande manœuvre (tourne large) que la voiture mauve. La voiture grise est obligée de céder le passage aux véhicules venant en sens inverse.
 
@@ -380,7 +380,7 @@
 ### Pouvez-vous vous arrêter sur un trottoir pour faire descendre un passager ?
 
 - Oui, c'est autorisé
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, seulement si l'arrêt est court.
 
 > Il est interdit de circuler et de s'arrêter sur un trottoir. Mettre en danger les piétons sur le trottoir est une faute grave.
@@ -395,7 +395,7 @@
 
 - Oui, c'est autorisé.
 - Oui, seulement si le dépassement est rapide2
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 
 > Il est interdit de dépasser lorsque vous êtes vous-même dépassés. C'est seulement autorisé sur une route à 3 bandes de circulation ou plus.
 
@@ -407,7 +407,7 @@
 
 ### L'autoroute semble embouteillée. Pouvez-vous faire demi-tour pour changer de direction ?
 
-- **Non**
+- ***Non***
 - Oui, sans gêner les véhicules venant en sens inverse
 - Oui, en traversant la berme centrale
 
@@ -423,7 +423,7 @@
 
 - Vous roulez normalement
 - Accélérer pour moins gêner les autres usagers
-- **Vous ralentissez**
+- ***Vous ralentissez***
 
 > En longeant un bus, vous devez modérer votre vitesse, car des passagers peuvent surgir à tout moment.
 
@@ -437,7 +437,7 @@
 
 - Oui, car il n'y a pas de feux rouges
 - Oui, vous pouvez
-- **Non**
+- ***Non***
 
 > Vous ne pouvez pas vous engager tant que les piétons n'ont pas encore achevé leurs traversées.
 
@@ -451,7 +451,7 @@
 
 - Oui, seulement pour les courtes distances
 - Oui, c'est autorisé pour tout type de trajets
-- **Non, c'est interdit**
+- ***Non, c'est interdit***
 
 > Il est interdit de transporter un nombre de personne supérieur aux places disponibles équipées de ceinture. 
 
@@ -464,7 +464,7 @@
 ### Vous êtes à un feu rouge et vous empruntez la direction indiquée par la flèche verte
 
 - Vous avez priorité.
-- **Vous devez céder le passage.**
+- ***Vous devez céder le passage.***
 - La priorité de droite s'applique.
 
 > Lorsqu’une flèche verte est allumée en même temps qu’un feu rouge, vous pouvez franchir le feu SEULEMENT en suivant la direction de la flèche, redoubler de prudence et CEDER LE PASSAGE aux usagers qui viennent de toutes les autres directions. 
@@ -479,7 +479,7 @@
 
 - La droite ou gauche
 - La gauche
-- **La droite**
+- ***La droite***
 
 > Mettre en danger les usagers en sens inverse en doublant par la gauche un tram est une faute grave. Vous devez le dépasser toujours par la droite sauf exceptions (le passage est étroit, un véhicule est à l’arrêt ou en stationnement, ou face à obstacle fixe)
 
@@ -492,7 +492,7 @@
 ### Dans une rue réservée au jeu :
 
 - Vous devez rouler à 20 km/h
-- **Vous devez rouler à l'allure du pas**
+- ***Vous devez rouler à l'allure du pas***
 - Vous ne pouvez pas y circuler
 
 > Il est interdit de dépasser l'allure du pas dans une rue réservée au jeu. C'est une faute grave, car vous mettez en danger les piétons et les enfants.
@@ -505,7 +505,7 @@
 
 ### A l'approche d'un passage piéton, un convoyant d'enfant vous fait signe de vous arrêter. Que devez-vous faire ?
 
-- **Vous arrêtez**
+- ***Vous arrêtez***
 - Ralentir et contourner le convoyant
 - Continuer votre route, car ce n'est pas un agent de police
 
@@ -519,7 +519,7 @@
 
 ### Un groupe d'enfant traverse un passage piéton. Vous avez trouvé une occasion pour avancer, pouvez-vous le faire ?
 
-- **Non, c'est interdit**
+- ***Non, c'est interdit***
 - Oui, seulement si ils sont accompagnés d'un convoyant
 - Oui, vous pouvez
 
@@ -534,7 +534,7 @@
 ### Pouvez-vous rouler sur l’accotement pour croiser plus facilement un autre véhicule ?
 
 - Oui sur tout accotement.
-- **Oui sur l'accotement de plain-pied.**
+- ***Oui sur l'accotement de plain-pied.***
 - Non.
 
 > Vous pouvez circuler sur l'accotement de plain-pied pour croiser un autre véhicule. Attention, mettre en danger les usagers de l’accotement en l’empruntant est une faute grave.
@@ -549,7 +549,7 @@
 
 - Pas de limitation de vitesse
 - La limitation de vitesse est de 20 km/h
-- **La limitation de vitesse est de 30 km/h**
+- ***La limitation de vitesse est de 30 km/h***
 
 > Sur ces chemins, la vitesse est limitée à 30 km/h. Ces usagers ne peuvent pas se mettre mutuellement en danger.
 
@@ -563,7 +563,7 @@
 
 - Tenir votre gauche.
 - Accélérer.
-- **Tenir votre droite.**
+- ***Tenir votre droite.***
 
 > Lorsqu'un conducteur vous dépasse, vous devez maintenir votre vitesse (ne pas accélérer) et tenir votre droite
 
@@ -577,7 +577,7 @@
 
 - Au choix
 - Oui, c'est autorisé
-- **Non, c'est interdit**
+- ***Non, c'est interdit***
 
 > Sur une chaussée avec une berme centrale, vous devez toujours circuler sur la bande de droite.
 

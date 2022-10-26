@@ -42,7 +42,7 @@
 
 - 20 km/h.
 - L'allure du pas.
-- **30 km/h.**
+- ***30 km/h.***
 
 > À partir de ce panneau, la vitesse maximale est de 30 km/h.
 
@@ -56,7 +56,7 @@
 
 - Cyclistes.
 - Piétons et cyclistes.
-- **Piétons.**
+- ***Piétons.***
 
 > Les piétons peuvent utiliser toute la largeur de la voie publique et les jeux y sont autorisés. Redoublez de prudence en présence d’enfants !
 
@@ -70,7 +70,7 @@
 
 - Début d'une zone résidentielle ou de rencontre.
 - Début d'une zone réservé au jeu.
-- **Début d'une zone piétonne.**
+- ***Début d'une zone piétonne.***
 
 > Ce panneau indique le début d’une zone piétonne.
 
@@ -82,7 +82,7 @@
 
 ### Vous circulez en Flandre, à partir de ce panneau de danger, votre vitesse maximale est de …
 
-- **50 km/h.**
+- ***50 km/h.***
 - 30 km/h.
 - 35 km/h.
 
@@ -96,7 +96,7 @@
 
 ### Pouvez-vous circuler dans une zone piétonne ?
 
-- **Oui si mon garage se trouve dans cette zone.**
+- ***Oui si mon garage se trouve dans cette zone.***
 - Oui, c'est autorisé.
 - Non, c'est interdit.
 
@@ -112,7 +112,7 @@
 
 - 70 km/h.
 - 50 km/h.
-- **30 km/h.**
+- ***30 km/h.***
 
 > C'est un endroit qui est spécialement fréquenté par des enfants (prés d'une école), mais vue que le panneau électronique est allumé, la vitesse maximale est de 30 km/h.
 
@@ -124,7 +124,7 @@
 
 ### Avec votre voiture, pouvez-vous circuler dans une zone résidentielle ?
 
-- **Oui, c'est autorisé.**
+- ***Oui, c'est autorisé.***
 - Oui mais seulement si j'habite dans la rue.
 - Non, c'est interdit.
 
@@ -140,7 +140,7 @@
 
 - 20 km/h.
 - 30 km/h.
-- **L'allure du pas.**
+- ***L'allure du pas.***
 
 > Dans une rue réservée au jeu, la vitesse maximale est l'allure du pas (environ 5 km/h).
 
@@ -154,7 +154,7 @@
 
 - 35 km/h.
 - 50 km/h.
-- **30 km/h.**
+- ***30 km/h.***
 
 > La vitesse maximale sur un dispositif surélevé est de 30 km/h.
 
@@ -167,7 +167,7 @@
 ### À partir de ce panneau, la vitesse maximale est de 30 km/h…
 
 - Jusqu’au prochain carrefour.
-- **Jusqu'au panneau fin de zone 30.**
+- ***Jusqu'au panneau fin de zone 30.***
 - Pendant 500 mètres.
 
 > la vitesse est limitée jusqu'au panneau fin de zone 30.
@@ -182,7 +182,7 @@
 
 - 30 km/h.
 - 70 km/h.
-- **50 km/h.**
+- ***50 km/h.***
 
 > C'est un endroit qui est spécialement fréquenté par des enfants (prés d'une école), mais vue que le panneau électronique est éteint, la vitesse maximale est de 50 km/h.
 
@@ -194,7 +194,7 @@
 
 ### Pouvez-vous circuler dans une rue réservée au jeu ?
 
-- **Oui si j'y habite ou si mon garage se trouve dans cette rue.**
+- ***Oui si j'y habite ou si mon garage se trouve dans cette rue.***
 - Non, c'est interdit.
 - Oui, c'est autorisé.
 
@@ -208,7 +208,7 @@
 
 ### Que signifie ce panneau ?
 
-- **Fin d'une zone résidentielle ou de rencontre.**
+- ***Fin d'une zone résidentielle ou de rencontre.***
 - Fin d'une zone piétonne.
 - Fin d'une zone réservée au jeu.
 
@@ -222,7 +222,7 @@
 
 ### Que signifie ce panneau d'indication ?
 
-- **Un dispositif surélevé.**
+- ***Un dispositif surélevé.***
 - Un dos d'âne.
 - Un fossé.
 
@@ -236,7 +236,7 @@
 
 ### Ce panneau de zone s’applique ...
 
-- **Seulement lorsqu’il est allumé.**
+- ***Seulement lorsqu’il est allumé.***
 - Jusqu’au prochain carrefour.
 - De jour et de nuit.
 
@@ -250,7 +250,7 @@
 
 ### Que signifie ce panneau de danger ?
 
-- **Un dispositif surélevé dans 150 m.**
+- ***Un dispositif surélevé dans 150 m.***
 - Un fossé dans 150 m.
 - Un dos d'âne dans 150 m.
 
@@ -265,7 +265,7 @@
 ### Que signifie ce panneau de danger ?
 
 - Un dispositif surélevé dans 150 m.
-- **Un dos d'âne dans 150 m.**
+- ***Un dos d'âne dans 150 m.***
 - Un fossé dans 150 m.
 
 > Ce panneau de danger indique qu'il y aura un dos d'âne dans 150 m.
@@ -278,7 +278,7 @@
 
 ### Sur un dispositif surélevé, la vitesse maximale est de…
 
-- **30 km/h.**
+- ***30 km/h.***
 - 50 km/h.
 - 20 km/h.
 
@@ -294,7 +294,7 @@
 
 - 25 km/h.
 - 50 km/h.
-- **30 km/h.**
+- ***30 km/h.***
 
 > Cette combinaison de panneau indique que la vitesse est de 30 km/h dans toute la zone. De plus, cet endroit est spécialement fréquenté par des enfants.
 
@@ -306,7 +306,7 @@
 
 ### Pouvez-vous circuler dans une rue scolaire ?
 
-- **Oui, si j'y habite ou si mon garage se trouve dans cette rue.**
+- ***Oui, si j'y habite ou si mon garage se trouve dans cette rue.***
 - Non, c'est interdit.
 - Oui, c'est autorisé.
 
@@ -320,7 +320,7 @@
 
 ### Que signifie ce panneau ?
 
-- **Début d'une zone résidentielle ou de rencontre.**
+- ***Début d'une zone résidentielle ou de rencontre.***
 - Début d'une zone piétonne.
 - Début d'une zone réservé au jeu.
 
@@ -334,7 +334,7 @@
 
 ### Quelle est la vitesse maximale dans une zone piétonne ?
 
-- **L'allure du pas.**
+- ***L'allure du pas.***
 - 20 km/h.
 - 30 km/h.
 
@@ -350,7 +350,7 @@
 
 - 25 km/h.
 - 30 km/h.
-- **20 km/h.**
+- ***20 km/h.***
 
 > La vitesse maximale dans une zone résidentielle est de 20 km/h.
 
@@ -363,7 +363,7 @@
 ### Quelle est la vitesse maximale dans une rue scolaire ?
 
 - 20 km/h.
-- **L'allure du pas.**
+- ***L'allure du pas.***
 - 30 km/h.
 
 > Dans une rue scolaire, la vitesse maximale est l'allure du pas (environ 5 km/h).
@@ -378,7 +378,7 @@
 
 - S'arrêter et stationner.
 - S'arrêter.
-- **S'arrêter, stationner et dépasser.**
+- ***S'arrêter, stationner et dépasser.***
 
 > Sur un dispositif surélevé, il est interdit de s'arrêter, stationner et dépasser.
 
@@ -390,7 +390,7 @@
 
 ### Dans une zone résidentielle, …
 
-- **Les enfants peuvent jouer sur la chaussée.**
+- ***Les enfants peuvent jouer sur la chaussée.***
 - La vitesse maximale est l'allure du pas.
 - Le stationnement interdit.
 
@@ -405,7 +405,7 @@
 ### À partir de ce panneau, …
 
 - vous ne pouvez pas y circuler en voiture.
-- **Le stationnement est autorisé aussi bien à gauche qu’à droite.**
+- ***Le stationnement est autorisé aussi bien à gauche qu’à droite.***
 - La vitesse maximale est de 30 km/h.
 
 > Dans une zone résidentielle ou de rencontre, le stationnement est autorisé aussi bien à gauche qu’à droite, si des emplacements sont prévus à cet effet.
@@ -419,7 +419,7 @@
 ### Dans une zone résidentielle, le stationnement est uniquement autorisé lorsqu'il y a …
 
 - Un panneau routier.
-- **Un panneau routier ou un marquage au sol.**
+- ***Un panneau routier ou un marquage au sol.***
 - Un marquage au sol.
 
 > Dans une zone résidentielle ou de rencontre, on ne peut se garer qu'aux emplacements qui sont délimités par des marques routières ou aux endroits où un signal routier l'autorise.
@@ -433,7 +433,7 @@
 ### Pouvez-vous franchir ce panneau en voiture ?
 
 - Oui, c'est autorisé.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, mais seulement si je roule à une vitesse maximale de 30 km/h.
 
 > Ces panneaux annoncent un chemin réservé à certains types d’usagers. Pour cela, il faut examiner les pictogrammes présents sur le panneau.
@@ -446,7 +446,7 @@
 
 ### Que signifie ce panneau ?
 
-- **Endroit spécialement fréquenté par des enfants.**
+- ***Endroit spécialement fréquenté par des enfants.***
 - Abords d'école.
 - Début d'une zone piétonne.
 
@@ -461,7 +461,7 @@
 ### Ce panneau, limite-t-il votre vitesse à 30 km/h ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Ce panneau n'a aucune influence sur votre vitesse.
 

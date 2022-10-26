@@ -36,7 +36,7 @@
 ### Pouvez-vous vous arrêter sur un arrêt de bus pour laisser monter ou descendre un passager ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Sur un arrêt de bus, l'arrêt est autorisé. En revanche, le stationnement est logiquement interdit.
 
@@ -50,7 +50,7 @@
 
 - Hors agglomération.
 - En agglomération.
-- **En agglomération et hors agglomération.**
+- ***En agglomération et hors agglomération.***
 
 > L'arrêt est autorisé en agglomération et hors agglomération. Ce n'est que le stationnement hors agglomération qui est interdit sur la chaussée d'une voie prioritaire.
 
@@ -62,7 +62,7 @@
 
 ### Cet emplacement est destiné aux …
 
-- **Voitures électriques.**
+- ***Voitures électriques.***
 - Voitures au LPG.
 - Voitures électriques et au gaz.
 
@@ -78,7 +78,7 @@
 
 - S'arrêter et stationner.
 - S'arrêter.
-- **Stationner.**
+- ***Stationner.***
 
 > Il est interdit de stationner le long d'une ligne jaune discontinue peinte sur le bord de la chaussée (du trottoir). Par contre, l'arrêt est autorisé.
 
@@ -91,7 +91,7 @@
 ### Pouvez-vous vous arrêter devant ce garage ?
 
 - Oui, seulement si c'est votre garage.
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Il est interdit de stationner devant un garage sauf s'il s'agit du vôtre bien évidemment. En revanche, l'arrêt est autorisé pour tout conducteur.
@@ -106,7 +106,7 @@
 
 - 2 mètres.
 - 3 mètres.
-- **1 mètre.**
+- ***1 mètre.***
 
 > Entre 2 véhicules stationnés, il faut une distance de sécurité d'au moins 1 mètre. L'arrêt reste autorisé.
 
@@ -118,7 +118,7 @@
 
 ### Hors agglomération, il est interdit de stationner sur la chaussée d'une voie prioritaire.
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Hors agglomération, il est interdit de stationner sur la chaussée d'une voie prioritaire. Mais l'arrêt est autorisé.
@@ -131,7 +131,7 @@
 
 ### Pouvez-vous vous arrêter quelques instants sur cet emplacement pour laisser descendre un ami ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Avec votre voiture (non électrique), il est interdit de stationner, mais l'arrêt reste autorisé.
@@ -144,7 +144,7 @@
 
 ### À cet endroit, les piétons et cyclistes doivent emprunter la chaussée pour contourner l'obstacle.
 
-- **Il est interdit de stationner.**
+- ***Il est interdit de stationner.***
 - Il est interdit de s'arrêter.
 - Il est interdit de s'arrêter et de stationner.
 
@@ -158,7 +158,7 @@
 
 ### Cet emplacement est destiné aux remorques et caravanes.
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Ce panneau vous oblige à vous stationnez sur l'accotement ou le trottoir.
@@ -171,7 +171,7 @@
 
 ### Sur une chaussée divisée en bande de circulation, il est interdit de …
 
-- **Stationner.**
+- ***Stationner.***
 - S'arrêter.
 - S'arrêter et stationner.
 
@@ -186,7 +186,7 @@
 ### Pouvez-vous stationner au-delà de ce panneau ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Ce panneau limite le stationnement au véhicule ayant une M.M.A de maximum 3,5 tonnes. Par conséquent, étant donné que votre véhicule ne dépasse pas 3,5 tonnes, vous pouvez vous stationner au-delà de ce panneau. Il est important de noter qu'ici, le stationnement doit se faire sur l'accotement ou le trottoir.
 
@@ -198,7 +198,7 @@
 
 ### Pouvez-vous stationner au-delà de ce panneau ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Ce panneau vous indique qu'à cet endroit, le stationnement est autorisé.
@@ -212,7 +212,7 @@
 ### L'arrêt et le stationnement ne sont autorisés que si ce panneau de priorité de droite est placé à au moins …
 
 - 1 mètre.
-- **2 mètres.**
+- ***2 mètres.***
 - 1,5mètres.
 
 > à moins de 20m en deçà des panneaux de signalisation, il est interdit de s’arrêter et de stationner sur la chaussée et l’accotement. Sauf, si la hauteur du véhicule ne dépasse pas 1m65 ET que les panneaux se trouvent au moins à 2m au-dessus de la chaussée.
@@ -226,7 +226,7 @@
 ### Pouvez-vous vous arrêter quelques instants sur cet emplacement pour laisser descendre un ami ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Cet emplacement est réservé aux camions. Par conséquent, vous ne pouvez pas y stationner. Néanmoins, vous êtes autorisé à vous y arrêter.
 
@@ -240,7 +240,7 @@
 
 - Il est interdit de s'arrêter et de stationner à moins de 20 mètres de part et d'autre de ceux-ci.
 - Il est interdit de s'arrêter et de stationner à moins de 15 mètres de part et d'autre de ceux-ci.
-- **Il est interdit de stationner à moins de 15 mètres de part et d'autre de ceux-ci.**
+- ***Il est interdit de stationner à moins de 15 mètres de part et d'autre de ceux-ci.***
 
 > Il est interdit de stationner à moins de 15 mètres de part et d'autre d'un panneau indiquant un arrêt d'autobus, de trolleybus ou de tram. En revanche, l'arrêt reste autorisé.
 
@@ -254,7 +254,7 @@
 
 - 5 mètres de part et d'autre.
 - 20 mètres de part et d'autre.
-- **15 mètres de part et d'autre.**
+- ***15 mètres de part et d'autre.***
 
 > Il est interdit de stationner à moins de 15 mètres en deçà et au-delà d'un panneau indiquant un arrêt d'autobus, de trolleybus ou de tram. En revanche, l'arrêt reste autorisé.
 
@@ -266,7 +266,7 @@
 
 ### Pouvez-vous vous arrêter ici alors que le passage du tram serait entravé ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Il est interdit de stationner aux endroits où le passage des véhicules sur rails (tram, train) serait entravé. Mais, l'arrêt reste autorisé.
@@ -280,7 +280,7 @@
 ### Le stationnement sur cet emplacement est de …
 
 - 2H maximum.
-- **15 minutes maximum.**
+- ***15 minutes maximum.***
 - Pas de durée maximum.
 
 > Sur cet emplacement, la durée maximum de stationnement est de 15 min. Par ailleurs, la durée peut varier d'un endroit à l'autre. Soyez attentif aux panneaux additionnels.
@@ -295,7 +295,7 @@
 
 - 5 mètres en deçà de ce feu.
 - 15 mètres en deçà de ce feu.
-- **20 mètres en deçà de ce feu.**
+- ***20 mètres en deçà de ce feu.***
 
 > Il est interdit de s’arrêter et de stationner sur la chaussée à moins de 20m en deçà (avant) d’un carrefour muni de signaux lumineux.
 
@@ -308,7 +308,7 @@
 ### Un camion peut-il stationner au-delà de ce panneau ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Cet emplacement est réservé aux motocyclettes, voitures, voitures mixtes et minibus. Par conséquent, un camion ne peut pas s'y stationner.
 
@@ -320,7 +320,7 @@
 
 ### Pouvez-vous stationner après ce panneau ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Après ce panneau, le stationnement est interdit.
@@ -334,7 +334,7 @@
 ### Pour se stationner devant ce garage, il faut que la plaque d'immatriculation soit reproduite sur la porte.
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Pour se stationner devant le garage, il faut que la plaque d'immatriculation soit reproduite sur la porte.
 
@@ -347,7 +347,7 @@
 ### Pouvez-vous stationner une motocyclette à cet endroit ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Cet emplacement est réservé aux motocyclettes, voitures, voitures mixtes et minibus. Donc, oui une motocyclette pourrait stationner à cet endroit. En revanche, il est important de noter qu'un cyclomoteur n'est pas une motocyclette. Par conséquent, un cyclomoteur ne pourrait pas se stationner à cet emplacement.
 
@@ -361,7 +361,7 @@
 
 - D'au moins 6 mètres.
 - D'au moins 2 mètres.
-- **D'au moins 3 mètres.**
+- ***D'au moins 3 mètres.***
 
 > Il est interdit de stationner lorsque chaussée est étroite et que vous ne pouvez pas laisser un passage libre d’au moins 3 mètres. Notez que l'arrêt reste autorisé.
 
@@ -373,7 +373,7 @@
 
 ### Pouvez-vous vous arrêter sur cette place pour personnes handicapées ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Sur une place pour personnes handicapées, vous pouvez vous arrêter.

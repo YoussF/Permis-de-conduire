@@ -20,7 +20,7 @@
 ### Sur une route ordinaire, à quelle distance devez-vous placer le triangle de danger ?
 
 - 30 mètres au-delà de mon véhicule.
-- **30 mètres en deçà de mon véhicule.**
+- ***30 mètres en deçà de mon véhicule.***
 - 50 mètres en deçà de mon véhicule.
 
 > Le triangle de danger doit être placé 30 mètres en deçà (derrière) votre voiture.
@@ -35,7 +35,7 @@
 
 - Appeler la police.
 - Compléter le constat d'accident.
-- **Garantir la sécurité de la circulation.**
+- ***Garantir la sécurité de la circulation.***
 
 > Lorsque vous tombez en panne, la première chose que vous devez faire est de garantir la sécurité de la circulation.
 
@@ -49,7 +49,7 @@
 
 - Oui.
 - Non.
-- **Oui, mais seulement en agglomération.**
+- ***Oui, mais seulement en agglomération.***
 
 > En agglomération, s’il n'est pas possible de mettre le triangle de danger 30 mètres en deçà de votre voiture, il est autorisé de le mettre à une distance inférieure.
 
@@ -63,7 +63,7 @@
 
 - 25km/h.
 - 70km/h.
-- **Il est interdit de remorquer un véhicule sur autoroute.**
+- ***Il est interdit de remorquer un véhicule sur autoroute.***
 
 > Il est interdit de remorquer un véhicule sur autoroute.
 
@@ -77,7 +77,7 @@
 
 - 50 mètres en deçà de mon véhicule.
 - 100 mètres au-delà de mon véhicule.
-- **100 mètres en deçà de mon véhicule.**
+- ***100 mètres en deçà de mon véhicule.***
 
 > Sur autoroute, le triangle de danger doit être placé 100 mètres en deçà (derrière) votre voiture.
 
@@ -89,7 +89,7 @@
 
 ### Lorsque vous apercevez de la fumée dans un tunnel, vous devez
 
-- **Laisser la clef sur le contact et prendre la sortie de secours.**
+- ***Laisser la clef sur le contact et prendre la sortie de secours.***
 - Faire marche arrière.
 - Essayer d'éteindre le feu.
 
@@ -104,7 +104,7 @@
 ### Lorsque vous placez votre triangle de danger, celui-ci doit être visible par les autres conducteurs à une distance d'environ …
 
 - 100 mètres.
-- **50 mètres.**
+- ***50 mètres.***
 - 30 mètres.
 
 > Le triangle de danger doit être visible à 50 mètres pour les conducteurs qui s’en approchent.
@@ -118,7 +118,7 @@
 ### Avant de rentrer dans un tunnel, il faut …
 
 - Ralentir.
-- **Vérifier le niveau du carburant.**
+- ***Vérifier le niveau du carburant.***
 - Enlever ses lunettes de soleil.
 
 > Dans un tunnel, une panne de carburant est considérée comme une négligence. Elle est sanctionnée par une amende.
@@ -133,7 +133,7 @@
 
 - 20km/h.
 - 30km/h.
-- **25km/h.**
+- ***25km/h.***
 
 > La vitesse maximale, lorsque vous remorquez un véhicule en panne, est de 25km/h.
 
@@ -147,7 +147,7 @@
 
 - 48 heures.
 - Il n'y a pas de limites.
-- **24 heures.**
+- ***24 heures.***
 
 > Un véhicule en panne ne peut pas rester plus de 24 heures sur la voie publique.
 

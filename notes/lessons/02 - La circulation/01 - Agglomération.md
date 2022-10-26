@@ -25,7 +25,7 @@
 
 ### Quelle est la vitesse maximale dans une agglomération en Flandre?
 
-- **50 km/h.**
+- ***50 km/h.***
 - 30 km/h.
 - 70 km/h.
 
@@ -39,7 +39,7 @@
 
 ### Vous roulez à 75 km/h dans une zone urbaine en Flandre, quelle est la conséquence de cette infraction ?
 
-- **Un retrait de permis.**
+- ***Un retrait de permis.***
 - Une amende.
 - Une déchéance.
 
@@ -53,7 +53,7 @@
 
 ### Quelle est la vitesse maximale hors agglomération à Bruxelles ?
 
-- **70 km/h.**
+- ***70 km/h.***
 - 50 km/h.
 - 90 km/h.
 
@@ -68,7 +68,7 @@
 ### Vous circulez hors agglomération en Flandre, après ce panneau quel est la vitesse maximale ?
 
 - 50 km/h.
-- **70 km/h.**
+- ***70 km/h.***
 - 90 km/h.
 
 > Ce panneau n'exerce aucune influence sur la limitation de vitesse. Hors agglomération en Flandre, la vitesse maximale est de 70 km/h.
@@ -81,7 +81,7 @@
 
 ### En agglomération, vous pouvez choisir la bande de circulation convenant le mieux à votre destination.
 
-- **Vrai.**
+- ***Vrai.***
 - Faux.
 
 > En agglomération, vous pouvez choisir la bande de circulation convenant le mieux à votre destination.
@@ -95,7 +95,7 @@
 ### Que signifie ce panneau ?
 
 - Début d'une zone résidentielle.
-- **Début d'une agglomération.**
+- ***Début d'une agglomération.***
 - Début d'une zone de rencontre.
 
 > Ce panneau indique le début d'une agglomération.
@@ -108,7 +108,7 @@
 
 ### Pouvez-vous remorquer un véhicule en panne lorsque vous êtes en agglomération ?
 
-- **Oui, c'est autorisé.**
+- ***Oui, c'est autorisé.***
 - Non, c'est interdit.
 
 > En agglomération, vous pouvez remorquer un autre véhicule. Mais vous devez rouler à maximum 25 km/h.
@@ -121,7 +121,7 @@
 
 ### Vous circulez hors agglomération en Wallonie, après ce panneau quel est la vitesse maximale autorisée ?
 
-- **50 km/h.**
+- ***50 km/h.***
 - 90 km/h.
 - 70 km/h.
 
@@ -137,7 +137,7 @@
 
 - 90 km/h.
 - 50 km/h.
-- **70 km/h.**
+- ***70 km/h.***
 
 > En Flandre, la vitesse est limitée à 70 km/h lorsque vous circulez hors agglomération.
 
@@ -150,7 +150,7 @@
 ### À partir de ce panneau, la vitesse est limitée à 30 km/h…
 
 - Jusqu'au prochain carrefour.
-- **Dans toute l'agglomération.**
+- ***Dans toute l'agglomération.***
 - Pendant 150 mètres.
 
 > Lorsqu’un panneau de limitation de vitesse à 30 km/h se trouve au-dessus d’un panneau indiquant le début d’une agglomération, alors vous devrez conduire à une vitesse maximale de 30 km/h dans toute l’agglomération. 
@@ -163,7 +163,7 @@
 
 ### Vous roulez à 115 km/h hors d'une zone urbaine en Wallonie, quelle est la conséquence de cette infraction ?
 
-- **Une amende.**
+- ***Une amende.***
 - Un retrait de permis.
 - Une déchéance.
 
@@ -179,7 +179,7 @@
 
 - Fin d'une zone résidentielle.
 - Fin d'une zone de rencontre.
-- **Fin d'une agglomération.**
+- ***Fin d'une agglomération.***
 
 > Ce panneau indique la fin d'une agglomération.
 
@@ -192,7 +192,7 @@
 ### Quelle est la vitesse maximale dans une agglomération en Wallonie ?
 
 - 30 km/h.
-- **50 km/h.**
+- ***50 km/h.***
 - 70 km/h.
 
 > En Wallonie, la vitesse est limitée à 50 km/h dans toute l'agglomération.
@@ -205,7 +205,7 @@
 
 ### Ce panneau, a-t-il une influence sur la limitation de vitesse ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 - Oui, si il est placé à ma droite.
 
@@ -219,7 +219,7 @@
 
 ### Quelle est la vitesse maximale hors agglomération en Wallonie ?
 
-- **90 km/h.**
+- ***90 km/h.***
 - 50 km/h.
 - 70 km/h.
 
@@ -234,7 +234,7 @@
 ### Quelle est la vitesse maximale dans une agglomération à Bruxelles ?
 
 - 70 km/h.
-- **30 km/h.**
+- ***30 km/h.***
 - 50 km/h.
 
 > À Bruxelles, la vitesse est limitée à 30 km/h dans toute l'agglomération.

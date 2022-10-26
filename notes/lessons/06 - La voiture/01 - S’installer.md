@@ -25,7 +25,7 @@
 ### La ceinture de sécurité est obligatoire …
 
 - Seulement pour les moins de 18 ans.
-- **Pour toutes les personnes présentes dans un véhicule.**
+- ***Pour toutes les personnes présentes dans un véhicule.***
 - Seulement pour les personnes assises à l'avant.
 
 > Tous les occupants d’une voiture doivent boucler leurs ceintures de sécurité. Par ailleurs, une voiture ne peut accueillir plus d’occupants que de nombre de ceintures disponibles.
@@ -39,7 +39,7 @@
 ### Un enfant de 12 ans qui mesure 1m55 …
 
 - Doit être transporter dans un dispositif de retenue pour enfant.
-- **Peut être transporté dans un dispositif de retenue pour enfant.**
+- ***Peut être transporté dans un dispositif de retenue pour enfant.***
 
 > Vous n'êtes pas obligé de transporter l'enfant dans un dispositif de retenue adapté. L'obligation est seulement pour les enfants de moins de 18 ans ET mesurant moins 1m35.
 
@@ -51,7 +51,7 @@
 
 ### Quelle est la largeur minimum du siège passager ?
 
-- **40 cm**
+- ***40 cm***
 - 50 cm
 - 45 cm
 
@@ -66,7 +66,7 @@
 ### Quelle est la largeur minimum de la banquette arrière ?
 
 - 145 cm
-- **135 cm**
+- ***135 cm***
 - 130 cm
 
 > La largeur de la banquette arrière est de minimum 135 cm.
@@ -79,7 +79,7 @@
 
 ### Vous décidez de transporter un bébé en le mettant à l'avant. Que devez-vous faire ?
 
-- **Désactiver l'airbag et le positionner dos à la route.**
+- ***Désactiver l'airbag et le positionner dos à la route.***
 - Le positionner dos à la route.
 - Désactiver l'airbag.
 
@@ -94,7 +94,7 @@
 ### Qu'est-ce qui détermine si un enfant doit s'asseoir dans un dispositif de retenue adapté ?
 
 - L'âge et le poids.
-- **L'âge et la taille.**
+- ***L'âge et la taille.***
 - La taille et le poids.
 
 > Le Code de la route impose de placer les enfants sur un système de retenue adapté (un siège enfant) s'ils ont moins de 18 ans et mesurant moins d'1m35.
@@ -108,7 +108,7 @@
 ### Si votre voiture comporte 4 ceintures de sécurité, combien de passagers pouvez-vous embarquer ?
 
 - 4 passagers.
-- **3 passagers.**
+- ***3 passagers.***
 - 2 passagers.
 
 > Une voiture ne peut accueillir plus d’occupants que de nombre de ceintures disponibles. 3 passagers + vous. 4 ceintures = 4 personnes.
@@ -122,7 +122,7 @@
 ### Une personne de petite taille de 24 ans qui mesure 1m30...
 
 - Peut être transporté dans un dispositif de retenue pour enfant.
-- **Doit juste porter sa ceinture de sécurité.**
+- ***Doit juste porter sa ceinture de sécurité.***
 - Doit être transporter dans un dispositif de retenue pour enfant.
 
 > Le Code de la route impose de placer les enfants sur un système de retenue adapté (un siège enfant) s'ils ont moins de 18 ans et mesurant moins d'1m35.
@@ -136,7 +136,7 @@
 ### Qui est dispensé de la ceinture de sécurité ?
 
 - Une personne de plus d'1m80.
-- **Une personne qui effectue une marche arrière.**
+- ***Une personne qui effectue une marche arrière.***
 - Une femme enceinte.
 
 > Une personne qui effectue une marche arrière est dispensé du port de la ceinture.
@@ -151,7 +151,7 @@
 
 - 40 cm
 - 45 cm
-- **55 cm**
+- ***55 cm***
 
 > La largeur du siège conducteur est de minimum 55 cm.
 
@@ -163,7 +163,7 @@
 
 ### Pour ne plus être obligé de transporter un enfant dans un dispositif de retenue, …
 
-- **Il faut qu'il mesure au moins 1m35.**
+- ***Il faut qu'il mesure au moins 1m35.***
 - Il faut qu'il mesure au moins 1m45.
 - Il faut qu'il mesure au moins 1m55.
 
@@ -177,7 +177,7 @@
 
 ### Un livreur de colis dot-il porter la ceinture de sécurité ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Votre livreur de colis n'est pas un agent de la poste ! Dès lors, il est obligé de porter sa ceinture de sécurité.
@@ -190,7 +190,7 @@
 
 ### Il faut tenir son volant en ayant les mains à …
 
-- **10h10 ou 9h15.**
+- ***10h10 ou 9h15.***
 - 10h10 ou 9h10.
 - 10h15 ou 9h15.
 
@@ -206,7 +206,7 @@
 
 - Doit juste porter sa ceinture de sécurité.
 - Peut être transporté dans un dispositif de retenue pour enfant.
-- **Doit être transporter dans un dispositif de retenue pour enfant.**
+- ***Doit être transporter dans un dispositif de retenue pour enfant.***
 
 > Le Code de la route impose de placer les enfants sur un système de retenue adapté (un siège enfant) s'ils ont moins de 18 ans et mesurant moins d'1m35.
 
@@ -218,7 +218,7 @@
 
 ### Pour ne plus être obligé de transporter un enfant dans un dispositif de retenue, …
 
-- **Il doit avoir au moins 18 ans.**
+- ***Il doit avoir au moins 18 ans.***
 - Il doit avoir au moins 16 ans.
 - Il doit avoir au moins 14 ans.
 

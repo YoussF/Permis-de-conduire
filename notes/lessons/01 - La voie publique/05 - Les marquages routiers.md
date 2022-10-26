@@ -33,7 +33,7 @@
 
 ### Pouvez-vous franchir ce marquage pour prendre la bande de circulation de gauche ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Lorsqu'une ligne continue et une ligne discontinue sont côte à côte, vous pouvez franchir la ligne discontinue uniquement si elle se trouve de votre côté. Ainsi, sur cette image, vous pouvez franchir la ligne.
@@ -47,7 +47,7 @@
 ### Vous pouvez franchir ce marquage routier ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Une ligne discontinue signifie qu'il est autorisé à tout conducteur de la franchir. Par exemple pour dépasser, tourner à gauche, effectuer un demi-tour ou pour changer de bande.
 
@@ -59,7 +59,7 @@
 
 ### Vous vous êtes trompé de direction. Pouvez-vous faire demi-tour immédiatement ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Aucune ligne continue au sol. Par conséquent, s’il s’agit d’un double sens de circulation, vous pouvez faire demi-tour.
@@ -73,7 +73,7 @@
 ### Pouvez-vous contourner cet îlot directionnel par la gauche ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Les îlots directionnels servent à canaliser la circulation dans un sens. Il faut toujours les contourner par la droite.
 
@@ -85,7 +85,7 @@
 
 ### Ces marquages au sol indiquent …
 
-- **Une zone d'évitement.**
+- ***Une zone d'évitement.***
 - Une bande réservée.
 - Une réduction des bandes de circulation.
 
@@ -100,7 +100,7 @@
 ### Pouvez-vous vous arrêter sur ces marquages pour laisser débarquer un ami ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Sur une zone d'évitement : il est interdit de circuler, s'arrêter et stationner.
 
@@ -112,7 +112,7 @@
 
 ### Vous allez à Liège. Devez-vous changer de bande de circulation ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Pour aller en direction de Liège, vous devez changer de bande de circulation et vous mettre sur la bande de circulation du milieu.
@@ -127,7 +127,7 @@
 
 - Pour dépasser.
 - Fluidifier le trafic en cas d'embouteillage.
-- **Tourner à droite sur les derniers mètres d'un carrefour.**
+- ***Tourner à droite sur les derniers mètres d'un carrefour.***
 
 > La bande de bus est réservée aux bus. Mais également, à ceux qui figurent sur un éventuel panneau additionnel (vélo, cyclomoteur, taxi…). Cependant, vous pouvez tout de même l’emprunter sur les derniers mètres d’un carrefour pour tourner.
 
@@ -140,7 +140,7 @@
 ### Ce panneau désigne …
 
 - Une bande de bus.
-- **Un site spécial franchissable.**
+- ***Un site spécial franchissable.***
 - Un arrêt de bus.
 
 > Ce panneau indique un site spéciale franchissable.
@@ -154,7 +154,7 @@
 ### Pouvez-vous traverser la ligne continue pour quitter l'autoroute ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Pour quitter l'autoroute, vous devez attendre. En effet, la ligne blanche continue de votre côté est toujours présente.
 
@@ -168,7 +168,7 @@
 
 - Vous empruntez la bande de BUS dès que possible.
 - Il est interdit d’emprunter la bande de BUS.
-- **Vous empruntez la bande de BUS quelques mètres avant le carrefour.**
+- ***Vous empruntez la bande de BUS quelques mètres avant le carrefour.***
 
 > Vous devez emprunter la bande de BUS à proximité du carrefour. C'est à dire, quelques mètres avant de tourner.
 
@@ -180,7 +180,7 @@
 
 ### En raison de travaux, des marquages orange ont été peints.
 
-- **Vous respectez les marquages de couleur orange.**
+- ***Vous respectez les marquages de couleur orange.***
 - Vous respectez les marquages de couleur blanche.
 
 > La signification des marquages provisoires orange est exactement la même que ceux de couleur blanche. En revanche, retenez que dès qu'il y a des lignes orange au sol, vous ne devez plus faire attention aux lignes blanches.
@@ -193,7 +193,7 @@
 
 ### Ces marquages au sol indiquent …
 
-- **Une réduction du nombre de bande de circulation.**
+- ***Une réduction du nombre de bande de circulation.***
 - Une obligation de tourner à droite.
 - Une zone d'évitement.
 
@@ -207,7 +207,7 @@
 
 ### Vous vous êtes trompé de direction. Pouvez-vous reprendre la bande de circulation de gauche ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Vous ne pouvez plus changer de bande de circulation. C'est trop tard. Vous êtes donc obligé d'aller tout droit ou de tourner à droite.
@@ -221,7 +221,7 @@
 ### Vous êtes bien placé pour …
 
 - Aller tout droit.
-- **Tourner à gauche.**
+- ***Tourner à gauche.***
 - Tourner à droite.
 
 > Vous devez choisir la bande de circulation qui convient le mieux à votre destination.
@@ -235,7 +235,7 @@
 ### Pouvez-vous franchir ce marquage routier ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Une ligne continue signifie qu’il est interdit à tout conducteur de la franchir.
 
@@ -248,7 +248,7 @@
 ### Les marquages blancs ont la même signification que les marquages orange.
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > La signification des marquages provisoires orange est exactement la même que ceux de couleur blanche. En revanche, retenez que dès qu'il y a des lignes orange au sol, vous ne devez plus faire attention aux lignes blanches.
 
@@ -260,7 +260,7 @@
 
 ### Vous pouvez franchir ce marquage routier (sur la droite) pour sortir.
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Lorsqu'une ligne continue et une ligne discontinue sont côte à côte, vous pouvez franchir la ligne discontinue uniquement si elle se trouve de votre côté. Ainsi, sur cette image, vous ne pouvez pas franchir la ligne.
@@ -274,7 +274,7 @@
 ### Ces marquages au sol indiquent …
 
 - Une bande suggérer.
-- **Une piste cyclable.**
+- ***Une piste cyclable.***
 - Un passage pour piétons.
 
 > La piste cyclable est délimitée par 2 lignes discontinues parallèles de couleur blanche.
@@ -287,7 +287,7 @@
 
 ### Pour aller tout droit, vous vous placez sur …
 
-- **La bande de droite.**
+- ***La bande de droite.***
 - La bande de gauche.
 
 > Vous devez choisir la bande de circulation qui convient le mieux à votre destination.
@@ -300,7 +300,7 @@
 
 ### Pouvez-vous franchir cette ligne blanche continue pour vous stationnez sur les emplacements de stationnement à droite ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Bien évidemment si votre garage se trouve de l'autre côté de la ligne continu ou que vous voulez vous stationner, vous pouvez la franchir.
@@ -313,7 +313,7 @@
 
 ### Vous désirez tourner à gauche.
 
-- **Vous devez vous mettre sur la bande de gauche.**
+- ***Vous devez vous mettre sur la bande de gauche.***
 - Vous avez le choix de la bande de circulation.
 
 > La règle de circulation de base dit que vous devez vous placer sur la bande de circulation qui correspond à votre destination. Dans ce cas, les flèches au sol indiquent que seule la bande de gauche permet de tourner à gauche.
@@ -326,7 +326,7 @@
 
 ### Sur cette image, où devez-vous vous arrêter ?
 
-- **à la première ligne blanche.**
+- ***à la première ligne blanche.***
 - à la deuxième ligne blanche.
 
 > Vous devez vous arrêter à la première ligne d’arrêt. En effet, la deuxième ligne est réservée aux cyclistes. 
@@ -340,7 +340,7 @@
 ### Une ligne blanche continue.
 
 - Vous pouvez la franchir pour faire demi-tour.
-- **Vous ne pouvez pas la franchir.**
+- ***Vous ne pouvez pas la franchir.***
 - Vous pouvez la franchir pour dépasser.
 
 > Une ligne continue signifie qu’il est interdit à tout conducteur de la franchir.

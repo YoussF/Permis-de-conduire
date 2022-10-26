@@ -25,7 +25,7 @@
 
 ### Sur cette photo, il est interdit de tourner à droite …
 
-- **Pour les véhicules dont la M.E.C. est supérieure à 3,5 t**
+- ***Pour les véhicules dont la M.E.C. est supérieure à 3,5 t***
 - Pour tous les véhicules.
 - Pour les véhicules dont la M.M.A. est supérieure à 3,5 t
 
@@ -39,7 +39,7 @@
 
 ### Avec votre permis B, pouvez-vous conduire un véhicule dont la M.M.A. est de 3900 kg ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Avec votre permis de conduire B provisoire ou définitif, vous pouvez conduire un véhicule dont la M.M.A est de maximum 3,5 tonnes (3500 kg) .
@@ -53,7 +53,7 @@
 ### Sur cette photo, la vitesse maximale de 70 km/h est pour les conducteurs de véhicules dont …
 
 - Dont la M.E.C. est supérieure à 3,5 t
-- **Dont la M.M.A. est supérieure à 3,5 t**
+- ***Dont la M.M.A. est supérieure à 3,5 t***
 - Tous les véhicules.
 
 > Les panneaux relatifs à la vitesse concernent la M.M.A.
@@ -67,7 +67,7 @@
 ### Sur cette photo, pouvez-vous tourner à droite ?
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Interdiction de tourner à droite au prochain carrefour, seulement pour les véhicules dont la M.E.C. excède 3,5 tonnes.
 
@@ -79,7 +79,7 @@
 
 ### Ce panneau concerne les véhicules …
 
-- **Dont la M.E.C. est supérieure à 3,5 t**
+- ***Dont la M.E.C. est supérieure à 3,5 t***
 - Tous les véhicules.
 - Dont la M.M.A. est supérieure à 3,5 t
 
@@ -93,7 +93,7 @@
 
 ### La M.M.A. d’une voiture est déterminée par ...
 
-- **Le constructeur.**
+- ***Le constructeur.***
 - Le revendeur.
 - L'acheteur.
 
@@ -108,7 +108,7 @@
 ### Avec votre permis B, vous pouvez conduire un véhicule comprenant maximum ...
 
 - 10 places passagers.
-- **8 places passagers.**
+- ***8 places passagers.***
 - 9 places passagers.
 
 > Avec votre permis de conduire B provisoire ou définitif, vous pouvez conduire véhicules comportant 8 places pour les passagers + le conducteur.
@@ -121,7 +121,7 @@
 
 ### Ce panneau concerne les véhicules …
 
-- **Dont la M.M.A. est supérieure à 3,5 t**
+- ***Dont la M.M.A. est supérieure à 3,5 t***
 - Dont la M.E.C. est supérieure à 3,5 t
 - Tous les véhicules.
 
@@ -135,7 +135,7 @@
 
 ### Avec votre permis de conduire B provisoire ou définitif, pouvez-vous conduire une camionnette ?
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Avec votre permis de conduire B provisoire ou définitif, vous pouvez conduire une camionnette, un minibus, une voiture mixte et une voiture.
@@ -149,7 +149,7 @@
 ### La M.M.A. d’une voiture (permis B) est de …
 
 - 4500 kg.
-- **3500 kg.**
+- ***3500 kg.***
 - 3000 kg.
 
 > La masse maximale autorisée d'une voiture de la catégorie B est de 3500 kg.
@@ -163,7 +163,7 @@
 ### Plus votre voiture est petite, plus la M.M.A. est basse.
 
 - Faux.
-- **Vrai.**
+- ***Vrai.***
 
 > La M.M.A. dépend de la taille de votre voiture. Plus la voiture est petite, plus la M.M.A. est basse. Plus la voiture est grande, plus la M.M.A. est élevée.
 
@@ -175,7 +175,7 @@
 
 ### Avec votre permis B, vous conduisez une voiture dont la M.M.A. est de 2500 kg. Vous pouvez alors tracter une remorque avec une M.M.A. de maximum …
 
-- **1000 kg.**
+- ***1000 kg.***
 - 750 kg.
 - 1250 kg.
 
@@ -189,7 +189,7 @@
 
 ### La M.E.C. (masse en charge), c'est …
 
-- **La tare du véhicule + ses occupants + son chargement.**
+- ***La tare du véhicule + ses occupants + son chargement.***
 - La tare du véhicule + son chargement.
 - La tare du véhicule + ses occupants.
 
@@ -203,7 +203,7 @@
 
 ### Ce panneau concerne les véhicules …
 
-- **Dont la M.E.C. est supérieure à 3,5 t**
+- ***Dont la M.E.C. est supérieure à 3,5 t***
 - Tous les véhicules.
 - Dont la M.M.A. est supérieure à 3,5 t
 
@@ -218,7 +218,7 @@
 ### Avec votre permis de conduire B provisoire, pouvez-vous conduire un véhicule avec une remorque ?
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Avec votre permis de conduire B provisoire, vous ne pouvez pas conduire un véhicule muni d'une remorque.
 
@@ -230,7 +230,7 @@
 
 ### Cette combinaison de panneau concerne les véhicule …
 
-- **Dont la M.M.A. est supérieure à 3,5 t**
+- ***Dont la M.M.A. est supérieure à 3,5 t***
 - Dont la M.E.C. est supérieure à 3,5 t
 - Tous les véhicules.
 

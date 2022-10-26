@@ -57,7 +57,7 @@
 
 ### Au-delà de ce panneau, devez-vous céder le passage aux conducteurs venant en sens inverse ?
 
-- **Oui**
+- ***Oui***
 - Non
 
 > Ce panneau de priorité vous indique que vous devez céder la priorité de passage.
@@ -70,7 +70,7 @@
 
 ### Pouvez-vous dépasser une motocyclette sur un passage à niveau muni de feu et de barrières ?
 
-- **Oui**
+- ***Oui***
 - Non, seulement les cyclistes.
 
 > Sur un passage à niveau muni de feux et de barrières, vous pouvez dépasser tout le monde: une voiture, une motocyclette, un camion, un cyclistes, un bus.
@@ -83,7 +83,7 @@
 
 ### Après quel panneau pouvez-vous dépasser un cycliste par la gauche ?
 
-- **Panneau 1 et 2**
+- ***Panneau 1 et 2***
 - Panneau 2
 - Panneau 1
 
@@ -98,7 +98,7 @@
 ### La voiture mauve veut tourner à gauche. La voiture jaune est-elle autorisée à dépasser la voiture mauve par la droite ?
 
 - Non
-- **Oui**
+- ***Oui***
 - Oui, seulement si la voiture mauve est à l'arrêt
 
 > Il est autorisé de dépasser par la droite lorsque le véhicule à dépasser (voiture mauve) a serré à gauche pour tourner à gauche.
@@ -111,7 +111,7 @@
 
 ### Pouvez-vous rouler sur l’accotement pour croiser plus facilement un autre véhicule ?
 
-- **Oui sur l'accotement de plain-pied**
+- ***Oui sur l'accotement de plain-pied***
 - Non
 - Oui sur tout accotement
 
@@ -126,7 +126,7 @@
 ### La voiture mauve peut-elle dépasser la voiture jaune par la droite ?
 
 - Non
-- **Oui**
+- ***Oui***
 - Oui, seulement si la voiture jaune est lente.
 
 > Le fait qu'un véhicule qui circule plus rapidement, sur une bande qui convient à sa destination, qu'un autre véhicule ne constitue pas un dépassement. Les règles relatives au dépassement obligatoire par la gauche ne s'appliquent donc pas.
@@ -139,7 +139,7 @@
 
 ### Vous êtes en agglomération. Pouvez-vous dépasser ce bus ?
 
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 - Oui, car vous êtes en agglomération.
 - Oui, car il y a un espace suffisant.
 
@@ -154,7 +154,7 @@
 ### Hors de la ville, vous devez maintenir une distance latérale de sécurité de 2,5 mètres lorsque vous dépassez un cyclomoteur ?
 
 - Vrai
-- **Faux**
+- ***Faux***
 
 > Hors agglomération, vous devez laisser une distance latérale de 1,5 mètres pour dépasser un cycliste ou un cyclomoteur à deux-roues.
 
@@ -168,7 +168,7 @@
 
 - 1,5 mètre.
 - 1 mètre.
-- **Une distance suffisante**
+- ***Une distance suffisante***
 
 > En cas de croisement, vous devez laisser libre une distance latérale suffisante et au besoin serrer à droite.
 
@@ -182,7 +182,7 @@
 
 - Oui, seulement si la voiture grise est lente.
 - Non
-- **Oui**
+- ***Oui***
 
 > Le feu est vert, rien n'interdit le dépassement.
 
@@ -195,7 +195,7 @@
 ### Aucun conducteur ne vient en en sens inverse. Pouvez-vous continuer votre route ?
 
 - Oui, car vous avez la priorité
-- **Oui, car la voie est libre**
+- ***Oui, car la voie est libre***
 - Non, vous devez marquer l'arrêt
 
 > Même si vous devez céder le passage, la voie est libre. Vous pouvez donc continuer votre route sans marquer l'arrêt.
@@ -210,7 +210,7 @@
 
 - Oui, car il s'est arrêté
 - Oui, car ce panneau me donne la priorité
-- **Non**
+- ***Non***
 
 > Même si la voiture venant en sens inverse s'arrête, elle ne perd pas sa priorité et vous devez lui céder le passage.
 
@@ -224,7 +224,7 @@
 
 - Mettre le clignotant
 - Vérifier l'angle mort
-- **Vérifier le rétroviseur**
+- ***Vérifier le rétroviseur***
 
 > Avant d'utiliser votre clignotant, vous devez d'abord vérifier votre rétroviseur pour effectuer un dépassement.
 
@@ -237,7 +237,7 @@
 ### Vous êtes au volant de votre voiture sur l'autoroute. Les véhicules à votre gauche et droite circulent à 100km/h. Pouvez-vous dépasser la voiture blanche par la gauche ?
 
 - Oui, seulement si vous utilisez votre clignotant
-- **Non**
+- ***Non***
 - Oui
 
 > En dépassant la voiture blanche, vous risquez de dépasser aussi la voiture noire par la droite. Le dépassement par la droite est interdit sur l'autoroute. Vous devez attendre que la voiture noire se rabatte à droite.
@@ -252,7 +252,7 @@
 
 - Un signal d’obligation
 - Un signal d’interdiction
-- **Un signal relatif à la priorité**
+- ***Un signal relatif à la priorité***
 
 > Ce sont bien des panneaux relatif à la priorité. En l’occurrence, au-delà de ces panneaux, vous devez marquer l'arrêt et céder le passage.
 
@@ -264,7 +264,7 @@
 
 ### Ce véhicule est garé sur la chaussée. Avez-vous la priorité de passage si un véhicule vient en sens inverse ?
 
-- **Vous devez céder le passage aux conducteurs venant en sens inverse.**
+- ***Vous devez céder le passage aux conducteurs venant en sens inverse.***
 - Les conducteurs venant en sens inverse doivent vous céder le passage.
 
 > Le véhicule garé se trouve de votre côté de la chaussée, votre route est entravé. Vous devez donc céder le passage.
@@ -277,7 +277,7 @@
 
 ### Quel conducteur a priorité lors d’un rétrécissement de la chaussée ?
 
-- **Le conducteur face au panneau bleu.**
+- ***Le conducteur face au panneau bleu.***
 - Le conducteur face au panneau rouge.
 - Le premier conducteur arrivé au passage
 
@@ -292,7 +292,7 @@
 ### Que signifie ce panneau ?
 
 - Obligation d'aller tout droit.
-- **Voie à sens unique.**
+- ***Voie à sens unique.***
 - Accès d'autoroute
 
 > Ce panneau d'indication vous indique que vous circulez sur une voie à sens unique.
@@ -305,7 +305,7 @@
 
 ### Dans une agglomération, quelle distance latérale de sécurité devez-vous laisser si vous voulez dépasser un cycliste par la gauche ?
 
-- **1 mètre**
+- ***1 mètre***
 - 1,5 mètre
 - 0,5 mètre
 
@@ -321,7 +321,7 @@
 
 - Non
 - Non, seulement par la droite
-- **Oui**
+- ***Oui***
 
 > Ce panneau interdit seulement les camions (MMA supérieur à 3,5t) à dépasser par la gauche un véhicule attelé ou un véhicule à plus de 2 roues. Avec votre voiture, vous pouvez bien sûr dépasser un camion par la gauche.
 
@@ -335,7 +335,7 @@
 
 - Non
 - Oui, seulement si la moto est lente.
-- **Oui**
+- ***Oui***
 
 > Malgré qu'il soit interdit de dépasser à l'approche du sommet d'une côte et dans les virages où la visibilité est insuffisante, le dépassement est autorisé si la chaussée est divisée en bande de circulation.
 
@@ -349,7 +349,7 @@
 
 - Non
 - Non, seulement par la droite
-- **Oui**
+- ***Oui***
 
 > Ce panneau interdit seulement les camions (MMA supérieur à 3,5t) à dépasser par la gauche un véhicule attelé ou un véhicule à plus de 2 roues. Avec votre voiture, vous pouvez bien sûr dépasser un camion par la gauche.
 
@@ -362,7 +362,7 @@
 ### Le chauffeur de bus est à l'arrêt pour faire descendre ou monter des enfants. Pouvez-vous le dépasser ?
 
 - Non, c'est interdit
-- **Oui, c'est autorisé.**
+- ***Oui, c'est autorisé.***
 
 > Vous pouvez dépasser ce bus seulement à vitesse modérée.
 
@@ -375,7 +375,7 @@
 ### À l'approche de ce carrefour, pouvez-vous dépasser une moto ?
 
 - Oui, seulement une moto
-- **Oui, tous les usagers**
+- ***Oui, tous les usagers***
 - Non, c'est interdit.
 
 > À l'approche d'un carrefour prioritaire, vous pouvez dépasser tout le monde: une voiture, une motocyclette, un camion, un cyclistes, un bus.
@@ -390,7 +390,7 @@
 
 - Oui, tous les usagers
 - Oui, seulement une moto
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 
 > Il est interdit de dépasser tous conducteurs, sauf un cycliste, à l'approche d'un carrefour à priorité de droite.
 
@@ -402,7 +402,7 @@
 
 ### En agglomération, la voiture jaune peut-elle dépasser la voiture grise par la droite ?
 
-- **Oui**
+- ***Oui***
 - Non
 
 > Dans une agglomération, les conducteurs peuvent emprunter la bande qui convient le mieux leur destination: Sur une chaussée à sens unique divisée en bandes de circulation, sur une chaussée à deux sens de circulation divisées en quatre de circulation ou plus, dont deux au moins sont destinées à chaque sens de circulation (2x2 bandes comme sur l’image). Dans ce cas, un véhicule peut dépasser par la droite un autre véhicule. Les règles relatives au dépassement obligatoire par la gauche ne s'appliquent donc pas.
@@ -415,7 +415,7 @@
 
 ### Sur l'autoroute, la circulation est dense. Est-il autorisé de dépasser un véhicule par la droite ?
 
-- **Oui, car il y a des embouteillages.**
+- ***Oui, car il y a des embouteillages.***
 - Non, il est interdit de dépasser par la droite sur l'autoroute
 
 > Lorsque vous êtes confrontés à des embouteillages, le dépassement ne sera pas pris en compte si une file circule plus vite que l’autre. Vous pouvez donc dépasser par la droite.
@@ -430,7 +430,7 @@
 
 - Non, seulement par la droite
 - Non
-- **Oui**
+- ***Oui***
 
 > Vous avez la priorité sur les prochains carrefours, vous pouvez donc dépasser un véhicule tout en restant vigilant.
 
@@ -443,7 +443,7 @@
 ### Ces deux véhicules se croisent-ils correctement ?
 
 - Oui
-- **Non**
+- ***Non***
 
 > Lorsqu'il n'y a pas de flèches au sol, le croisement se fait toujours par la droite (passer derrière l'autre véhicule).
 
@@ -457,7 +457,7 @@
 
 - Non
 - Non, seulement par la droite
-- **Oui**
+- ***Oui***
 
 > Le dépassement par la gauche est encore autorisé. Il sera interdit dans 200 mètres.
 
@@ -470,7 +470,7 @@
 ### Le conducteur de la voiture jaune ne voit pas de piétons. Peut-il dépasser la voiture mauve ?
 
 - Oui
-- **Non**
+- ***Non***
 - Non, seulement par la droite
 
 > Il est interdit de dépasser lorsque le conducteur à dépasser s'approche ou s'arrête devant un passage pour piétons ou un passage pour cyclistes.
@@ -484,7 +484,7 @@
 ### Qui doit céder le passage ?
 
 - La voiture jaune.
-- **La voiture grise.**
+- ***La voiture grise.***
 
 > La route de la voiture grise est entravée. Elle doit donc céder le passage.
 
@@ -498,7 +498,7 @@
 
 - Non, seulement par la droite
 - Oui
-- **Non**
+- ***Non***
 
 > Ce panneau interdit un conducteur de dépasser par la gauche un véhicule attelé ou un véhicule à plus de 2 roues. La moto est aussi considérée comme un conducteur.
 
@@ -510,7 +510,7 @@
 
 ### Pouvez-vous circuler sur la partie de la voie publique réservée au stationnement pour croiser plus facilement un autre véhicule ?
 
-- **Oui, si besoin.**
+- ***Oui, si besoin.***
 - Oui, c'est obligatoire.
 - Non.
 
@@ -526,7 +526,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 ### Vous êtes au volant de votre voiture. Au-delà de ce panneau, quel conducteur pouvez-vous dépasser ?
 
-- **Une motocyclette**
+- ***Une motocyclette***
 - Une voiture
 - Les deux
 
@@ -541,7 +541,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 ### Que signifie ce panneau ?
 
 - Interdiction de dépasser par la gauche.
-- **Une voiture peut dépasser une moto par la gauche.**
+- ***Une voiture peut dépasser une moto par la gauche.***
 - Une moto peut dépasser une voiture par la gauche.
 
 > Ce panneau interdit un conducteur de dépasser par la gauche un véhicule attelé ou un véhicule à plus de 2 roues. La moto n'a que 2 roues, vous pouvez donc la dépasser.
@@ -554,7 +554,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 ### La voiture mauve peut-elle dépasser la voiture jaune par la gauche ?
 
-- **Oui**
+- ***Oui***
 - Non
 
 > Aucune règle, ni panneau n'interdit le dépassement dans cette situation
@@ -568,7 +568,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 ### Pouvez-vous dépasser une motocyclette sur un passage à niveau sans feu ni barrières ?
 
 - Oui
-- **Non**
+- ***Non***
 
 > Sur un passage à niveau sans feu ni barrières, vous pouvez seulement dépasser les cyclistes.
 
@@ -582,7 +582,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 - Oui
 - Oui seulement si le passage de cycliste a l'air libre.
-- **Non, c'est interdit.**
+- ***Non, c'est interdit.***
 
 > Il est interdit de dépasser lorsque le conducteur à dépasser s'approche ou s'arrête devant un passage pour piétons ou un passage pour cyclistes.
 
@@ -595,7 +595,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 ### Comment doivent se croiser ces véhicules ?
 
 - Peu importe
-- **Se croiser par la gauche.**
+- ***Se croiser par la gauche.***
 - Se croiser par la droite.
 
 > Lorsqu'il a des flèches au sol, le croisement se fait toujours par la gauche, en suivant les flèches au sol.
@@ -609,7 +609,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 ### Vous êtes hors agglomération. Pouvez-vous utiliser votre klaxon pour un dépassement ?
 
 - Non, c'est interdit.
-- **Oui, seulement en journée**
+- ***Oui, seulement en journée***
 - Oui, en journée et le soir
 
 > Pour dépasser un véhicule, vous pouvez utiliser votre klaxon seulement en journée. Il est interdit d'utiliser le klaxon le soir. En revanche, vous pouvez utiliser les appels de phares.
@@ -623,7 +623,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 ### Vous circulez sur cette chaussée à 2 sens de circulation. Vous vous approchez d'une forte inclinaison. Pouvez-dépasser un véhicule ?
 
 - Oui
-- **Non**
+- ***Non***
 
 > Il est interdit de dépasser à l'approche du sommet d'une côte et dans les virages où la visibilité est insuffisante. Sauf si la chaussée comporte 2 bandes pour chaque sens de circulation.
 
@@ -635,7 +635,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 ### Que signifie ce panneau ?
 
-- **Les conducteurs venant en sens inverse doivent vous céder le passage.**
+- ***Les conducteurs venant en sens inverse doivent vous céder le passage.***
 - Vous devez céder le passage aux conducteurs venant en sens inverse.
 
 > Ce panneau de priorité vous indique que vous avez la priorité de passage.
@@ -648,7 +648,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 ### Au-delà de ce panneau, pouvez-vous avec votre voiture dépasser un animal attelé (avec une charrette) par la gauche ?
 
-- **Non**
+- ***Non***
 - Non, seulement par la droite
 - Oui
 
@@ -662,7 +662,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 ### Pouvez-vous croiser un tram par la gauche ?
 
-- **Oui, seulement sans gêner les autres usagers**
+- ***Oui, seulement sans gêner les autres usagers***
 - Oui
 - Non
 
@@ -678,7 +678,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 - Vous devez donner la priorité aux conducteurs venant de l’autre sens.
 - Chaussée à deux voies
-- **La circulation est autorisée dans les deux sens après une chaussée à sens unique.**
+- ***La circulation est autorisée dans les deux sens après une chaussée à sens unique.***
 
 > Ce panneau indique qu'il y a eu un changement de circulation et que dorénavant, la circulation est autorisée dans les deux sens après une chaussée à sens unique.
 
@@ -690,7 +690,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 ### Hors agglomération, quelle distance latérale de sécurité devez-vous laisser si vous voulez dépasser un cycliste par la gauche ?
 
-- **1,5 mètres**
+- ***1,5 mètres***
 - 1 mètre
 - 0,5 mètre
 
@@ -706,7 +706,7 @@ Il sert essentiellement à l’arrêt et au stationnement. Cependant, vous pouve
 
 - Tirette
 - Redoubler
-- **Tripler**
+- ***Tripler***
 
 > En effet, tripler est le fait de dépasser une voiture, qui elle-même dépasse une autre voiture.
 

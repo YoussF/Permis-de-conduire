@@ -39,7 +39,7 @@
 
 ### Sur route pour automobiles, la vitesse minimale est de …
 
-- **Pas de vitesse minimale.**
+- ***Pas de vitesse minimale.***
 - 50 km/h.
 - 70 km/h.
 
@@ -54,7 +54,7 @@
 ### Cette limitation de vitesse est valable …
 
 - Dans toute l'agglomération.
-- **Jusqu'au prochain carrefour.**
+- ***Jusqu'au prochain carrefour.***
 - Jusqu'à rencontrer un panneau de fin d'interdiction.
 
 > Si vous rencontrez un panneau agglomération au-dessus duquel se trouve un panneau de limitation de vitesse, alors cette limitation de vitesse est applicable jusqu'au prochain carrefour. En effet, seul le panneau 30 est valable dans toute l'agglomération.
@@ -67,7 +67,7 @@
 
 ### Après ce panneau, la vitesse est limitée à …
 
-- **20 km/h.**
+- ***20 km/h.***
 - Allure du pas.
 - 30 km/h.
 
@@ -81,7 +81,7 @@
 
 ### à partir de ce panneau, la vitesse est limitée à …
 
-- **30 km/h.**
+- ***30 km/h.***
 - 50 km/h.
 - 20 km/h.
 
@@ -95,7 +95,7 @@
 
 ### Dans cette agglomération, la vitesse est limitée à …
 
-- **30 km/h.**
+- ***30 km/h.***
 - 50 km/h.
 - 70 km/h.
 
@@ -109,7 +109,7 @@
 
 ### Cette limitation de vitesse est valable …
 
-- **Dans toute l'agglomération.**
+- ***Dans toute l'agglomération.***
 - Jusqu'à rencontrer un panneau de fin d'interdiction.
 - Jusqu'au prochain carrefour.
 
@@ -124,7 +124,7 @@
 ### Vous continuez tout droit sur l'autoroute. Vous ne dépassez pas …
 
 - 90 km/h.
-- **120 km/h.**
+- ***120 km/h.***
 - 70 km/h.
 
 > Ce panneau à droite est destiné aux véhicules qui désirent quitter l'autoroute. Dans ce cas, vous allez tout droit et vous circulez sur autoroute. Par conséquent, la limitation de vitesse est de 120 km/h.
@@ -139,7 +139,7 @@
 
 - 30 km/h.
 - 70 km/h.
-- **50 km/h.**
+- ***50 km/h.***
 
 > En agglomération, en Flandre et en Wallonie, la vitesse est limité à 50 km/h.
 
@@ -151,7 +151,7 @@
 
 ### Sur autoroute, la vitesse minimale est de …
 
-- **70 km/h.**
+- ***70 km/h.***
 - Pas de vitesse minimale.
 - 50 km/h.
 
@@ -165,7 +165,7 @@
 
 ### Cette limitation de vitesse imposée par ce panneau est valable ...
 
-- **Jusqu'au prochain carrefour.**
+- ***Jusqu'au prochain carrefour.***
 - Dans toute l'agglomération.
 - Jusqu'à rencontrer un nouveau panneau.
 
@@ -180,7 +180,7 @@
 ### Ce panneau limite la vitesse à 50 km/h.
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Ce panneau indique seulement la frontière entre 2 communes. Par conséquent, il n'a aucune influence sur la vitesse.
 
@@ -194,7 +194,7 @@
 
 - 90 km/h.
 - 120 km/h.
-- **70 km/h.**
+- ***70 km/h.***
 
 > Hors agglomération (hors zone urbaine), la vitesse maximale autorisée est de 70 km/h en Flandre et à Bruxelles.
 
@@ -208,7 +208,7 @@
 
 - 70 km/h.
 - 30 km/h.
-- **50 km/h.**
+- ***50 km/h.***
 
 > ATTENTION : On parle de vitesse en deçà (avant) de ce panneau. Par conséquent, vous êtes en agglomération avant ce panneau et la vitesse en agglomération est de 50 km/h en Flandre. 
 
@@ -221,7 +221,7 @@
 ### Au-delà de ce panneau, vous devez rouler à une vitesse minimale de 70 km/h.
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Au-delà du panneau route pour automobiles, il n'y a pas de vitesse minimale. En revanche, il y a une vitesse maximale de 50 km/h.
 
@@ -233,7 +233,7 @@
 
 ### Après ce panneau, votre vitesse est limitée à … 
 
-- **120 km/h.**
+- ***120 km/h.***
 - 130 km/h.
 - 100 km/h.
 
@@ -247,7 +247,7 @@
 
 ### Le panneau additionnel 300 m s'applique …
 
-- **Aux signaux concernant la vitesse.**
+- ***Aux signaux concernant la vitesse.***
 - Aux signaux concernant le dépassement.
 - Aux 3 signaux.
 
@@ -263,7 +263,7 @@
 
 - 100 km/h.
 - 70 km/h.
-- **90 km/h.**
+- ***90 km/h.***
 
 > Sauf indication contraire, la vitesse hors agglomération en Wallonie est de 90 km/h. (Notez que hors agglomération en Flandre et à Bruxelles, la vitesse est de 70 km/h).
 
@@ -276,7 +276,7 @@
 ### Sur cette route à 4 bandes située en dehors de l'agglomération, vous pouvez rouler à 120 km/h.
 
 - Oui.
-- **Non.**
+- ***Non.***
 
 > Pour pouvoir rouler à 120 km/h, il faut une route à 4 bandes (2 bandes qui vont dans un sens et 2 autres bandes dans l'autre sens) séparée par une berme centrale.
 
@@ -289,7 +289,7 @@
 ### Vous êtes sur route ordinaire en Wallonie. La vitesse est limitée à …
 
 - 120 km/h.
-- **90 km/h.**
+- ***90 km/h.***
 - 70 km/h.
 
 > Hors agglomération, la vitesse maximale autorisée est de 90 km/h en Wallonie.
@@ -302,7 +302,7 @@
 
 ### Cette limitation de vitesse concerne …
 
-- **Les véhicules dont la M.M.A dépasse 3,5 T.**
+- ***Les véhicules dont la M.M.A dépasse 3,5 T.***
 - Tous les véhicules.
 - Les camions dont la M.M.A dépasse 3,5 T.
 
@@ -317,7 +317,7 @@
 ### Vous quittez l'autoroute. Vous ralentissez …
 
 - Avant de sortir.
-- **Sur la voie de sortie.**
+- ***Sur la voie de sortie.***
 
 > Vous devez ralentir sur la voie de sortie, jamais avant.
 
@@ -329,7 +329,7 @@
 
 ### Sur route pour automobiles séparée par une berme centrale, la vitesse est limitée à 120 km/h.
 
-- **Oui.**
+- ***Oui.***
 - Non.
 
 > Lorsqu'une berme centrale sépare les 2 sens de circulation, vous pouvez rouler jusqu'à 120 km/h.
@@ -342,7 +342,7 @@
 
 ### Vous êtes à Bruxelles. À partir de ce panneau, vous pouvez rouler à 50 km/h.
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Le panneau est à votre gauche. Par conséquent, il ne vous concerne pas. Vous devez donc rouler à 30 km/h (agglomération bruxelloise).
@@ -357,7 +357,7 @@
 
 - Jusqu'à rencontrer un panneau indiquant une autre limitation de vitesse.
 - Jusqu'au prochain carrefour.
-- **Jusqu'à rencontrer un panneau indiquant la fin de zone.**
+- ***Jusqu'à rencontrer un panneau indiquant la fin de zone.***
 
 > Une zone 30 reste d'application jusqu'au panneau fin de zone 30
 
@@ -371,7 +371,7 @@
 
 - 30 km/h.
 - 20 km/h.
-- **50 km/h.**
+- ***50 km/h.***
 
 > Sur un dispositif surélevé, la vitesse maximale est de 30 km/h. En revanche, ici on parle de la vitesse maximale APRES avoir franchi le ralentisseur. Par conséquent, vous êtes limité à 50 km/h en agglomération.
 
@@ -383,7 +383,7 @@
 
 ### Pouvez-vous rouler à 60 km/h en deçà de ce panneau ?
 
-- **Non.**
+- ***Non.***
 - Oui.
 
 > Hors agglomération, la vitesse est limitée à 70 km/h en Flandre et à Bruxelles et 90 km/h en Wallonie. Dans ce cas présent, on parle de vitesse en deçà (avant) du panneau. Par conséquent, la limitation de vitesse est de 50 km/h (avant le panneau, vous êtes en agglomération).
@@ -397,7 +397,7 @@
 ### Sur cette autoroute, la vitesse maximale autorisée est de … 
 
 - 70 km/h.
-- **90 km/h.**
+- ***90 km/h.***
 - 120 km/h.
 
 > Sur cette autoroute, la vitesse est limitée à 90km/h et de 70 km/h pour les véhicules dont la M.M.A est supérieur à 3,5t. 
@@ -412,7 +412,7 @@
 
 - 30 km/h
 - 20 km/h.
-- **25 km/h.**
+- ***25 km/h.***
 
 > La vitesse maximale lors d'un remorquage est de 25 km/h.
 
@@ -425,7 +425,7 @@
 ### Vous roulez en agglomération bruxelloise. La vitesse maximale autorisée est de …
 
 - 50 km/h.
-- **30 km/h.**
+- ***30 km/h.***
 - 20 km/h.
 
 > Depuis le 1 janvier 2021, à Bruxelles, la zone 30 généralisée est d'application. Par conséquent, méfiez-vous. Vous devez rouler à 30 km/h partout sauf indication contraire.
@@ -439,7 +439,7 @@
 ### Sur cette route située hors agglomération, vous pouvez rouler à 120 km/h.
 
 - Non.
-- **Oui.**
+- ***Oui.***
 
 > Vous pouvez circuler à 120 km/h. En effet, on observe une route à 4 bandes de circulation séparée par une séparation physique.
 
